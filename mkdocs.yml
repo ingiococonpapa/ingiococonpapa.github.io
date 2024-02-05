@@ -53,11 +53,6 @@ markdown_extensions:
 
 # Plugins
 plugins:
-  - search:
-      lang: it
-  - table-reader
-  - minify:
-      minify_html: true
   - awesome-pages
   - social:
       cards: !ENV [CI, false]
