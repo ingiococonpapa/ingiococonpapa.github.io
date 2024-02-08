@@ -1,6 +1,3 @@
-# 2050x - Spazio Formazione Attivisti++
-
-sito open source https://2050x.org
 
 ## Commands
 
@@ -19,4 +16,4 @@ check veresion:
 `pip3 show mkdocs-material`
 
 ## Copyright
-This site and all its contents are Copyright by Stefano Cecere and team 2050x and licensed under [CC BY NC SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
+This site and all its contents are licensed under [CC BY NC SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
