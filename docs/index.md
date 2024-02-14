@@ -14,9 +14,8 @@ Giornata di gioco e sensibilizzazione rivolta a bambini e ragazzi dai 5 ai 18 an
 **Comitato Organizzativo**  
 Gianluca Daffi, Gabriele Mari, Stefano Cecere, Jennifer Francioli, Emanuele Cristallo, Michela Savoldi, Marcella Scutra, Fausto
 
-## Contatti per partecipare
-
-Compilare questa 👉🏼 [Form di contatto](https://forms.gle/jHMDSRyyoLyGsMvv7)
+## Contatti
+Per partecipare o proporre di organizzare una nuova città, compilare questa 👉🏼 [Form di contatto](https://forms.gle/jHMDSRyyoLyGsMvv7)
 
 ## Presentazione
 Le persone con difficoltà del comportamento possono affrontare una serie di sfide che vanno oltre le difficoltà cognitive e comportamentali.  
@@ -159,5 +158,7 @@ Referente: Gabriele Mari
 Da scaricare e stampare
 
 - :fontawesome-solid-book: [Volantino Canva]([./assets/pdf/volantino-papaingioco-17marzo2024.pdf](https://www.canva.com/design/DAF7qEQOsv4/RMtEhlKL-4U2PzKCOhl5Nw/edit))<br> personalizzabile con luogo e orari del proprio evento
+
+- :fontawesome-solid-envelope: [Form di contatto](https://forms.gle/jHMDSRyyoLyGsMvv7)
 
 </div>
