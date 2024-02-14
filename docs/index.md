@@ -128,6 +128,10 @@ Per i bambini e i ragazzi con ADHD, poi, i giochi sono ancor più importanti, pe
 
 ## Città
 
+### Bergamo
+Presso  
+Referente: 
+
 ### Brescia
 Presso  
 Referente: Gianluca Daffi
@@ -148,7 +152,7 @@ Referente: Emanuele Cristallo
 Presso  
 Referente: Gabriele Mari 
 
-## Materiali da scaricare
+## Materiali da scaricare
 
 <div class="grid cards" markdown>
 - :fontawesome-solid-book: [Brochure](https://docs.google.com/document/d/1TXcsv-yJk83hm7wxReEv1-4jajmx7DY-D52HlnLGxyE/edit)
@@ -157,7 +161,7 @@ Referente: Gabriele Mari
 - :fontawesome-solid-book: [Volantino](./assets/pdf/volantino-papaingioco-17marzo2024.pdf)<br>
 Da scaricare e stampare
 
-- :fontawesome-solid-book: [Volantino Canva]([./assets/pdf/volantino-papaingioco-17marzo2024.pdf](https://www.canva.com/design/DAF7qEQOsv4/RMtEhlKL-4U2PzKCOhl5Nw/edit))<br> personalizzabile con luogo e orari del proprio evento
+- :fontawesome-solid-book: [Volantino Canva](https://www.canva.com/design/DAF7qEQOsv4/RMtEhlKL-4U2PzKCOhl5Nw/edit)<br> personalizzabile con luogo e orari del proprio evento
 
 - :fontawesome-solid-envelope: [Form di contatto](https://forms.gle/jHMDSRyyoLyGsMvv7)
 
