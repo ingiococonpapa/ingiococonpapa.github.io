@@ -15,7 +15,7 @@ Giornata di gioco e sensibilizzazione rivolta a bambini e ragazzi dai 5 ai 18 an
 Gianluca Daffi, Gabriele Mari, Stefano Cecere, Jennifer Francioli, Emanuele Cristallo, Michela Savoldi, Marcella Scutra, Fausto
 
 ## Contatti
-Per partecipare o proporre di organizzare una nuova città, compilare questa 👉🏼 [Form di contatto](https://forms.gle/jHMDSRyyoLyGsMvv7)
+Per partecipare o proporre di organizzare una nuova città, compilare questa [Form di contatto :fontawesome-solid-paper-plane:](https://forms.gle/jHMDSRyyoLyGsMvv7){ .md-button .md-button--primary }
 
 ---
 ## Calendario
@@ -184,3 +184,10 @@ Referente: Emanuele Cristallo
 ### Ravenna
 Presso  
 Referente: Gabriele Mari 
+
+## Condivisione
+Ovviamente siete liberi anzi incoraggiati a condividere questa iniziativa.
+Basta condividere questo link [ingiococonpapa.github.io](https://ingiococonpapa.github.io) o usare questa immagine nei sociale media:
+
+![in gioco con papà](assets/img/header.png)
+
