@@ -17,6 +17,8 @@ Gianluca Daffi, Gabriele Mari, Stefano Cecere, Jennifer Francioli, Emanuele Cris
 ## Contatti
 Per partecipare o proporre di organizzare una nuova città, compilare questa 👉🏼 [Form di contatto](https://forms.gle/jHMDSRyyoLyGsMvv7)
 
+---
+
 ## Presentazione
 Le persone con difficoltà del comportamento possono affrontare una serie di sfide che vanno oltre le difficoltà cognitive e comportamentali.  
 
@@ -31,23 +33,26 @@ Ad esempio, le difficoltà di socializzazione possono portare a bassa autostima,
 È importante promuovere sempre **nuove modalità per favorire la conoscenza dei disturbi del comportamento** e dar vita a **esperienze che sostengano l'inclusione** dei soggetti che ne sono colpiti.
 
 ## Obiettivi
-L'evento "In gioco con papà", che si svolgerà Domenica 17 marzo 2024 in differenti città italiane, si pone come obiettivo generale quello di **promuovere una cultura dell’inclusione nei riguardi dei soggetti con difficoltà del comportamento**, cogliendo come occasione la una giornata di festa collegata ad una ricorrenza che è sia religiosa che civile, avendo come significato non solo la celebrazione della figura del padre ma, più in generale, di tutti coloro che, senza pregiudizi, sono disponibili ad accogliere, prendersi cura dell’altro e mettersi ogni giorno in gioco per dare ad ogni l’opportunità di crescere serenamente.
+L'evento "In Gioco con Papà", che si svolgerà Domenica 17 marzo 2024 in differenti città italiane, si pone come obiettivo generale quello di **promuovere una cultura dell’inclusione nei riguardi dei soggetti con difficoltà del comportamento**, cogliendo come occasione la una giornata di festa collegata ad una ricorrenza che è sia religiosa che civile, avendo come significato non solo la celebrazione della figura del padre ma, più in generale, di tutti coloro che, senza pregiudizi, sono disponibili ad accogliere, prendersi cura dell’altro e mettersi ogni giorno in gioco per dare ad ogni l’opportunità di crescere serenamente.
 
 Gli obiettivi di dettaglio sono:
 
-- Sensibilizzare la popolazione sulle difficoltà e sui disturbi del comportamento,
-- favorire il coinvolgimento dei papà in attività di gioco e conoscenza con i propri figli,
-- promuovere occasioni di socializzazione per i bambini/ragazzi con difficoltà/disturbi del comportamento.
+- **Sensibilizzare** la popolazione sulle difficoltà e sui disturbi del comportamento
+- **favorire il coinvolgimento dei papà** in attività di gioco e conoscenza con i propri figli
+- **promuovere occasioni di socializzazione** per i bambini/ragazzi con difficoltà/disturbi del comportamento
+
+---
 
 ## Pianificazione dell’evento
 La pianificazione dell’evento prevede nel dettaglio:
 
-### FASE 1 - incontro preliminare
+### FASE 1 - incontri preliminari
 Individuare un gruppo di papà che si renda disponibile nel gestire mezza giornata di attività ludica con giochi in scatola che verranno indicati agli organizzatori del territorio da un comitato centrale. I papà potranno decidere chi invitare a questo evento, come promuoverlo e come organizzare/gestire i tavoli da gioco. 
 
 I papà volontari verranno invitati a partecipare a due brevi incontri formativi online, della durata di circa un'ora ciascuno.
-Nel primo incontro, a cura del Prof. Gianluca Daffi e della D.ssa Jeniffer Francioli, verranno presentate le caratteristiche dell'ADHD (deficit dell'attenzione e iperattività) e del DOP (disturbo oppositivo provocatorio), al fine di preparare i papà alla gestione dei bambini/ragazzi che potrebbero presentarsi a giocare. La conoscenza di queste difficoltà è importante per promuovere una cultura inclusiva.
-Nel secondo incontro, a cura di XXX, verranno presentate le regole dei giochi in scatola selezionati dal comitato scientifico dell'evento.
+
+1. **Nel primo incontro**, a cura del Prof. Gianluca Daffi e della D.ssa Jeniffer Francioli, verranno presentate le **caratteristiche dell'ADHD** (deficit dell'attenzione e iperattività) **e del DOP** (disturbo oppositivo provocatorio), al fine di preparare i papà alla gestione dei bambini/ragazzi che potrebbero presentarsi a giocare. La conoscenza di queste difficoltà è importante per promuovere una cultura inclusiva.
+2. **Nel secondo incontro**, a cura di Gabriele Mari, Stefano Cecere ed Emanuele Cristallo, **verranno presentate le regole dei giochi** in scatola selezionati dal comitato scientifico dell'evento.
 
 Al termine della formazione online, i papà volontari riceveranno del materiale informativo a supporto. Inoltre, durante tutta la giornata di domenica 17 marzo, saranno affiancati da un responsabile dell'evento competente sui giochi proposti.
 
@@ -57,22 +62,24 @@ Individuare una location che permetta ai papà volontari di giocare comodamente 
 
 Dopo aver ricevuto comunicazione relativa alla location, il comitato scientifico invierà a tutti gli organizzatori che desiderano attivare l'evento presso il proprio territorio la lista dei giochi selezionati. I giochi devono essere in possesso del gruppo di volontari in occasione del secondo incontro formativo online.
 
-Ogni organizzazione territoriale è responsabile del recupero dei giochi utili per l’evento. 
+**Ogni organizzazione territoriale è responsabile del recupero dei giochi utili per l’evento.** 
 
 Qualora tra i giochi indicati dal comitato ve ne fossero alcuni non disponibili, l'organizzatore territoriale dovrà avvisare un membro del comitato stesso. Se possibile, il comitato fornirà un aiuto per recuperare il gioco mancante.
 
-Si ricorda che la data dell'evento è stabilita dal comitato organizzativo centrale e ha validità nazionale, tuttavia ogni territorio è libero di definire l’orario di 'inizio e fine della propria iniziativa.
+Si ricorda che la data dell'evento è stabilita dal comitato organizzativo centrale e ha validità nazionale, tuttavia **ogni territorio è libero di definire l’orario di 'inizio e fine della propria iniziativa**.
 
-Il comitato organizzativo centrale ha realizzato un depliant con un format comune per promuovere l’evento, tale depliant verrà inviato ad ogni responsabile territoriale per poter essere personalizzato inserendo le informazioni relative alla location e agli orario di inizio/fine evento.
+Il comitato organizzativo centrale ha realizzato **un depliant con un format comune** per promuovere l’evento, tale depliant verrà inviato ad ogni responsabile territoriale per poter essere personalizzato inserendo le informazioni relative alla location e agli orario di inizio/fine evento.
 
 ### FASE 3 - stampa materiale
 
-Stampare il materiale informativo sulle difficoltà del comportamento e sul gioco come veicolo per promuovere l’inclusione e favorire la socializzazione (un Depliant A4 piegato a metà) che verrà inviato dal comitato scientifico agli organizzatori di ogni evento territoriale e che dovrà essere diffuso in occasione dell’evento stesso.
+**Stampare il materiale informativo sulle difficoltà del comportamento e sul gioco come veicolo per promuovere l’inclusione e favorire la socializzazione** (un Depliant A4 piegato a metà) che verrà inviato dal comitato scientifico agli organizzatori di ogni evento territoriale e che dovrà essere diffuso in occasione dell’evento stesso.
 Il materiale verrà inviato in formato PDF, strutturato per la stampa online.
 
 Gli organizzatori territoriali potranno, ma non necessariamente dovranno, fare riferimento al servizio online [www.stampaprint.net](https://www.stampaprint.net), che offre un buon rapporto qualità/prezzo.
 
 Ogni territorio è libero di scegliere quante copie stampare e diffondere, in base alle proprie esigenze. Tuttavia, si ricorda che il fine ultimo dell'evento è la sensibilizzazione sui temi riportati sui materiali informativi.
+
+---
 
 ## Calendario
 
@@ -127,6 +134,8 @@ Per i bambini e i ragazzi con ADHD, poi, i giochi sono ancor più importanti, pe
 | ⁠King of tokyo / King of monster island |  |  |  |
 | ⁠⁠Crossing |  |  |  |
 | Splendor/Splendor Marvel |  |  |  |
+
+---
 
 ## Città
 
