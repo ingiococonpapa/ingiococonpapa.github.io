@@ -1,5 +1,5 @@
 ---
-title: Domenica 17 Marzo IN GIOCO CON PAPÀ
+title: IN GIOCO CON PAPÀ - Domenica 17 Marzo 
 description: giornata di gioco e sensibilizzazione rivolta a bambini e ragazzi dai 5 ai 18 anni in diverse città d'Italia. PARTECIPA!
 hide:
   - navigation
@@ -31,7 +31,7 @@ Ad esempio, le difficoltà di socializzazione possono portare a bassa autostima,
 È importante promuovere sempre **nuove modalità per favorire la conoscenza dei disturbi del comportamento** e dar vita a **esperienze che sostengano l'inclusione** dei soggetti che ne sono colpiti.
 
 ## Obiettivi
-L'evento "In gioco con papà", che si svolgerà Domenica 17 marzo 2024 in differenti città italiane , si pone come obiettivo generale quello di promuovere una cultura dell’inclusione nei riguardi dei soggetti con difficoltà del comportamento, cogliendo come occasione la una giornata di festa collegata  ad una ricorrenza che è sia religiosa che civile, avendo come significato non solo la celebrazione della figura del padre ma, più in generale, di tutti coloro che, senza pregiudizi, sono disponibili ad accogliere, prendersi cura dell’altro e mettersi ogni giorno in gioco per dare ad ogni l’opportunità di crescere serenamente.
+L'evento "In gioco con papà", che si svolgerà Domenica 17 marzo 2024 in differenti città italiane, si pone come obiettivo generale quello di **promuovere una cultura dell’inclusione nei riguardi dei soggetti con difficoltà del comportamento**, cogliendo come occasione la una giornata di festa collegata ad una ricorrenza che è sia religiosa che civile, avendo come significato non solo la celebrazione della figura del padre ma, più in generale, di tutti coloro che, senza pregiudizi, sono disponibili ad accogliere, prendersi cura dell’altro e mettersi ogni giorno in gioco per dare ad ogni l’opportunità di crescere serenamente.
 
 Gli obiettivi di dettaglio sono:
 
@@ -59,7 +59,7 @@ Dopo aver ricevuto comunicazione relativa alla location, il comitato scientifico
 
 Ogni organizzazione territoriale è responsabile del recupero dei giochi utili per l’evento. 
 
-Qualora tra i giochi indicati dal comitato ve ne fossero alcuni non disponibili, l'organizzatore territoriale dovrà  avvisare un membro del comitato stesso. Se possibile, il comitato fornirà un aiuto per recuperare il gioco mancante.
+Qualora tra i giochi indicati dal comitato ve ne fossero alcuni non disponibili, l'organizzatore territoriale dovrà avvisare un membro del comitato stesso. Se possibile, il comitato fornirà un aiuto per recuperare il gioco mancante.
 
 Si ricorda che la data dell'evento è stabilita dal comitato organizzativo centrale e ha validità nazionale, tuttavia ogni territorio è libero di definire l’orario di 'inizio e fine della propria iniziativa.
 
@@ -67,8 +67,10 @@ Il comitato organizzativo centrale ha realizzato un depliant con un format comun
 
 ### FASE 3 - stampa materiale
 
-Stampare il materiale informativo sulle difficoltà del comportamento e sul gioco come veicolo per promuovere l’inclusione e favorire la socializzazione, (un Depliant A4 piegato a metà) che verrà inviato dal comitato scientifico agli organizzatori di ogni evento territoriale e che dovrà essere diffuso in occasione dell’evento stesso.
-Il materiale verrà inviato in formato PDF, strutturato per la stampa online. Gli organizzatori territoriali potranno, ma non necessariamente dovranno, fare riferimento al servizio online www.stampaprint.net, che offre un buon rapporto qualità/prezzo.
+Stampare il materiale informativo sulle difficoltà del comportamento e sul gioco come veicolo per promuovere l’inclusione e favorire la socializzazione (un Depliant A4 piegato a metà) che verrà inviato dal comitato scientifico agli organizzatori di ogni evento territoriale e che dovrà essere diffuso in occasione dell’evento stesso.
+Il materiale verrà inviato in formato PDF, strutturato per la stampa online.
+
+Gli organizzatori territoriali potranno, ma non necessariamente dovranno, fare riferimento al servizio online [www.stampaprint.net](https://www.stampaprint.net), che offre un buon rapporto qualità/prezzo.
 
 Ogni territorio è libero di scegliere quante copie stampare e diffondere, in base alle proprie esigenze. Tuttavia, si ricorda che il fine ultimo dell'evento è la sensibilizzazione sui temi riportati sui materiali informativi.
 
@@ -106,25 +108,25 @@ Per i bambini e i ragazzi con ADHD, poi, i giochi sono ancor più importanti, pe
 
 ### Per i piccoli
 
-| Titolo  | Editore  |Età consigliata  | Prezzo  |
+| Titolo | Editore |Età consigliata | Prezzo |
 |---|---|---|---|
-| C’era un Pirata  | Erickson  | 5 - 10  | 16,90 €  |
-| A caccia di conchiglie  | Erickson  |   | 18,50   |
-| Taco gatto cacio capra pizza  |   |   |   |
-| ⁠Ice cool  |   |   |   |
-| Catan junior  |   |   |   |
-| Fantascatti/Fantablitz  |   |   |   |
+| C’era un Pirata | Erickson | 5 - 10 | 16,90 € |
+| A caccia di conchiglie | Erickson |  | 18,50  |
+| Taco gatto cacio capra pizza |  |  |  |
+| ⁠Ice cool |  |  |  |
+| Catan junior |  |  |  |
+| Fantascatti/Fantablitz |  |  |  |
 
 ### Per i grandi
 
-| Titolo  | Editore  |Età consigliata  | Prezzo  |
+| Titolo | Editore |Età consigliata | Prezzo |
 |---|---|---|---|
-| Saboteur  |   |   |   |
-| ⁠Diamant  |   |   |    |
-| ⁠Carcassonne  |   |   |   |
-| ⁠King of tokyo / King of monster island  |   |   |   |
-| ⁠⁠Crossing  |   |   |   |
-| Splendor/Splendor Marvel  |   |   |   |
+| Saboteur |  |  |  |
+| ⁠Diamant |  |  |   |
+| ⁠Carcassonne |  |  |  |
+| ⁠King of tokyo / King of monster island |  |  |  |
+| ⁠⁠Crossing |  |  |  |
+| Splendor/Splendor Marvel |  |  |  |
 
 ## Città
 
