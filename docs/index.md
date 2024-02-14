@@ -10,12 +10,12 @@ hide:
 Giornata di gioco e sensibilizzazione rivolta a bambini e ragazzi dai 5 al 18 anni
 
 ## Chi siamo
-**Comitato Organizzativo:**
+**Comitato Organizzativo**  
 Gianluca Daffi, Gabriele Mari, Stefano Cecere, Jennifer Francioli, Emanuele Cristallo, Michela Savoldi, Marcella Scutra, Fausto
 
 ## Contatti per partecipare
 
-Compilare questa [Form di contatto](https://forms.gle/jHMDSRyyoLyGsMvv7)
+Compilare questa 👉🏼 [Form di contatto](https://forms.gle/jHMDSRyyoLyGsMvv7)
 
 ## Presentazione
 Le persone con difficoltà del comportamento possono affrontare una serie di sfide che vanno oltre le difficoltà cognitive e comportamentali.  
@@ -72,41 +72,37 @@ Il materiale verrà inviato in formato PDF, strutturato per la stampa online. Gl
 
 Ogni territorio è libero di scegliere quante copie stampare e diffondere, in base alle proprie esigenze. Tuttavia, si ricorda che il fine ultimo dell'evento è la sensibilizzazione sui temi riportati sui materiali informativi.
 
-## CRONOGRAMMA
+## Calendario
 
-Febbraio
+**Febbraio**
 
 - Individuazione dei volontari
 - Individuazione delle location
 
-Marzo
+**Marzo**
 
-- 5 marzo 20.30 online Seminario su ADHD e DOP per i volontari
-- 12 marzo 20:30 online Seminario sulle regole dei giochi per i volontari
-- 17 marzo: EVENTO
+- Martedì 5 marzo 20:30 | Seminario online su ADHD e DOP per i volontari
+- Martedì 12 marzo 20:30 | Seminario online sulle regole dei giochi per i volontari
+- Domenica 17 marzo: EVENTO
 
 ## I giochi da tavolo fanno bene!
 
-I giochi da tavolo sono un passatempo prezioso per la famiglia: offrono un'opportunità unica di trascorrere del tempo di qualità insieme, lontano dagli schermi e dalle distrazioni. 
-È un momento in cui genitori e figli possono connettersi, ridere insieme e creare ricordi duraturi. I giochi stimolano la comunicazione e l’interazione all’interno di un clima di apertura, fiducia e collaborazione. 
-Giocando con i nostri figli favoriamo il loro sviluppo cognitivo, aiutandoli a migliorare le loro capacità di ragionamento e di problem-solving.
+I giochi da tavolo sono un **passatempo prezioso per la famiglia**: offrono un'opportunità unica di trascorrere del tempo di qualità insieme, lontano dagli schermi e dalle distrazioni.  
+È un momento in cui genitori e figli possono connettersi, ridere insieme e creare ricordi duraturi. I giochi stimolano la comunicazione e l’interazione all’interno di un clima di apertura, fiducia e collaborazione.  
+Giocando con i nostri figli favoriamo il loro sviluppo cognitivo, aiutandoli a migliorare le loro capacità di ragionamento e di problem-solving.  
 I giochi da tavolo sono quindi un ottimo modo per creare un ambiente divertente e rilassante per tutta la famiglia, una pausa dalla routine quotidiana che permette a tutti di distendersi e di divertirsi.
 
 Per i bambini e i ragazzi con ADHD, poi, i giochi sono ancor più importanti, perché ne supportano lo sviluppo e il benessere:
 
 1. **Favoriscono la concentrazione**: i giochi da tavolo richiedono attenzione e concentrazione per seguire le regole, pianificare strategie e prendere decisioni. Questo aiuta ad allenare la capacità di focalizzare l'attenzione su un compito specifico per un periodo prolungato, migliorando così la capacità di concentrazione anche in altre attività.
-
 2. **Promuovono l'autocontrollo**: molti giochi da tavolo richiedono pazienza e autocontrollo per aspettare il proprio turno, rispettare le regole e gestire le emozioni quando si vince o si perde. Questo aiuta a praticare il controllo degli impulsi e a gestire meglio le reazioni emotive.
-
 3. **Insegnano la resilienza**: nel gioco si affrontano sfide e si incontrano ostacoli. Imparare a perdere con stile e leggerezza, ad affrontare le delusioni e a continuare a giocare nonostante le difficoltà aiuta a sviluppare una mentalità resiliente che sarà preziosa anche in altre aree della vita.
-
 4. **Stimolano le abilità sociali**: i giochi da tavolo sono attività di gruppo che incoraggiano la collaborazione, la comunicazione e l'interazione sociale. Questo è di grande beneficio per superare eventuali difficoltà nelle relazioni sociali. Il giocare insieme può aiutare a migliorare le capacità di comunicazione, a comprendere le dinamiche sociali e a sviluppare legami con i coetanei.
-
 5. **Offrono un ambiente strutturato e prevedibile**: la struttura e le regole chiare dei giochi da tavolo forniscono un ambiente prevedibile che risulta rassicurante per le persone con ADHD, che normalmente traggono grandi benefici da routine e strutture chiare.
 
 ## Lista dei giochi proposti
 
-Attenzione: Gli organizzatori territoriali non dovranno utilizzare tutti i giochi riportati nella lista, ma selezionare solo alcuni tra i giochi proposti in base alle caratteristiche dell’evento concordato con il comitato organizzativo centrale.
+**Attenzione**: Gli organizzatori territoriali **non** dovranno utilizzare tutti i giochi riportati nella lista, ma selezionare solo alcuni tra i giochi proposti in base alle caratteristiche dell’evento concordato con il comitato organizzativo centrale.
 
 ### Per i piccoli
 
@@ -130,7 +126,7 @@ Attenzione: Gli organizzatori territoriali non dovranno utilizzare tutti i gioch
 | ⁠⁠Crossing  |   |   |   |
 | Splendor/Splendor Marvel  |   |   |   |
 
-## Città operative
+## Città
 
 ### Brescia
 Presso  
@@ -141,8 +137,8 @@ Presso
 Referente: 
 
 ### Firenze
-Presso la Casa del Popolo di Settignano - via San Romano 1 - Firenze - [sito](https://cdp.settignano.org/)  
-Referente: Stefano Cecere - stefano.cecere@gmail.com / 3358301741
+Presso la Casa del Popolo di Settignano - via San Romano 1, Firenze - [https://cdp.settignano.org](https://cdp.settignano.org/)  
+Referente: Stefano Cecere - [2042ed.org](https://2042ed.org/) - [email](mailto:stefano.cecere@gmail.com)
 
 ### Matera
 Presso  

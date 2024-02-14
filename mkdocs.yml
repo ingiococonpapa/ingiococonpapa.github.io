@@ -17,7 +17,7 @@ theme:
     - content.action.edit
     - navigation.footer
 #    - navigation.tabs
-#    - navigation.top
+    - navigation.top
     - navigation.sections
     - navigation.indexes
     - navigation.tracking
