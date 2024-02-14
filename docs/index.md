@@ -208,5 +208,3 @@ Ogni gruppo deciderà e organizzerà in autonomia.
 - **Non c'è un evento nella mia città, cosa posso fare?**  
 Puoi provare ad organizzare tu un incontro. Basta essere in 3/4 genitori volontari. In questo sito troverai tutte le informazioni utili per poterlo fare in tranquillità e ci saranno due incontri formativi ad hoc.
 
-- **Come nasce questa iniziativa?**  
-Da un'idea di [Gianluca Daffi](https://www.gianlucadaffi.it/) e da alcune telefonate ad amici educatori ludici.
