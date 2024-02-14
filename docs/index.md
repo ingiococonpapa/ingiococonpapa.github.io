@@ -27,9 +27,9 @@ Giornata di gioco e sensibilizzazione rivolta a bambini e ragazzi dai 5 ai 18 an
 
 **Marzo**
 
-- Martedì 5 marzo 20:30 | Seminario online su ADHD e DOP per i volontari
-- Martedì 12 marzo 20:30 | Seminario online sulle regole dei giochi per i volontari
-- Domenica 17 marzo: EVENTO
+- Martedì 5 Marzo 20:30 | Seminario online su ADHD e DOP per i volontari
+- Martedì 12 Marzo 20:30 | Seminario online sulle regole dei giochi per i volontari
+- Domenica 17 Marzo: EVENTO
 
 ---
 
@@ -47,7 +47,7 @@ Ad esempio, le difficoltà di socializzazione possono portare a bassa autostima,
 È importante promuovere sempre **nuove modalità per favorire la conoscenza dei disturbi del comportamento** e dar vita a **esperienze che sostengano l'inclusione** dei soggetti che ne sono colpiti.
 
 ## Obiettivi
-L'evento "In Gioco con Papà", che si svolgerà Domenica 17 marzo 2024 in differenti città italiane, si pone come obiettivo generale quello di **promuovere una cultura dell’inclusione nei riguardi dei soggetti con difficoltà del comportamento**, cogliendo come occasione la una giornata di festa collegata ad una ricorrenza che è sia religiosa che civile, avendo come significato non solo la celebrazione della figura del padre ma, più in generale, di tutti coloro che, senza pregiudizi, sono disponibili ad accogliere, prendersi cura dell’altro e mettersi ogni giorno in gioco per dare ad ogni l’opportunità di crescere serenamente.
+L'evento "In Gioco con Papà", che si svolgerà Domenica 17 Marzo 2024 in differenti città italiane, si pone come obiettivo generale quello di **promuovere una cultura dell’inclusione nei riguardi dei soggetti con difficoltà del comportamento**, cogliendo come occasione la una giornata di festa collegata ad una ricorrenza che è sia religiosa che civile, avendo come significato non solo la celebrazione della figura del padre ma, più in generale, di tutti coloro che, senza pregiudizi, sono disponibili ad accogliere, prendersi cura dell’altro e mettersi ogni giorno in gioco per dare ad ogni l’opportunità di crescere serenamente.
 
 Gli obiettivi di dettaglio sono:
 
@@ -68,7 +68,7 @@ I papà volontari verranno invitati a partecipare a due brevi incontri formativi
 1. **Nel primo incontro**, a cura del Prof. Gianluca Daffi e della D.ssa Jeniffer Francioli, verranno presentate le **caratteristiche dell'ADHD** (deficit dell'attenzione e iperattività) **e del DOP** (disturbo oppositivo provocatorio), al fine di preparare i papà alla gestione dei bambini/ragazzi che potrebbero presentarsi a giocare. La conoscenza di queste difficoltà è importante per promuovere una cultura inclusiva.
 2. **Nel secondo incontro**, a cura di Gabriele Mari, Stefano Cecere ed Emanuele Cristallo, **verranno presentate le regole dei giochi** in scatola selezionati dal comitato scientifico dell'evento.
 
-Al termine della formazione online, i papà volontari riceveranno del materiale informativo a supporto. Inoltre, durante tutta la giornata di domenica 17 marzo, saranno affiancati da un responsabile dell'evento competente sui giochi proposti.
+Al termine della formazione online, i papà volontari riceveranno del materiale informativo a supporto. Inoltre, durante tutta la giornata saranno affiancati da un responsabile dell'evento competente sui giochi proposti.
 
 ### FASE 2 - organizzazione
 
@@ -138,7 +138,7 @@ Per i bambini e i ragazzi con ADHD, poi, i giochi sono ancor più importanti, pe
 | Taco gatto cacio capra pizza |  |  |  |
 | ⁠Ice cool |  |  |  |
 | Catan junior |  |  |  |
-| Fantascatti/Fantablitz |  |  |  |
+| Fantascatti / Fantablitz |  |  |  |
 
 ### Per i grandi
 
@@ -147,9 +147,9 @@ Per i bambini e i ragazzi con ADHD, poi, i giochi sono ancor più importanti, pe
 | Saboteur |  |  |  |
 | ⁠Diamant |  |  |   |
 | ⁠Carcassonne |  |  |  |
-| ⁠King of tokyo / King of monster island |  |  |  |
+| ⁠King of Tokyo / King of monster island |  |  |  |
 | ⁠⁠Crossing |  |  |  |
-| Splendor/Splendor Marvel |  |  |  |
+| Splendor / Splendor Marvel |  |  |  |
 
 ---
 
@@ -159,28 +159,28 @@ Per i bambini e i ragazzi con ADHD, poi, i giochi sono ancor più importanti, pe
     Compilare questa 👉🏼 [Form](https://forms.gle/jHMDSRyyoLyGsMvv7)
 
 ### Bergamo
-Presso  
+Dove:  
 Referente: 
 
 ### Brescia
-Presso  
-Referente: Gianluca Daffi
+Dove:  
+Referente: **Gianluca Daffi**
 
 ### Domodossola
-Presso **Biblioteca Civica Contini** - Via Rosmini 20, Domodossola  
+Dove: **Biblioteca Civica Contini** - Via Rosmini 20, Domodossola  
 Referente: **Francioli Jennifer** - [email](mailto:francij75@gmail.com)
 
 ### Firenze
-Presso la **Casa del Popolo di Settignano** - via San Romano 1, Firenze - [https://cdp.settignano.org](https://cdp.settignano.org/)  
-Referente: **Stefano Cecere** - [2042ed.org](https://2042ed.org/) - [email](mailto:stefano.cecere@gmail.com)
+Dove: **Casa del Popolo di Settignano** - via San Romano 1, Firenze - [https://cdp.settignano.org](https://cdp.settignano.org/)  
+Referente: **Stefano Cecere** - [contatti](https://linktr.ee/cecere) - [email](mailto:stefano.cecere@gmail.com)
 
 ### Matera
-Presso  
-Referente: Emanuele Cristallo 
+Dove:  
+Referente: **Emanuele Cristallo**  
 
 ### Ravenna
-Presso  
-Referente: Gabriele Mari 
+Dove:  
+Referente: **Gabriele Mari**  
 
 ## Condivisione
 Ovviamente siete liberi anzi incoraggiati a condividere questa iniziativa.
