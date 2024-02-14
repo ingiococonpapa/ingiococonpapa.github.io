@@ -155,8 +155,8 @@ Per i bambini e i ragazzi con ADHD, poi, i giochi sono ancor più importanti, pe
 
 ## Città
 
-!!! info "Proporre nuove città"
-    Per proporre di organizzare un nuovo evento, compilare questa 👉🏼 [Form](https://forms.gle/jHMDSRyyoLyGsMvv7)
+!!! info "Proporre nuovi eventi"
+    Compilare questa 👉🏼 [Form](https://forms.gle/jHMDSRyyoLyGsMvv7)
 
 ### Bergamo
 Presso  
@@ -167,12 +167,12 @@ Presso
 Referente: Gianluca Daffi
 
 ### Domodossola
-Presso  
-Referente: 
+Presso **Biblioteca Civica Contini** - Via Rosmini 20, Domodossola  
+Referente: **Francioli Jennifer** - [email](mailto:francij75@gmail.com)
 
 ### Firenze
-Presso la Casa del Popolo di Settignano - via San Romano 1, Firenze - [https://cdp.settignano.org](https://cdp.settignano.org/)  
-Referente: Stefano Cecere - [2042ed.org](https://2042ed.org/) - [email](mailto:stefano.cecere@gmail.com)
+Presso la **Casa del Popolo di Settignano** - via San Romano 1, Firenze - [https://cdp.settignano.org](https://cdp.settignano.org/)  
+Referente: **Stefano Cecere** - [2042ed.org](https://2042ed.org/) - [email](mailto:stefano.cecere@gmail.com)
 
 ### Matera
 Presso  
