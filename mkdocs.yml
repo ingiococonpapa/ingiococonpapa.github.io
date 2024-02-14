@@ -14,7 +14,7 @@ theme:
     repo: fontawesome/brands/git-alt
     edit: material/file-edit-outline
   features:
-    - content.action.edit
+#    - content.action.edit
     - navigation.footer
 #    - navigation.tabs
     - navigation.top
@@ -63,7 +63,7 @@ plugins:
         color: "#FFFFFF"
 
 repo_url: https://github.com/ingiococonpapa/ingiococonpapa.github.io
-#edit_uri: edit/main/docs/
+edit_uri: edit/main/docs/
 repo_name: ingiococonpapa.github.io
 
 extra_css:
