@@ -3,7 +3,7 @@ site_url: https://ingiococonpapa.github.io
 site_author: Stefano Cecere
 site_description: Giornata di gioco e sensibilizzazione rivolta a bambini e ragazzi dai 5 al 18 anni
 
-copyright: Progetto Creative Commons CC 1.0
+copyright: Progetto Creative Commons CC 1.0 - Sito creato da <a href="https://2042ed.org">2042ed.org</a>
 
 theme:
   name: material
@@ -54,6 +54,8 @@ markdown_extensions:
 # Plugins
 plugins:
   - awesome-pages
+  - minify:
+      minify_html: true
   - social:
       cards: !ENV [CI, false]
       cards_layout_options:
