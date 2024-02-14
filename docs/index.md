@@ -18,6 +18,20 @@ Gianluca Daffi, Gabriele Mari, Stefano Cecere, Jennifer Francioli, Emanuele Cris
 Per partecipare o proporre di organizzare una nuova città, compilare questa 👉🏼 [Form di contatto](https://forms.gle/jHMDSRyyoLyGsMvv7)
 
 ---
+## Calendario
+
+**Febbraio**
+
+- Individuazione delle location
+- Individuazione dei volontari
+
+**Marzo**
+
+- Martedì 5 marzo 20:30 | Seminario online su ADHD e DOP per i volontari
+- Martedì 12 marzo 20:30 | Seminario online sulle regole dei giochi per i volontari
+- Domenica 17 marzo: EVENTO
+
+---
 
 ## Presentazione
 Le persone con difficoltà del comportamento possono affrontare una serie di sfide che vanno oltre le difficoltà cognitive e comportamentali.  
@@ -98,19 +112,6 @@ Da scaricare e stampare
 
 ---
 
-## Calendario
-
-**Febbraio**
-
-- Individuazione dei volontari
-- Individuazione delle location
-
-**Marzo**
-
-- Martedì 5 marzo 20:30 | Seminario online su ADHD e DOP per i volontari
-- Martedì 12 marzo 20:30 | Seminario online sulle regole dei giochi per i volontari
-- Domenica 17 marzo: EVENTO
-
 ## I giochi da tavolo fanno bene!
 
 I giochi da tavolo sono un **passatempo prezioso per la famiglia**: offrono un'opportunità unica di trascorrere del tempo di qualità insieme, lontano dagli schermi e dalle distrazioni.  
@@ -128,7 +129,8 @@ Per i bambini e i ragazzi con ADHD, poi, i giochi sono ancor più importanti, pe
 
 ## Lista dei giochi proposti
 
-**Attenzione**: Gli organizzatori territoriali **non** dovranno utilizzare tutti i giochi riportati nella lista, ma selezionare solo alcuni tra i giochi proposti in base alle caratteristiche dell’evento concordato con il comitato organizzativo centrale.
+!!! warning "Attenzione"
+    Gli organizzatori territoriali **non** dovranno utilizzare tutti i giochi riportati nella lista, ma selezionare solo alcuni tra i giochi proposti in base alle caratteristiche dell’evento concordato con il comitato organizzativo centrale.
 
 ### Per i piccoli
 
@@ -155,6 +157,9 @@ Per i bambini e i ragazzi con ADHD, poi, i giochi sono ancor più importanti, pe
 ---
 
 ## Città
+
+!!! info "Proporre nuove città"
+    Per proporre di organizzare un nuovo evento, compilare questa 👉🏼 [Form](https://forms.gle/jHMDSRyyoLyGsMvv7)
 
 ### Bergamo
 Presso  
