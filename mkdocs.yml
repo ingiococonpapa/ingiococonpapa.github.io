@@ -62,9 +62,9 @@ plugins:
         background_color: "#14608E"
         color: "#FFFFFF"
 
-# repo_url: https://github.com/papaingioco/papaingioco.github.io
-# edit_uri: edit/main/docs/
-# repo_name: papaingioco.github.io
+repo_url: https://github.com/ingiococonpapa/ingiococonpapa.github.io
+edit_uri: edit/main/docs/
+repo_name: ingiococonpapa.github.io
 
 extra_css:
   - assets/stylesheets/extra.css
