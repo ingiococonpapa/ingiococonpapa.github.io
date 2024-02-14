@@ -56,13 +56,13 @@ I papà volontari verranno invitati a partecipare a due brevi incontri formativi
 
 Al termine della formazione online, i papà volontari riceveranno del materiale informativo a supporto. Inoltre, durante tutta la giornata di domenica 17 marzo, saranno affiancati da un responsabile dell'evento competente sui giochi proposti.
 
-### FASE 2 - organizzare evento
+### FASE 2 - organizzazione
 
-Individuare una location che permetta ai papà volontari di giocare comodamente con i bambini/ragazzi partecipanti all'evento. La location deve essere comunicata al comitato scientifico almeno 10 giorni prima dell'evento, in modo da poter inserire l'evento territoriale nella lista degli eventi affiliati all'iniziativa.
+**Individuare una location** che permetta ai papà volontari di giocare comodamente con i bambini/ragazzi partecipanti all'evento. La location deve essere comunicata al comitato scientifico almeno 10 giorni prima dell'evento, in modo da poter inserire l'evento territoriale nella lista degli eventi affiliati all'iniziativa.
 
 Dopo aver ricevuto comunicazione relativa alla location, il comitato scientifico invierà a tutti gli organizzatori che desiderano attivare l'evento presso il proprio territorio la lista dei giochi selezionati. I giochi devono essere in possesso del gruppo di volontari in occasione del secondo incontro formativo online.
 
-**Ogni organizzazione territoriale è responsabile del recupero dei giochi utili per l’evento.** 
+**Ogni organizzazione territoriale è responsabile del recupero dei giochi utili per l’evento.**  
 
 Qualora tra i giochi indicati dal comitato ve ne fossero alcuni non disponibili, l'organizzatore territoriale dovrà avvisare un membro del comitato stesso. Se possibile, il comitato fornirà un aiuto per recuperare il gioco mancante.
 
@@ -78,6 +78,23 @@ Il materiale verrà inviato in formato PDF, strutturato per la stampa online.
 Gli organizzatori territoriali potranno, ma non necessariamente dovranno, fare riferimento al servizio online [www.stampaprint.net](https://www.stampaprint.net), che offre un buon rapporto qualità/prezzo.
 
 Ogni territorio è libero di scegliere quante copie stampare e diffondere, in base alle proprie esigenze. Tuttavia, si ricorda che il fine ultimo dell'evento è la sensibilizzazione sui temi riportati sui materiali informativi.
+
+#### Materiali
+
+<div class="grid cards" markdown>
+
+- :fontawesome-solid-book: [Brochure Informativa su Giochi e ADHD](./assets/pdf/brouchure-giochi-e-adhd.pdf)<br>
+Da scaricare e stampare
+
+- :fontawesome-solid-book: [Volantino](./assets/pdf/volantino-papaingioco-17marzo2024.pdf)<br>
+Da scaricare e stampare
+
+- :fontawesome-solid-book: [Brochure](https://docs.google.com/document/d/1TXcsv-yJk83hm7wxReEv1-4jajmx7DY-D52HlnLGxyE/edit)
+<br>Le linee guida per l'evento
+
+- :fontawesome-solid-book: [Volantino Canva](https://www.canva.com/design/DAF7qEQOsv4/RMtEhlKL-4U2PzKCOhl5Nw/edit)<br> personalizzabile con luogo e orari del proprio evento
+
+</div>
 
 ---
 
@@ -162,18 +179,3 @@ Referente: Emanuele Cristallo
 ### Ravenna
 Presso  
 Referente: Gabriele Mari 
-
-## Materiali da scaricare
-
-<div class="grid cards" markdown>
-- :fontawesome-solid-book: [Brochure](https://docs.google.com/document/d/1TXcsv-yJk83hm7wxReEv1-4jajmx7DY-D52HlnLGxyE/edit)
-<br>Le linee guida per l'evento
-
-- :fontawesome-solid-book: [Volantino](./assets/pdf/volantino-papaingioco-17marzo2024.pdf)<br>
-Da scaricare e stampare
-
-- :fontawesome-solid-book: [Volantino Canva](https://www.canva.com/design/DAF7qEQOsv4/RMtEhlKL-4U2PzKCOhl5Nw/edit)<br> personalizzabile con luogo e orari del proprio evento
-
-- :fontawesome-solid-envelope: [Form di contatto](https://forms.gle/jHMDSRyyoLyGsMvv7)
-
-</div>
