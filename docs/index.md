@@ -12,7 +12,7 @@ Giornata di gioco e sensibilizzazione rivolta a bambini e ragazzi dai 5 ai 18 an
 
 ## Chi siamo
 **Comitato Organizzativo**  
-Gianluca Daffi, Gabriele Mari, Stefano Cecere, Jennifer Francioli, Emanuele Cristallo, Michela Savoldi, Marcella Scutra, Fausto
+[Gianluca Daffi](https://www.gianlucadaffi.it/), Gabriele Mari, [Stefano Cecere](https://linktr.ee/cecere), Jennifer Francioli, [Emanuele Cristallo](https://www.zioludovico.it/), Michela Savoldi, Marcella Scutra, Fausto
 
 ## Contatti
 **Per partecipare o proporre di organizzare una nuova città**, compilare questa [Form di contatto :fontawesome-solid-paper-plane:](https://forms.gle/jHMDSRyyoLyGsMvv7){ .md-button .md-button--primary }
@@ -103,10 +103,7 @@ Da scaricare e stampare
 - :fontawesome-solid-book: [Volantino](./assets/pdf/volantino-papaingioco-17marzo2024.pdf)<br>
 Da scaricare e stampare
 
-- :fontawesome-solid-book: [Brochure](https://docs.google.com/document/d/1TXcsv-yJk83hm7wxReEv1-4jajmx7DY-D52HlnLGxyE/edit)
-<br>Le linee guida per l'evento
-
-- :fontawesome-solid-book: [Volantino Canva](https://www.canva.com/design/DAF7qEQOsv4/RMtEhlKL-4U2PzKCOhl5Nw/edit)<br> personalizzabile con luogo e orari del proprio evento
+- :fontawesome-solid-book: [Volantino (Canva) da modificare](https://www.canva.com/design/DAF7qEQOsv4/RMtEhlKL-4U2PzKCOhl5Nw/edit)<br> personalizzabile con luogo e orari del proprio evento
 
 </div>
 
@@ -193,18 +190,23 @@ Basta condividere questo link [ingiococonpapa.github.io](https://ingiococonpapa.
 
 ## FAQ (Domande e Risposte)
 
+- **Cosa devo fare se voglio solo partecipare?**
+Registrarti con l'apposita [Form](https://forms.gle/jHMDSRyyoLyGsMvv7)
+
+- **Devo conoscere i giochi prima di parteciparvi?**  
+Sarebbe meglio di sì, per questo terremo un incontro formativo online la settimana prima, per spiegare i giochi a chi si sarà già registrato.
+
 - **Quanto durerà l'evento?**  
-A seconda degli organizzatori, ma in linea di massima da metà mattinata di domenica per almeno 3 ore. 
+A seconda degli organizzatori, ma in linea di massima da metà mattinata di domenica per almeno 3 ore.
 
 - **Quanto costerà parteciparvi?**  
-Gli eventi sono gratuiti.
+Gli eventi sono gratuiti. Ogni gruppo valuterà se chiedere un piccolo rimborso spese o autofinanziarsi l'acquisto dei giochi.
+
+- **Ci sarà da mangiare o pranzo?**  
+Ogni gruppo deciderà e organizzerà in autonomia.
 
 - **Non c'è un evento nella mia città, cosa posso fare?**  
 Puoi provare ad organizzare tu un incontro. Basta essere in 3/4 genitori volontari. In questo sito troverai tutte le informazioni utili per poterlo fare in tranquillità e ci saranno due incontri formativi ad hoc.
 
-- **Chi siete?**  
-Educatori e genitori a cui piace giocare!
-
-
-
-
+- **Come nasce questa iniziativa?**  
+Da un'idea di [Gianluca Daffi](https://www.gianlucadaffi.it/) e da alcune telefonate ad amici educatori ludici.
