@@ -158,6 +158,9 @@ Per i bambini e i ragazzi con ADHD, poi, i giochi sono ancor più importanti, pe
 !!! info "Proporre nuovi eventi"
     Compilare questa 👉🏼 [Form](https://forms.gle/jHMDSRyyoLyGsMvv7)
 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UuIn5vNkS8Sx4IpgfZJcW9S31Q_59qQ&ehbc=2E312F&noprof=1" width="100%" height="600"></iframe>
+
+
 ### Bergamo - Treviglio
 Dove:  
 Referente: Antonio Ciocca  
