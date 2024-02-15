@@ -158,20 +158,21 @@ Per i bambini e i ragazzi con ADHD, poi, i giochi sono ancor più importanti, pe
 !!! info "Proporre nuovi eventi"
     Compilare questa 👉🏼 [Form](https://forms.gle/jHMDSRyyoLyGsMvv7)
 
-### Bergamo
+### Bergamo - Treviglio
 Dove:  
-Referente: 
+Referente: Antonio Ciocca  
 
 ### Brescia
 Dove:  
 Referente: **Gianluca Daffi**
 
 ### Domodossola
-Dove: **Biblioteca Civica Contini** - Via Rosmini 20, Domodossola  
+Dove:   
 Referente: **Francioli Jennifer** - [email](mailto:francij75@gmail.com)
 
 ### Firenze
 Dove: **Casa del Popolo di Settignano** - via San Romano 1, Firenze - [https://cdp.settignano.org](https://cdp.settignano.org/)  
+Orario: 10:30 - 15:30 (con pranzo al bar)  
 Referente: **Stefano Cecere** - [contatti](https://linktr.ee/cecere) - [email](mailto:stefano.cecere@gmail.com)
 
 ### Matera
@@ -181,6 +182,10 @@ Referente: **Emanuele Cristallo**
 ### Ravenna
 Dove:  
 Referente: **Gabriele Mari**  
+
+### Treviso 
+Dove:  
+Referente: **Rossella Frascogna**  
 
 ## Condivisione
 Ovviamente siete liberi anzi incoraggiati a condividere questa iniziativa.
