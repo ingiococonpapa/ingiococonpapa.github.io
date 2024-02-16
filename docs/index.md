@@ -187,6 +187,10 @@ Dove: Centro RicreAzioni, via Don Carlo Sala 7, Ravenna
 Orario: 15:00 - 18:00  
 Referente: **Gabriele Mari** - [Educatori Ludici](https://www.facebook.com/educatoriludici) -  [email](mailto:progetti.innovativi@cooplapieve.it) -  3281552787  
 
+### Rimini
+Dove:  
+Referente: **Riccardo Nicolini**  
+
 ### Treviso 
 Dove:  
 Referente: **Rossella Frascogna**  
