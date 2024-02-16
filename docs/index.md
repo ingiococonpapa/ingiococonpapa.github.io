@@ -12,10 +12,12 @@ Giornata di gioco e sensibilizzazione rivolta a bambini e ragazzi dai 5 ai 18 an
 
 ## Chi siamo
 **Comitato Organizzativo**  
-[Gianluca Daffi](https://www.gianlucadaffi.it/), Gabriele Mari, [Stefano Cecere](https://linktr.ee/cecere), Jennifer Francioli, [Emanuele Cristallo](https://www.zioludovico.it/), Michela Savoldi, Marcella Scutra, Fausto
+[Gianluca Daffi](https://www.gianlucadaffi.it), [Gabriele Mari](https://www.facebook.com/educatoriludici), [Stefano Cecere](https://linktr.ee/cecere), Jennifer Francioli, [Emanuele Cristallo](https://www.zioludovico.it), Michela Savoldi, Marcella Scutra, Fausto
 
 ## Contatti
 **Per partecipare o proporre di organizzare una nuova città**, compilare questa [Form di contatto :fontawesome-solid-paper-plane:](https://forms.gle/jHMDSRyyoLyGsMvv7){ .md-button .md-button--primary }
+
+Per gli organizzatori di eventi, abbiamo una **mailing list**: [https://groups.google.com/g/ingiococonpapa](https://groups.google.com/g/ingiococonpapa) a cui sarete invitati o potete richiedere di essere iscritti.
 
 ---
 ## Calendario
@@ -163,7 +165,7 @@ Per i bambini e i ragazzi con ADHD, poi, i giochi sono ancor più importanti, pe
 
 ### Bergamo - Treviglio
 Dove:  
-Referente: Antonio Ciocca  
+Referente: **Antonio Ciocca**  
 
 ### Brescia
 Dove:  
@@ -189,7 +191,7 @@ Referente: **Emanuele Cristallo**
 ### Ravenna
 Dove: Centro RicreAzioni, via Don Carlo Sala 7, Ravenna  
 Orario: 15:00 - 18:00  
-Referente: **Gabriele Mari** - [Educatori Ludici](https://www.facebook.com/educatoriludici) -  [email](mailto:progetti.innovativi@cooplapieve.it) -  3281552787  
+Referente: **Gabriele Mari** - [Educatori Ludici](https://www.facebook.com/educatoriludici) - [email](mailto:progetti.innovativi@cooplapieve.it) -  3281552787  
 
 ### Rimini
 Dove:  
