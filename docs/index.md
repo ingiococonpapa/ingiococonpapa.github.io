@@ -178,6 +178,10 @@ Dove: **Casa del Popolo di Settignano** - via San Romano 1, Firenze - [https://c
 Orario: 10:30 - 15:30 (con pranzo al bar)  
 Referente: **Stefano Cecere** - [2042ed.org](https://2042ed.org) - [email](mailto:stefano.cecere@gmail.com)
 
+### Forlì
+
+### Legnano
+
 ### Matera
 Dove:  
 Referente: **Emanuele Cristallo**  
@@ -186,6 +190,10 @@ Referente: **Emanuele Cristallo**
 Dove: Centro RicreAzioni, via Don Carlo Sala 7, Ravenna  
 Orario: 15:00 - 18:00  
 Referente: **Gabriele Mari** - [Educatori Ludici](https://www.facebook.com/educatoriludici) -  [email](mailto:progetti.innovativi@cooplapieve.it) -  3281552787  
+
+### Rimini
+Dove:  
+Referente: 
 
 ### Treviso 
 Dove:  
