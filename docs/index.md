@@ -1,12 +1,12 @@
 ---
-title: IN GIOCO CON PAPÀ - Domenica 17 Marzo 
+title: In GIOCO con PAPÀ - Domenica 17 Marzo 
 description: giornata di gioco e sensibilizzazione rivolta a bambini e ragazzi dai 5 ai 18 anni in diverse città d'Italia. PARTECIPA!
 hide:
   - navigation
 ---
 ![in gioco con papà](assets/img/header.png)
 
-# IN GIOCO CON PAPÀ
+# In GIOCO con PAPÀ
 **Domenica 17 Marzo 2024**  
 Giornata di gioco e sensibilizzazione rivolta a bambini e ragazzi dai 5 ai 18 anni intorno alla Festaè del Papà, in diverse città d'Italia. Qui trovate tutte le informazioni per partecipare o organizzare un nuovo evento nella tua città.
 
