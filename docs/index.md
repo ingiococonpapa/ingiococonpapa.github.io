@@ -139,14 +139,14 @@ Per i bambini e i ragazzi con ADHD, poi, i giochi sono ancor più importanti, pe
 
 ### Per i piccoli
 
-| Titolo | Editore |Età consigliata | Prezzo |
-|---|---|---|---|
-| C’era un Pirata | Erickson | 5 - 10 | 16,90 € |
-| A caccia di conchiglie | Erickson |  | 18,50  |
-| Taco gatto cacio capra pizza |  |  |  |
-| ⁠Ice cool |  |  |  |
-| Catan junior |  |  |  |
-| Fantascatti / Fantablitz |  |  |  |
+| Titolo | Editore | Scheda BGG |
+|---|---|---|
+| C’era un Pirata | Erickson | [scheda BBG](https://boardgamegeek.com/boardgame/253115/cera-un-pirata) |
+| A caccia di conchiglie | Erickson | [scheda BBG](https://boardgamegeek.com/boardgame/400811/caccia-di-conchiglie) |
+| Taco gatto cacio capra pizza | 	Ghenos | [scheda BBG](https://boardgamegeek.com/boardgame/253664/taco-cat-goat-cheese-pizza) |
+| ⁠Ice cool | Oliphante   | [scheda BBG](https://boardgamegeek.com/boardgame/177524/icecool) |
+| Catan junior |  | [scheda BBG](https://boardgamegeek.com/boardgame/184842/catan-junior) |
+| Fantascatti / Fantablitz |  | [scheda BBG](https://boardgamegeek.com/boardgame/83195/ghost-blitz) |
 
 ### Per i grandi
 
