@@ -12,12 +12,14 @@ Giornata di gioco e sensibilizzazione rivolta a bambini e ragazzi dai 5 ai 18 an
 
 ## Chi siamo
 **Comitato Organizzativo**  
-[Gianluca Daffi](https://www.gianlucadaffi.it), [Gabriele Mari](https://www.facebook.com/educatoriludici), [Stefano Cecere](https://linktr.ee/cecere), Jennifer Francioli, [Emanuele Cristallo](https://www.zioludovico.it), Michela Savoldi, Marcella Scutra, Fausto
+[Gianluca Daffi](https://www.gianlucadaffi.it), [Gabriele Mari](https://www.facebook.com/educatoriludici), [Stefano Cecere](https://linktr.ee/cecere), Jennifer Francioli, [Emanuele Cristallo](https://www.zioludovico.it), Michela Savoldi, Marcello Scutra, Fausto Regosi.
 
 ## Contatti
-**Per partecipare o proporre di organizzare una nuova città**, compilare questa [Form di contatto :fontawesome-solid-paper-plane:](https://forms.gle/jHMDSRyyoLyGsMvv7){ .md-button .md-button--primary }
+**Per partecipare o proporre di organizzare una nuova città**, compilare questa [Form di contatto :fontawesome-solid-paper-plane:](https://forms.gle/jHMDSRyyoLyGsMvv7){ .md-button .md-button--primary }  
 
 Per gli organizzatori di eventi, abbiamo una **mailing list**: [https://groups.google.com/g/ingiococonpapa](https://groups.google.com/g/ingiococonpapa) a cui sarete invitati o potete richiedere di essere iscritti.
+
+Per eventuali altre informazioni, scrivere a [Gianluca Daffi](mailto:daffi.gianluca@gmail.com)
 
 ---
 ## Calendario
@@ -144,32 +146,33 @@ Per i bambini e i ragazzi con ADHD, poi, i giochi sono ancor più importanti, pe
 
 ### Per i grandi
 
-| Titolo | Editore |Età consigliata | Prezzo |
-|---|---|---|---|
-| Saboteur |  |  |  |
-| ⁠Diamant |  |  |   |
-| ⁠Carcassonne |  |  |  |
-| ⁠King of Tokyo / King of monster island |  |  |  |
-| ⁠⁠Crossing |  |  |  |
-| Splendor / Splendor Marvel |  |  |  |
+| Titolo | Scheda BGG |
+|---|---|
+| Saboteur | [scheda BBG](https://boardgamegeek.com/boardgame/9220/saboteur) | 
+| ⁠Diamant |  [scheda BBG](https://boardgamegeek.com/boardgame/15512/incan-gold) | 
+| ⁠Carcassonne |  [scheda BBG](https://boardgamegeek.com/boardgame/822/carcassonne) | 
+| ⁠King of Tokyo / King of monster island |  [scheda BBG](https://boardgamegeek.com/boardgame/70323/king-tokyo) | 
+| ⁠⁠Crossing |  [scheda BBG](https://boardgamegeek.com/boardgame/172971/crossing) | 
+| Splendor / Splendor Marvel |  [scheda BBG](https://boardgamegeek.com/boardgame/148228/splendor) | 
 
 ---
 
-## Città
+## Mappa
 
-!!! info "Proporre nuovi eventi"
-    Compilare questa 👉🏼 [Form](https://forms.gle/jHMDSRyyoLyGsMvv7)
+!!! info
+    Per proporre nuovi eventi compilare questa 👉🏼 [form di contatto](https://forms.gle/jHMDSRyyoLyGsMvv7)  
+    Per apportare modifiche scrivere in [mailing list](https://groups.google.com/g/ingiococonpapa)
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UuIn5vNkS8Sx4IpgfZJcW9S31Q_59qQ&ehbc=2E312F&noprof=1" width="100%" height="600"></iframe>
-
 
 ### Bergamo - Treviglio
 Dove:  
 Referente: **Antonio Ciocca**  
 
 ### Brescia
-Dove:  
-Referente: **Gianluca Daffi**
+Dove: **Bimbo Chiama Bimbo** - Via Sant’Antonio, 16 (Zona Mompiano), Brescia  
+Orario: Dalle 14:30  
+Referente: **Gianluca Daffi** - [email](mailto:daffi.gianluca@gmail.com)
 
 ### Domodossola
 Dove:   
@@ -177,12 +180,18 @@ Referente: **Francioli Jennifer** - [email](mailto:francij75@gmail.com)
 
 ### Firenze
 Dove: **Casa del Popolo di Settignano** - via San Romano 1, Firenze - [https://cdp.settignano.org](https://cdp.settignano.org/)  
-Orario: 10:30 - 15:30 (con pranzo al bar)  
+Orario: 11:00 - 16:00 (con pranzo al bar)  
 Referente: **Stefano Cecere** - [2042ed.org](https://2042ed.org) - [email](mailto:stefano.cecere@gmail.com)
 
 ### Forlì
+Dove:   
+
+### Imperia
+Dove: Centro Aggregativo Il Puerto  
+Referente: Fabio Boero 
 
 ### Legnano
+Dove:   
 
 ### Matera
 Dove:  
@@ -197,9 +206,12 @@ Referente: **Gabriele Mari** - [Educatori Ludici](https://www.facebook.com/educa
 Dove:  
 Referente: 
 
+### Roma
+Dove: a Monterotondo
+
 ### Treviso 
 Dove:  
-Referente: **Rossella Frascogna**  
+Referente: **Rossella Frascogna** ed **Erika Franceschini**  
 
 ## Condivisione
 Ovviamente siete liberi anzi incoraggiati a condividere questa iniziativa.
