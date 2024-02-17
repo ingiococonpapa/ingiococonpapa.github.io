@@ -103,6 +103,9 @@ Ogni territorio è libero di scegliere quante copie stampare e diffondere, in ba
 
 #### Materiali
 
+[![Brochure Preview](assets/img/brochure-preview.jpg)](./assets/pdf/brouchure-giochi-e-adhd.pdf)
+
+
 <div class="grid cards" markdown>
 
 - :fontawesome-solid-book: [Brochure Informativa su Giochi e ADHD](./assets/pdf/brouchure-giochi-e-adhd.pdf)<br>
