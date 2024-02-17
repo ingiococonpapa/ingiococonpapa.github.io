@@ -232,10 +232,10 @@ Basta condividere questo link [ingiococonpapa.github.io](https://ingiococonpapa.
 Registrarti con l'apposita [Form](https://forms.gle/jHMDSRyyoLyGsMvv7)
 
 - **Devo conoscere i giochi prima di parteciparvi?**  
-Sarebbe meglio di sì, per questo terremo un incontro formativo online la settimana prima, per spiegare i giochi a chi si sarà già registrato.
+Sarebbe meglio di sì, per questo terremo un incontro formativo online la settimana prima, per spiegare i giochi a chi si sarà già registrato.  Inoltre aggiungeremo alle schede di tutti i giochi dei video tutorial in italiano.
 
 - **Quanto durerà l'evento?**  
-A seconda degli organizzatori, ma in linea di massima da metà mattinata di domenica per almeno 3 ore.
+A seconda degli organizzatori, c'è chi lo farà di mattina, chi di pomeriggio, chi per tutto il giorno.  DI sicuro faremo una videochiamata tutti insieme alle 15:30
 
 - **Quanto costerà parteciparvi?**  
 Gli eventi sono gratuiti. Ogni gruppo valuterà se chiedere un piccolo rimborso spese o autofinanziarsi l'acquisto dei giochi.
