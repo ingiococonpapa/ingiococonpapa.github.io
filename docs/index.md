@@ -171,7 +171,6 @@ Per i bambini e i ragazzi con ADHD, poi, i giochi sono ancor più importanti, pe
     Per apportare modifiche scrivere in [mailing list](https://groups.google.com/g/ingiococonpapa)
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UuIn5vNkS8Sx4IpgfZJcW9S31Q_59qQ&ehbc=2E312F&noprof=1" width="100%" height="620"></iframe>
-[Link per aprire la mappa](https://www.google.com/maps/d/viewer?mid=1UuIn5vNkS8Sx4IpgfZJcW9S31Q_59qQ&ll=41.70653847881417%2C12.453754387499995&z=6)  
 
 ### Bergamo - Treviglio
 Dove:  
@@ -200,6 +199,7 @@ Referente: Fabio Boero
 
 ### Legnano
 Dove:   
+Referente: Valentina Giurbino  
 
 ### Matera
 Dove:  
