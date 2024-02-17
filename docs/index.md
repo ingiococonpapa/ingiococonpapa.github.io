@@ -15,11 +15,14 @@ Giornata di gioco e sensibilizzazione rivolta a bambini e ragazzi dai 5 ai 18 an
 [Gianluca Daffi](https://www.gianlucadaffi.it), [Gabriele Mari](https://www.facebook.com/educatoriludici), [Stefano Cecere](https://linktr.ee/cecere), Jennifer Francioli, [Emanuele Cristallo](https://www.zioludovico.it), Michela Savoldi, Marcello Scutra, Fausto Regosi.
 
 ## Contatti
-**Per partecipare o proporre di organizzare una nuova città**, compilare questa [Form di contatto :fontawesome-solid-paper-plane:](https://forms.gle/jHMDSRyyoLyGsMvv7){ .md-button .md-button--primary }  
+[Form di contatto :fontawesome-solid-paper-plane:](https://forms.gle/jHMDSRyyoLyGsMvv7){ .md-button .md-button--primary }  
 
-Per gli organizzatori di eventi, abbiamo una **mailing list**: [https://groups.google.com/g/ingiococonpapa](https://groups.google.com/g/ingiococonpapa) a cui sarete invitati o potete richiedere di essere iscritti.
+**Per partecipare o proporre di organizzare una nuova città**, compilare questa [Form di contatto](https://forms.gle/jHMDSRyyoLyGsMvv7)
 
-Per eventuali altre informazioni, scrivere a [Gianluca Daffi](mailto:daffi.gianluca@gmail.com)
+Per gli **organizzatori** di eventi, abbiamo una **mailing list**: [https://groups.google.com/g/ingiococonpapa](https://groups.google.com/g/ingiococonpapa) a cui sarete invitati o potete richiedere di essere iscritti.
+
+Per eventuali altre informazioni, scrivere a [Gianluca Daffi](mailto:daffi.gianluca@gmail.com)  
+Per questo sito o materiali di comunicazione, scrivere a [Stefano Cecere](mailto:stefano.cecere@gmail.com)
 
 ---
 ## Calendario
@@ -33,7 +36,8 @@ Per eventuali altre informazioni, scrivere a [Gianluca Daffi](mailto:daffi.gianl
 
 - Martedì 5 Marzo 20:30 | Seminario online su ADHD e DOP per i volontari
 - Martedì 12 Marzo 20:30 | Seminario online sulle regole dei giochi per i volontari
-- Domenica 17 Marzo: EVENTO
+- Domenica 17 Marzo: EVENTO (ogni città con suo orario)
+    - alle 15:30 faremo una videochiamata tra tutte le città
 
 ---
 
@@ -213,7 +217,10 @@ Dove: a Monterotondo
 Dove:  
 Referente: **Rossella Frascogna** ed **Erika Franceschini**  
 
-## Condivisione
+## Diffusione
+
+Usiamo tutti l'**hashtag** `#ingiococonpapa`  
+
 Ovviamente siete liberi anzi incoraggiati a condividere questa iniziativa.
 Basta condividere questo link [ingiococonpapa.github.io](https://ingiococonpapa.github.io) o usare questa immagine nei sociale media:
 
