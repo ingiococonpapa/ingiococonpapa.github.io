@@ -237,6 +237,11 @@ Referente: **Erika Franceschini** - [email](mailto:erikafranceschini2@gmail.com)
 Dove:  
 Referente: **Rossella Frascogna**
 
+### Venezia
+--- in definizione ---  
+Dove:  
+Referente: Elisa Carmen Brumat
+
 ## Diffusione
 
 Usiamo tutti l'**hashtag** `#ingiococonpapa`  
