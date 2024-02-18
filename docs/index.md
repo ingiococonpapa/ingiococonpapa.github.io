@@ -54,7 +54,7 @@ Ad esempio, le difficoltà di socializzazione possono portare a bassa autostima,
 
 È importante promuovere sempre **nuove modalità per favorire la conoscenza dei disturbi del comportamento** e dar vita a **esperienze che sostengano l'inclusione** dei soggetti che ne sono colpiti.
 
-## Obiettivi
+### Obiettivi
 L'evento "In Gioco con Papà", che si svolgerà Domenica 17 Marzo 2024 in differenti città italiane, si pone come obiettivo generale quello di **promuovere una cultura dell’inclusione nei riguardi dei soggetti con difficoltà del comportamento**, cogliendo come occasione la una giornata di festa collegata ad una ricorrenza che è sia religiosa che civile, avendo come significato non solo la celebrazione della figura del padre ma, più in generale, di tutti coloro che, senza pregiudizi, sono disponibili ad accogliere, prendersi cura dell’altro e mettersi ogni giorno in gioco per dare ad ogni l’opportunità di crescere serenamente.
 
 Gli obiettivi di dettaglio sono:
@@ -93,21 +93,6 @@ Si ricorda che la data dell'evento è stabilita dal comitato organizzativo centr
 Per la stampa potete mandare il pdf in copisteria o usare un servizio online come [www.stampaprint.net](https://www.stampaprint.net) che offre un buon rapporto qualità/prezzo.  
 Ogni territorio è libero di scegliere quante copie stampare e diffondere in base alle proprie esigenze. Tuttavia, si ricorda che il fine ultimo dell'evento è la sensibilizzazione sui temi riportati sui materiali informativi.
 
-#### Materiali
-
-<div class="grid cards" markdown>
-
-- :fontawesome-solid-book: [Brochure Informativa su Giochi e ADHD](./assets/pdf/brouchure-giochi-e-adhd.pdf)<br>
-Da scaricare e stampare
-
-- :fontawesome-solid-book: [Volantino per la diffusione](./assets/pdf/volantino-papaingioco-17marzo2024.pdf)<br>
-Da scaricare e stampare
-
-- :fontawesome-solid-book: [Volantino (Canva) da modificare](https://www.canva.com/design/DAF7qEQOsv4/RMtEhlKL-4U2PzKCOhl5Nw/edit)<br> personalizzabile con luogo e orari del proprio evento
-
-</div>
-
----
 ## Brochure Informativa
 [![Brochure Preview](assets/img/brochure-preview.jpg)](./assets/pdf/brouchure-giochi-e-adhd.pdf)
 
@@ -133,10 +118,26 @@ Per i bambini e i ragazzi con ADHD, poi, i giochi sono ancor più importanti, pe
 4. **Stimolano le abilità sociali**: i giochi da tavolo sono attività di gruppo che incoraggiano la collaborazione, la comunicazione e l'interazione sociale. Questo è di grande beneficio per superare eventuali difficoltà nelle relazioni sociali. Il giocare insieme può aiutare a migliorare le capacità di comunicazione, a comprendere le dinamiche sociali e a sviluppare legami con i coetanei.
 5. **Offrono un ambiente strutturato e prevedibile**: la struttura e le regole chiare dei giochi da tavolo forniscono un ambiente prevedibile che risulta rassicurante per le persone con ADHD, che normalmente traggono grandi benefici da routine e strutture chiare.
 
+## Materiali da scaricare {#materiali}
+
+<div class="grid cards" markdown>
+
+- :fontawesome-solid-book: [Brochure Informativa su Giochi e ADHD](./assets/pdf/brouchure-giochi-e-adhd.pdf)<br>
+Da scaricare e stampare
+
+- :fontawesome-solid-book: [Volantino per la diffusione](./assets/pdf/volantino-papaingioco-17marzo2024.pdf)<br>
+Da scaricare e stampare
+
+- :fontawesome-solid-book: [Volantino (Canva) da modificare](https://www.canva.com/design/DAF7qEQOsv4/RMtEhlKL-4U2PzKCOhl5Nw/edit)<br> personalizzabile con luogo e orari del proprio evento
+
+</div>
+
+---
+
 ## Lista dei giochi proposti
 
 !!! warning "Attenzione"
-    Gli organizzatori territoriali **non** dovranno utilizzare tutti i giochi riportati nella lista, ma selezionare solo alcuni tra i giochi proposti in base alle caratteristiche dell’evento concordato con il comitato organizzativo centrale.
+    Gli organizzatori territoriali **non** dovranno utilizzare tutti i giochi riportati nella lista, ma selezionarne solo alcuni in base alle caratteristiche dell’evento concordato con il comitato organizzativo centrale.
 
 ### Per i piccoli
 
@@ -162,7 +163,7 @@ Per i bambini e i ragazzi con ADHD, poi, i giochi sono ancor più importanti, pe
 
 ---
 
-## Mappa
+## Mappa Eventi {#mappa}
 
 !!! info
     Per proporre nuovi eventi compilare questa 👉🏼 [form di contatto](https://forms.gle/jHMDSRyyoLyGsMvv7)  
@@ -171,6 +172,7 @@ Per i bambini e i ragazzi con ADHD, poi, i giochi sono ancor più importanti, pe
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UuIn5vNkS8Sx4IpgfZJcW9S31Q_59qQ&ehbc=2E312F&noprof=1" width="100%" height="620"></iframe>
 
 ### Bergamo - Treviglio
+--- in definizione ---  
 Dove:  
 Referente: **Antonio Ciocca**  
 
@@ -180,6 +182,7 @@ Orario: Dalle 14:30
 Referente: **Gianluca Daffi** - [email](mailto:daffi.gianluca@gmail.com)
 
 ### Domodossola
+--- in definizione ---  
 Dove:   
 Referente: **Francioli Jennifer** - [email](mailto:francij75@gmail.com)
 
@@ -189,6 +192,7 @@ Orario: 11:00 - 16:00 (con pranzo al bar)
 Referente: **Stefano Cecere** - [2042ed.org](https://2042ed.org) - [email](mailto:stefano.cecere@gmail.com)
 
 ### Forlì
+--- in definizione ---  
 Dove:   
 
 ### Imperia
@@ -196,6 +200,7 @@ Dove: Centro Aggregativo Il Puerto
 Referente: Fabio Boero 
 
 ### Legnano
+--- in definizione ---  
 Dove:   
 Referente: Valentina Giurbino  
 
@@ -203,21 +208,34 @@ Referente: Valentina Giurbino
 Dove:  
 Referente: **Emanuele Cristallo**  
 
+### Milano
+--- in definizione ---
+
+### Pavia
+--- in definizione ---
+
 ### Ravenna
 Dove: Centro RicreAzioni, via Don Carlo Sala 7, Ravenna  
 Orario: 15:00 - 18:00  
-Referente: **Gabriele Mari** - [Educatori Ludici](https://www.facebook.com/educatoriludici) - [email](mailto:progetti.innovativi@cooplapieve.it) -  3281552787  
+Referente: **Gabriele Mari** - [Educatori Ludici](https://www.facebook.com/educatoriludici) - [email](mailto:progetti.innovativi@cooplapieve.it) - 3281552787  
 
 ### Rimini
+--- in definizione ---  
 Dove:  
 Referente: 
 
 ### Roma
+--- in definizione ---  
 Dove: a Monterotondo
 
-### Treviso 
+### Treviso - Giavera del Montello
+Dove: Sale parrocchiali di Cusignana, piazza IV Novembre - Giavera del Montello  
+Referente: **Erika Franceschini** - [email](mailto:erikafranceschini2@gmail.com) - 3493790747  
+
+### Treviso
+--- in definizione ---  
 Dove:  
-Referente: **Rossella Frascogna** ed **Erika Franceschini**  
+Referente: **Rossella Frascogna**
 
 ## Diffusione
 
