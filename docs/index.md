@@ -4,7 +4,7 @@ description: giornata di gioco e sensibilizzazione rivolta a bambini e ragazzi d
 hide:
   - navigation
 ---
-![in gioco con papà](assets/img/header.png)
+![in gioco con papà](assets/img/banner-ingiococonpapa.png)
 
 # In GIOCO con PAPÀ
 **Domenica 17 Marzo 2024**  
@@ -21,8 +21,8 @@ Giornata di gioco e sensibilizzazione rivolta a bambini e ragazzi dai 5 ai 18 an
 
 Per gli **organizzatori** di eventi, abbiamo una **mailing list**: [https://groups.google.com/g/ingiococonpapa](https://groups.google.com/g/ingiococonpapa) a cui sarete invitati o potete richiedere di essere iscritti.
 
-Per eventuali altre informazioni, scrivere a [Gianluca Daffi](mailto:daffi.gianluca@gmail.com)  
-Per questo sito o materiali di comunicazione, scrivere a [Stefano Cecere](mailto:stefano.cecere@gmail.com)
+Per altre informazioni: [Gianluca Daffi](mailto:daffi.gianluca@gmail.com)  
+Per questo sito o comunicazione: [Stefano Cecere](mailto:stefano.cecere@gmail.com)
 
 ---
 ## Calendario
@@ -70,34 +70,28 @@ Gli obiettivi di dettaglio sono:
 ### FASE 1 - incontri preliminari
 Individuare un gruppo di papà che si renda disponibile nel gestire mezza giornata di attività ludica con giochi in scatola che verranno indicati agli organizzatori del territorio da un comitato centrale. I papà potranno decidere chi invitare a questo evento, come promuoverlo e come organizzare/gestire i tavoli da gioco.
 
-I papà volontari verranno invitati a partecipare a due brevi incontri formativi online, della durata di circa un'ora ciascuno.
+I papà volontari verranno invitati a partecipare a **due incontri formativi online**:
 
 1. **Nel primo incontro** (Martedì 5 Marzo) a cura del Prof. Gianluca Daffi e della D.ssa Jeniffer Francioli, verranno presentate le **caratteristiche dell'ADHD** (deficit dell'attenzione e iperattività) **e del DOP** (disturbo oppositivo provocatorio), al fine di preparare i papà alla gestione dei bambini/ragazzi che potrebbero presentarsi a giocare. La conoscenza di queste difficoltà è importante per promuovere una cultura inclusiva.
-2. **Nel secondo incontro** (Martedì 12 Marzo) a cura di Gabriele Mari, Stefano Cecere ed Emanuele Cristallo, **verranno presentate le regole dei giochi** in scatola selezionati dal comitato scientifico dell'evento.
+2. **Nel secondo incontro** (Martedì 12 Marzo) a cura di Gabriele Mari, Stefano Cecere ed Emanuele Cristallo, **verranno presentate le regole dei giochi**  suggeriti.
 
 Al termine della formazione online i papà volontari riceveranno del materiale informativo a supporto. Inoltre, durante tutta la giornata saranno affiancati da un responsabile dell'evento competente sui giochi proposti.
 
 ### FASE 2 - organizzazione
 
-**Individuare una location** che permetta ai papà volontari di giocare comodamente con i bambini/ragazzi partecipanti all'evento. La location deve essere comunicata al comitato scientifico almeno 10 giorni prima dell'evento in modo da poter inserire l'evento territoriale nella lista degli eventi affiliati all'iniziativa.
-
-Dopo aver ricevuto comunicazione relativa alla location, il comitato scientifico invierà a tutti gli organizzatori che desiderano attivare l'evento presso il proprio territorio la lista dei giochi selezionati. I giochi devono essere in possesso del gruppo di volontari in occasione del secondo incontro formativo online.
+**Individuare una location** che permetta ai papà volontari di giocare comodamente con i bambini/ragazzi partecipanti all'evento. La location deve essere comunicata al comitato scientifico almeno 10 giorni prima dell'evento in modo da poter aggiornalre la lista degli eventi affiliati all'iniziativa.
 
 **Ogni organizzazione territoriale è responsabile del recupero dei giochi utili per l’evento.**  
-
-Qualora tra i giochi indicati dal comitato ve ne fossero alcuni non disponibili, l'organizzatore territoriale dovrà avvisare un membro del comitato stesso. Se possibile, il comitato fornirà un aiuto per recuperare il gioco mancante.
+I giochi dovranno essere in possesso del gruppo di volontari in occasione del secondo incontro formativo online.  
+Qualora alcuni giochi suggeriti non fossero disponibili, l'organizzatore territoriale dovrà avvisare un membro del comitato stesso. Se possibile, il comitato fornirà un aiuto per recuperare il gioco mancante.
 
 Si ricorda che la data dell'evento è stabilita dal comitato organizzativo centrale e ha validità nazionale, tuttavia **ogni territorio è libero di definire l’orario di inizio e fine della propria iniziativa**.
 
-Il comitato organizzativo centrale ha realizzato **un depliant con un format comune** per promuovere l’evento, tale depliant verrà inviato ad ogni responsabile territoriale per poter essere personalizzato inserendo le informazioni relative alla location e agli orario di inizio/fine evento.
-
 ### FASE 3 - stampa materiale
 
-**Stampare il materiale informativo sulle difficoltà del comportamento e sul gioco come veicolo per promuovere l’inclusione e favorire la socializzazione** che verrà inviato dal comitato scientifico agli organizzatori di ogni evento territoriale e che dovrà essere diffuso in occasione dell’evento stesso.
-
-Gli organizzatori territoriali potranno, ma non necessariamente dovranno, fare riferimento al servizio online [www.stampaprint.net](https://www.stampaprint.net), che offre un buon rapporto qualità/prezzo.
-
-Ogni territorio è libero di scegliere quante copie stampare e diffondere, in base alle proprie esigenze. Tuttavia, si ricorda che il fine ultimo dell'evento è la sensibilizzazione sui temi riportati sui materiali informativi.
+**Stampare il materiale informativo sulle difficoltà del comportamento e sul gioco come veicolo per promuovere l’inclusione e favorire la socializzazione**.  
+Per la stampa potete mandare il pdf in copisteria o usare un servizio online come [www.stampaprint.net](https://www.stampaprint.net) che offre un buon rapporto qualità/prezzo.  
+Ogni territorio è libero di scegliere quante copie stampare e diffondere in base alle proprie esigenze. Tuttavia, si ricorda che il fine ultimo dell'evento è la sensibilizzazione sui temi riportati sui materiali informativi.
 
 #### Materiali
 
@@ -119,9 +113,7 @@ Da scaricare e stampare
 
 ### Conoscere l'ADHD
 L'ADHD, o Disturbo da Deficit di Attenzione e Iperattività, è un **disturbo del neurosviluppo** che si manifesta con disattenzione e/o iperattività e impulsività.
-Questi sintomi possono interferire con lo sviluppo e il funzionamento quotidiano di bambini, adolescenti e adulti.  
-La quinta edizione del Manuale diagnostico e statistico dei disturbi mentali (DSM5) indica che la diagnosi di ADHD può essere considerata quando i sintomi perdurano nel tempo, sono presenti in più contesti di vita e sono comparsi prima dei 12 anni di età.  
-È bene ricordare che i disturbi del neurosviluppo sono causati da alterazioni del sistema nervoso centrale che si verificano durante lo sviluppo del bambino.
+Questi sintomi possono interferire con lo sviluppo e il funzionamento quotidiano di bambini, adolescenti e adulti. La quinta edizione del Manuale diagnostico e statistico dei disturbi mentali (DSM5) indica che la diagnosi di ADHD può essere considerata quando i sintomi perdurano nel tempo, sono presenti in più contesti di vita e sono comparsi prima dei 12 anni di età. È bene ricordare che i disturbi del neurosviluppo sono causati da alterazioni del sistema nervoso centrale che si verificano durante lo sviluppo del bambino.
 
 **L'ADHD non è come decidere di essere disattenti o iperattivi.**  
 **È come trovarsi dinanzi ad un ostacolo che rende difficile concentrarsi o stare fermi.**
@@ -130,9 +122,7 @@ I bambini e ragazzi con ADHD faticano più degli altri a mantenere la concentraz
 
 ### I giochi da tavolo fanno bene
 
-I giochi da tavolo sono un passatempo prezioso per la **famiglia**: offrono un'opportunità unica di trascorrere del **tempo di qualità** insieme, lontano dagli schermi e dalle distrazioni.  
-È un momento in cui genitori e figli possono connettersi, ridere insieme e creare ricordi duraturi. I giochi stimolano la **comunicazione e l’interazione** all’interno di un clima di apertura, fiducia e collaborazione.  
-Giocando con i nostri figli **favoriamo il loro sviluppo cognitivo**, aiutandoli a **migliorare le loro capacità** di ragionamento e di problem-solving.  
+I giochi da tavolo sono un passatempo prezioso per la **famiglia**: offrono un'opportunità unica di trascorrere del **tempo di qualità** insieme, lontano dagli schermi e dalle distrazioni. È un momento in cui genitori e figli possono connettersi, ridere insieme e creare ricordi duraturi. I giochi stimolano la **comunicazione e l’interazione** all’interno di un clima di apertura, fiducia e collaborazione. Giocando con i nostri figli **favoriamo il loro sviluppo cognitivo**, aiutandoli a **migliorare le loro capacità** di ragionamento e di problem-solving.  
 I giochi da tavolo sono quindi un ottimo modo per creare un **ambiente divertente e rilassante** per tutta la famiglia, una pausa dalla routine quotidiana che permette a tutti di distendersi e di divertirsi.
 
 Per i bambini e i ragazzi con ADHD, poi, i giochi sono ancor più importanti, perché ne supportano lo sviluppo e il benessere:
@@ -240,8 +230,9 @@ Basta condividere questo link [ingiococonpapa.github.io](https://ingiococonpapa.
 
 ## FAQ (Domande e Risposte)
 
-- **Cosa devo fare se voglio solo partecipare?**
-Registrarti con l'apposita [Form](https://forms.gle/jHMDSRyyoLyGsMvv7)
+- **Cosa devo fare se voglio solo partecipare?**  
+Registrarsi con l'apposita [Form](https://forms.gle/jHMDSRyyoLyGsMvv7)
+Sarete invitati ad una mailing list degli organizzatori e lì fornirete i dettagli del vostro evento, che saranno pubblicati su questo sito.
 
 - **Devo conoscere i giochi prima di parteciparvi?**  
 Sarebbe meglio di sì, per questo terremo un incontro formativo online la settimana prima, per spiegare i giochi a chi si sarà già registrato.  Inoltre aggiungeremo alle schede di tutti i giochi dei video tutorial in italiano.
