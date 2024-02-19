@@ -19,7 +19,7 @@ Giornata di gioco e sensibilizzazione rivolta a bambini e ragazzi dai 5 ai 18 an
 
 **Per partecipare o proporre di organizzare una nuova città**, compilare questa [Form di contatto](https://forms.gle/jHMDSRyyoLyGsMvv7)
 
-Per gli **organizzatori** di eventi, abbiamo una **mailing list**: [https://groups.google.com/g/ingiococonpapa](https://groups.google.com/g/ingiococonpapa) a cui sarete invitati o potete richiedere di essere iscritti.
+Per gli **organizzatori** di eventi, abbiamo una **mailing list**: [https://groups.google.com/g/ingiococonpapa](https://groups.google.com/g/ingiococonpapa) a cui sarete invitati dopo che avrete compilato la form e ci saremo sentiti.
 
 Per altre informazioni: [Gianluca Daffi](mailto:daffi.gianluca@gmail.com)  
 Per questo sito o comunicazione: [Stefano Cecere](mailto:stefano.cecere@gmail.com)
@@ -27,16 +27,18 @@ Per questo sito o comunicazione: [Stefano Cecere](mailto:stefano.cecere@gmail.co
 ---
 ## Calendario
 
-**Febbraio**
+**Febbraio**  
+Diffusione per individuare tutte le città interessate e trovare i volontari
 
-- Individuazione delle location
-- Individuazione dei volontari
+- Giovedì 22 - 19:15 | breve riunione di aggiornamento con i nuovi organizzatori
+- Giovedì 29 - 19:15 | breve riunione di aggiornamento con i nuovi organizzatori
 
 **Marzo**
 
-- Martedì 5 Marzo 20:30 | Seminario online su ADHD e DOP per i volontari
-- Martedì 12 Marzo 20:30 | Seminario online sulle regole dei giochi per i volontari
-- Domenica 17 Marzo: EVENTO (ogni città con suo orario)
+- Martedì 5 - 20:30 | Seminario online su ADHD e DOP per i volontari
+- Martedì 12 - 20:30 | Seminario online sulle regole dei giochi per i volontari
+- Giovedì 14 - 19:15 | ultimo aggiornamento tra gli organizzatori
+- Domenica 17: EVENTO (ogni città con suo orario)
     - alle 15:30 faremo una videochiamata tra tutte le città
 
 ---
@@ -254,7 +256,7 @@ Usiamo tutti l'**hashtag** `#ingiococonpapa`
 Ovviamente siete liberi anzi incoraggiati a condividere questa iniziativa.
 Basta condividere questo link [ingiococonpapa.github.io](https://ingiococonpapa.github.io) o usare questa immagine nei sociale media:
 
-![in gioco con papà](assets/img/header.png)
+![in gioco con papà](assets/img/banner-ingiococonpapa.png)
 
 ## FAQ (Domande e Risposte)
 
