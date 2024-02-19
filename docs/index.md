@@ -204,6 +204,11 @@ Referente: Fabio Boero
 Dove:   
 Referente: Valentina Giurbino  
 
+### Mantova
+--- in definizione ---  
+Dove:  
+Referente: Filomena Cesarano
+
 ### Matera
 Dove:  
 Referente: **Emanuele Cristallo**  
