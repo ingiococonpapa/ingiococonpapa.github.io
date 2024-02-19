@@ -183,6 +183,11 @@ Dove: **Bimbo Chiama Bimbo** - Via Sant’Antonio, 16 (Zona Mompiano), Brescia
 Orario: Dalle 14:30  
 Referente: **Gianluca Daffi** - [email](mailto:daffi.gianluca@gmail.com)
 
+### Cremona
+--- in definizione ---  
+Dove:   
+Referente: 
+
 ### Domodossola
 --- in definizione ---  
 Dove:   
