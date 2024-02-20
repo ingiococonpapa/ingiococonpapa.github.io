@@ -50,7 +50,7 @@ Le persone con difficoltà del comportamento possono affrontare una serie di sfi
 - **Bassa autostima** che può portare le persone con difficoltà del comportamento a sentirsi come se non fossero abbastanza brave, intelligenti o capaci. Ciò può portare a problemi di depressione, ansia e isolamento sociale.
 - **Disturbi emotivi**, come l'ansia o la depressione, che sono più comuni nelle persone con difficoltà del comportamento. Questi disturbi possono avere un impatto significativo sulla vita quotidiana, rendendo difficile concentrarsi, prendere decisioni e gestire lo stress.
 
-Questi aspetti sono interconnessi e possono alimentarsi a vicenda. 
+Questi aspetti sono interconnessi e possono alimentarsi a vicenda.  
 
 Ad esempio, le difficoltà di socializzazione possono portare a bassa autostima, che può portare a disturbi emotivi. Questi disturbi possono, a loro volta, rendere più difficile per le persone con difficoltà del comportamento concentrarsi e socializzare in maniera soddisfacente.
 
@@ -147,7 +147,7 @@ Da scaricare e stampare
 |---|---|---|
 | C’era un Pirata | Erickson | [scheda BBG](https://boardgamegeek.com/boardgame/253115/cera-un-pirata) |
 | A caccia di conchiglie | Erickson | [scheda BBG](https://boardgamegeek.com/boardgame/400811/caccia-di-conchiglie) |
-| Taco gatto cacio capra pizza | 	Ghenos | [scheda BBG](https://boardgamegeek.com/boardgame/253664/taco-cat-goat-cheese-pizza) |
+| Taco gatto cacio capra pizza | Ghenos | [scheda BBG](https://boardgamegeek.com/boardgame/253664/taco-cat-goat-cheese-pizza) |
 | ⁠Ice cool | Oliphante   | [scheda BBG](https://boardgamegeek.com/boardgame/177524/icecool) |
 | Catan junior |  | [scheda BBG](https://boardgamegeek.com/boardgame/184842/catan-junior) |
 | Fantascatti / Fantablitz |  | [scheda BBG](https://boardgamegeek.com/boardgame/83195/ghost-blitz) |
@@ -156,12 +156,12 @@ Da scaricare e stampare
 
 | Titolo | Scheda BGG |
 |---|---|
-| Saboteur | [scheda BBG](https://boardgamegeek.com/boardgame/9220/saboteur) | 
-| ⁠Diamant |  [scheda BBG](https://boardgamegeek.com/boardgame/15512/incan-gold) | 
-| ⁠Carcassonne |  [scheda BBG](https://boardgamegeek.com/boardgame/822/carcassonne) | 
-| ⁠King of Tokyo / King of monster island |  [scheda BBG](https://boardgamegeek.com/boardgame/70323/king-tokyo) | 
-| ⁠⁠Crossing |  [scheda BBG](https://boardgamegeek.com/boardgame/172971/crossing) | 
-| Splendor / Splendor Marvel |  [scheda BBG](https://boardgamegeek.com/boardgame/148228/splendor) | 
+| Saboteur | [scheda BBG](https://boardgamegeek.com/boardgame/9220/saboteur) |
+| ⁠Diamant |  [scheda BBG](https://boardgamegeek.com/boardgame/15512/incan-gold) |
+| ⁠Carcassonne |  [scheda BBG](https://boardgamegeek.com/boardgame/822/carcassonne) |
+| ⁠King of Tokyo / King of monster island |  [scheda BBG](https://boardgamegeek.com/boardgame/70323/king-tokyo) |
+| ⁠⁠Crossing |  [scheda BBG](https://boardgamegeek.com/boardgame/172971/crossing) |
+| Splendor / Splendor Marvel |  [scheda BBG](https://boardgamegeek.com/boardgame/148228/splendor) |
 
 ---
 
@@ -172,6 +172,11 @@ Da scaricare e stampare
     Per apportare modifiche scrivere in [mailing list](https://groups.google.com/g/ingiococonpapa)
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UuIn5vNkS8Sx4IpgfZJcW9S31Q_59qQ&ehbc=2E312F&noprof=1" width="100%" height="620"></iframe>
+
+### Assisi
+--- in definizione ---  
+Dove:  
+Referente: **Giacomo Piccioni**  
 
 ### Bergamo - Treviglio
 --- in definizione ---  
@@ -185,12 +190,12 @@ Referente: **Gianluca Daffi** - [email](mailto:daffi.gianluca@gmail.com)
 
 ### Cremona
 --- in definizione ---  
-Dove:   
-Referente: 
+Dove:  
+Referente:  
 
 ### Domodossola
 --- in definizione ---  
-Dove:   
+Dove:  
 Referente: **Francioli Jennifer** - [email](mailto:francij75@gmail.com)
 
 ### Firenze
@@ -200,15 +205,15 @@ Referente: **Stefano Cecere** - [2042ed.org](https://2042ed.org) - [email](mailt
 
 ### Forlì
 --- in definizione ---  
-Dove:   
+Dove:  
 
 ### Imperia
 Dove: Centro Aggregativo Il Puerto  
-Referente: Fabio Boero 
+Referente: Fabio Boero  
 
 ### Legnano
 --- in definizione ---  
-Dove:   
+Dove:  
 Referente: Valentina Giurbino  
 
 ### Mantova
@@ -234,7 +239,7 @@ Referente: **Gabriele Mari** - [Educatori Ludici](https://www.facebook.com/educa
 ### Rimini
 --- in definizione ---  
 Dove:  
-Referente: 
+Referente:  
 
 ### Roma
 --- in definizione ---  
