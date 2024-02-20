@@ -7,12 +7,34 @@ hide:
 ![in gioco con papà](assets/img/banner-ingiococonpapa.png)
 
 # In GIOCO con PAPÀ
-**Domenica 17 Marzo 2024**  
-Giornata di gioco e sensibilizzazione rivolta a bambini e ragazzi dai 5 ai 18 anni intorno alla Festaè del Papà, in diverse città d'Italia. Qui trovate tutte le informazioni per partecipare o organizzare un nuovo evento nella tua città.
+
+> **Domenica 17 Marzo 2024: una giornata di gioco** e sensibilizzazione rivolta a bambini e ragazzi dai 5 ai 18 anni intorno alla **Festa del Papà**, in **diverse città d'Italia**.
+
+Qui trovate tutte le informazioni per partecipare ad un incontro o organizzare un nuovo evento nella tua città.
 
 ## Chi siamo
-**Comitato Organizzativo**  
+**Comitato Organizzatore**  
 [Gianluca Daffi](https://www.gianlucadaffi.it), [Gabriele Mari](https://www.facebook.com/educatoriludici), [Stefano Cecere](https://linktr.ee/cecere), Jennifer Francioli, [Emanuele Cristallo](https://www.zioludovico.it), Michela Savoldi, Marcello Scutra, Fausto Regosi.
+
+---
+
+## Calendario
+
+**Febbraio**  
+Diffusione per individuare tutte le città interessate e trovare i volontari
+
+- Giovedì 22 - 19:15 | breve **riunione di aggiornamento** con i nuovi organizzatori
+- Giovedì 29 - 19:15 | breve **riunione di aggiornamento** con i nuovi organizzatori
+
+**Marzo**
+
+- Martedì 5 - 20:30 | **Seminario online** su ADHD e DOP per i volontari
+- Martedì 12 - 20:30 | **Seminario online** sulle regole dei giochi per i volontari
+- Giovedì 14 - 19:15 | ultimo aggiornamento tra gli organizzatori
+- **Domenica 17: EVENTO** (ogni città con suo orario)
+    - alle 15:30 faremo una videochiamata tra tutte le città
+
+---
 
 ## Contatti
 [Form di contatto :fontawesome-solid-paper-plane:](https://forms.gle/jHMDSRyyoLyGsMvv7){ .md-button .md-button--primary }  
@@ -23,23 +45,6 @@ Per gli **organizzatori** di eventi, abbiamo una **mailing list**: [https://grou
 
 Per altre informazioni: [Gianluca Daffi](mailto:daffi.gianluca@gmail.com)  
 Per questo sito o comunicazione: [Stefano Cecere](mailto:stefano.cecere@gmail.com)
-
----
-## Calendario
-
-**Febbraio**  
-Diffusione per individuare tutte le città interessate e trovare i volontari
-
-- Giovedì 22 - 19:15 | breve riunione di aggiornamento con i nuovi organizzatori
-- Giovedì 29 - 19:15 | breve riunione di aggiornamento con i nuovi organizzatori
-
-**Marzo**
-
-- Martedì 5 - 20:30 | Seminario online su ADHD e DOP per i volontari
-- Martedì 12 - 20:30 | Seminario online sulle regole dei giochi per i volontari
-- Giovedì 14 - 19:15 | ultimo aggiornamento tra gli organizzatori
-- Domenica 17: EVENTO (ogni città con suo orario)
-    - alle 15:30 faremo una videochiamata tra tutte le città
 
 ---
 
@@ -76,8 +81,6 @@ I papà volontari verranno invitati a partecipare a **due incontri formativi onl
 
 1. **Nel primo incontro** (Martedì 5 Marzo) a cura del Prof. Gianluca Daffi e della D.ssa Jeniffer Francioli, verranno presentate le **caratteristiche dell'ADHD** (deficit dell'attenzione e iperattività) **e del DOP** (disturbo oppositivo provocatorio), al fine di preparare i papà alla gestione dei bambini/ragazzi che potrebbero presentarsi a giocare. La conoscenza di queste difficoltà è importante per promuovere una cultura inclusiva.
 2. **Nel secondo incontro** (Martedì 12 Marzo) a cura di Gabriele Mari, Stefano Cecere ed Emanuele Cristallo, **verranno presentate le regole dei giochi**  suggeriti.
-
-Al termine della formazione online i papà volontari riceveranno del materiale informativo a supporto. Inoltre, durante tutta la giornata saranno affiancati da un responsabile dell'evento competente sui giochi proposti.
 
 ### FASE 2 - organizzazione
 
