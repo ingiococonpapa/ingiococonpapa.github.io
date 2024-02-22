@@ -186,7 +186,7 @@ Referente: **Giacomo Piccioni**
 Dove:  
 Referente: **Antonio Ciocca**  
 
-### Brescia
+### Brescia ✅
 Dove: **Bimbo Chiama Bimbo** - Via Sant’Antonio, 16 (Zona Mompiano), Brescia  
 Orario: Dalle 14:30  
 Referente: **Gianluca Daffi** - [email](mailto:daffi.gianluca@gmail.com)
@@ -201,8 +201,8 @@ Referente:
 Dove:  
 Referente: **Francioli Jennifer** - [email](mailto:francij75@gmail.com)
 
-### Firenze
-Dove: **Casa del Popolo di Settignano** - via San Romano 1, Firenze - [https://cdp.settignano.org](https://cdp.settignano.org/)  
+### Firenze ✅
+Dove: **Casa del Popolo di Settignano** - via San Romano 1, Firenze - [sito](https://cdp.settignano.org/)  
 Orario: 11:00 - 16:00 (con pranzo al bar)  
 Referente: **Stefano Cecere** - [2042ed.org](https://2042ed.org) - [email](mailto:stefano.cecere@gmail.com)
 
@@ -219,12 +219,11 @@ Referente: Fabio Boero
 Dove:  
 Referente: Valentina Giurbino  
 
-### Mantova
---- in definizione ---  
-Dove:  
-Referente: Filomena Cesarano
+### Mantova ✅
+Dove: Biblioteca Mediateca "Gino Baratta", Corso Garibaldi 88, Mantova  
+Referente: **Filomena Cesarano** - Associazione Ludico Culturale Amici Ludici Aps - [email](mailto:cesarano.filomena87@gmail.com)
 
-### Matera
+### Matera ✅
 Dove:  
 Referente: **Emanuele Cristallo**  
 
@@ -234,7 +233,7 @@ Referente: **Emanuele Cristallo**
 ### Pavia
 --- in definizione ---
 
-### Ravenna
+### Ravenna ✅
 Dove: Centro RicreAzioni, via Don Carlo Sala 7, Ravenna  
 Orario: 15:00 - 18:00  
 Referente: **Gabriele Mari** - [Educatori Ludici](https://www.facebook.com/educatoriludici) - [email](mailto:progetti.innovativi@cooplapieve.it) - 3281552787  
@@ -248,7 +247,7 @@ Referente:
 --- in definizione ---  
 Dove: a Monterotondo
 
-### Treviso - Giavera del Montello
+### Treviso - Giavera del Montello ✅
 Dove: Sale parrocchiali di Cusignana, piazza IV Novembre - Giavera del Montello  
 Referente: **Erika Franceschini** - [email](mailto:erikafranceschini2@gmail.com) - 3493790747  
 
