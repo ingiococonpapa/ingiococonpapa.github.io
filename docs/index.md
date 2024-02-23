@@ -302,7 +302,7 @@ Se poi intorno ci saranno anche altri che giocano, non si può mandarli via, ma 
 I collaboratori per l'evento possono essere vari, non necessariamente papà con i propri figli. L'importante è che gli invitati siano appunto i papà + figli.
 
 - **Per l'evento sarebbe meglio un salone unico grande oppure delle stanze più piccole?**  
-Dipende sopratutto dall'insonorizzazione degli spazi: una grande salone che rimbomba è un problema, sopratutto quando si gioca con bambini e sopratutto con problemi di attenzione. Piuttosto meglio delle stanze più piccole.
+Tutto quello che si trova va bene. Ma potendo scegliere valutare sopratutto l'insonorizzazione degli spazi: meglio due o più spazi più piccoli rispetto ad un grande salone che rimbomba.
 
 - **Come nasce questa iniziativa?**  
 Da un'idea di Gianluca Daffi che voleva fare un incontro ludico papà / figli con disturbi del comportamento e da alcune telefonate con amici educatori ludici residenti in altre città.
