@@ -273,7 +273,7 @@ Basta condividere questo link [ingiococonpapa.github.io](https://ingiococonpapa.
 
 ![in gioco con papà](assets/img/banner-ingiococonpapa.png)
 
-## FAQ (Domande e Risposte)
+## FAQ (Domande e Risposte) {#faq}
 
 - **Cosa devo fare se voglio solo partecipare?**  
 Registrarsi con l'apposita [Form](https://forms.gle/jHMDSRyyoLyGsMvv7)
