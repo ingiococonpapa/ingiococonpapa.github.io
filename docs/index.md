@@ -196,8 +196,7 @@ Referente: **Gianluca Daffi** - [email](mailto:daffi.gianluca@gmail.com)
 Dove:  
 Referente:  
 
-### Domodossola
---- in definizione ---  
+### Domodossola  ✅
 Dove:  
 Referente: **Francioli Jennifer** - [email](mailto:francij75@gmail.com)
 
@@ -206,11 +205,12 @@ Dove: **Casa del Popolo di Settignano** - via San Romano 1, Firenze - [sito](htt
 Orario: 11:00 - 16:00 (con pranzo al bar)  
 Referente: **Stefano Cecere** - [2042ed.org](https://2042ed.org) - [email](mailto:stefano.cecere@gmail.com)
 
-### Forlì
+### Grosseto
 --- in definizione ---  
 Dove:  
+Referente:  
 
-### Imperia
+### Imperia  ✅
 Dove: Centro Aggregativo Il Puerto  
 Referente: Fabio Boero  
 
@@ -227,11 +227,14 @@ Referente: **Filomena Cesarano** - Associazione Ludico Culturale Amici Ludici Ap
 Dove:  
 Referente: **Emanuele Cristallo**  
 
-### Milano
---- in definizione ---
+### Milano - Rescaldina  ✅
+Dove:  
+Referente: **Fabio Gianquinto**  
 
 ### Pavia
 --- in definizione ---
+Dove:  
+Referente:  
 
 ### Ravenna ✅
 Dove: Centro RicreAzioni, via Don Carlo Sala 7, Ravenna  
@@ -290,6 +293,16 @@ Ogni gruppo deciderà e organizzerà in autonomia.
 
 - **Non c'è un evento nella mia città, cosa posso fare?**  
 Puoi provare ad organizzare tu un incontro. Basta essere in 3/4 genitori volontari. In questo sito troverai tutte le informazioni utili per poterlo fare in tranquillità e ci saranno due incontri formativi ad hoc.
+
+- **L'evento è rivolto a genitori/bambini o allargato?**  
+I protagonisti saranno i papà insieme ai propri figli.  
+Se poi intorno ci saranno anche altri che giocano, non si può mandarli via, ma dalla convocazione e dalla comunicazione deve essere chiaro chi stiamo cercando.
+
+- **I papà da coinvolgere: giocano con i figli, o collaorano e basta?**  
+I collaboratori per l'evento possono essere vari, non necessariamente papà con i propri figli. L'importante è che gli invitati siano appunto i papà + figli.
+
+- **Per l'evento sarebbe meglio un salone unico grande oppure delle stanze più piccole?**  
+Dipende sopratutto dall'insonorizzazione degli spazi: una grande salone che rimbomba è un problema, sopratutto quando si gioca con bambini e sopratutto con problemi di attenzione. Piuttosto meglio delle stanze più piccole.
 
 - **Come nasce questa iniziativa?**  
 Da un'idea di Gianluca Daffi che voleva fare un incontro ludico papà / figli con disturbi del comportamento e da alcune telefonate con amici educatori ludici residenti in altre città.
