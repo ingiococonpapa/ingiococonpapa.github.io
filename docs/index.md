@@ -211,8 +211,8 @@ Dove:
 Referente:  
 
 ### Imperia  ✅
-Dove: Centro Aggregativo Il Puerto  
-Referente: Fabio Boero  
+Dove: Centro Aggregativo Il Puerto - Via Matteotti 31, Imperia  
+Referente: Fabio Boero - [email](mailto:fabio.boero@centroancora.it)
 
 ### Legnano
 --- in definizione ---  
@@ -259,10 +259,9 @@ Referente: **Erika Franceschini** - [email](mailto:erikafranceschini2@gmail.com)
 Dove:  
 Referente: **Rossella Frascogna**
 
-### Venezia
---- in definizione ---  
-Dove:  
-Referente: Elisa Carmen Brumat
+### Venezia ✅
+Dove: La Casa delle Meraviglie, calle Larga Lavraneri 3, Venezia  
+Referente: Elisa Carmen Brumat - [email](mailto:ludoteca.babajaga@gmail.com)  
 
 ## Diffusione
 
