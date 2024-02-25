@@ -53,6 +53,8 @@ Per informazioni: [Gianluca Daffi](mailto:daffi.gianluca@gmail.com) - Per questo
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UuIn5vNkS8Sx4IpgfZJcW9S31Q_59qQ&ehbc=2E312F&noprof=1" width="100%" height="620"></iframe>
 
+### ✅ EVENTI CONFERMATI:  
+
 ### Brescia ✅
 Dove: **Bimbo Chiama Bimbo** - Via Sant’Antonio, 16 (Zona Mompiano), Brescia  
 Orario: Dalle 14:30  
@@ -97,20 +99,22 @@ Dove: La Casa delle Meraviglie, calle Larga Lavraneri 3, Venezia
 Referente: Elisa Carmen Brumat - [email](mailto:ludoteca.babajaga@gmail.com)  
 
 ---
+### EVENTI IN VIA DI DEFINIZIONE:
+
 ### Alì Terme (Messina)
 Referente: Rachele Bernava
 
 ### Assisi
 Referente: Giacomo Piccioni
 
-### Bergamo - Treviglio 
+### Bergamo - Treviglio
 Referente: Antonio Ciocca
 
 ### Cremona
 Referente: Alberto
 
-### Dosson (Treviso) 
-Referente: **Rossella Frascogna**
+### Dosson (Treviso)
+Referente: Rossella Frascogna
 
 ### Grosseto
 Referente: Carlo Donadio  
