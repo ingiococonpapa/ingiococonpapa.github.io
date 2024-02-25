@@ -58,6 +58,10 @@ Dove: **Bimbo Chiama Bimbo** - Via Sant’Antonio, 16 (Zona Mompiano), Brescia
 Orario: Dalle 14:30  
 Referente: **Gianluca Daffi** - [email](mailto:daffi.gianluca@gmail.com)
 
+### Castelluccio Superiore (Potenza)
+Dove: Biblioteca comunale di Castelluccio Superiore - Vico Gelso 48, Castelluccio Superiore (PZ)  
+Referente: Isabella Labanca - Associazione Completa.Mente - [email](mailto:labancaisa@gmail.com)  
+
 ### Domodossola  ✅
 Dove:  
 Referente: **Francioli Jennifer** - [email](mailto:francij75@gmail.com)
@@ -101,9 +105,6 @@ Referente: Giacomo Piccioni
 
 ### Bergamo - Treviglio 
 Referente: Antonio Ciocca
-
-### Castelluccio Superiore (Potenza)
-Referente: Isabella Labanca 
 
 ### Cremona
 Referente: Alberto
