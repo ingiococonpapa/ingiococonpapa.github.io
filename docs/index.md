@@ -53,18 +53,18 @@ Per informazioni: [Gianluca Daffi](mailto:daffi.gianluca@gmail.com) - Per questo
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UuIn5vNkS8Sx4IpgfZJcW9S31Q_59qQ&ehbc=2E312F&noprof=1" width="100%" height="620"></iframe>
 
-### ✅ EVENTI CONFERMATI:  
+### ✅ EVENTI CONFERMATI
 
 ### Brescia ✅
 Dove: **Bimbo Chiama Bimbo** - Via Sant’Antonio, 16 (Zona Mompiano), Brescia  
 Orario: Dalle 14:30  
 Referente: **Gianluca Daffi** - [email](mailto:daffi.gianluca@gmail.com)
 
-### Castelluccio Superiore (Potenza)
+### Castelluccio Superiore (Potenza) ✅
 Dove: Biblioteca comunale di Castelluccio Superiore - Vico Gelso 48, Castelluccio Superiore (PZ)  
 Referente: Isabella Labanca - Associazione Completa.Mente - [email](mailto:labancaisa@gmail.com)  
 
-### Domodossola  ✅
+### Domodossola ✅
 Dove:  
 Referente: **Francioli Jennifer** - [email](mailto:francij75@gmail.com)
 
@@ -77,7 +77,7 @@ Referente: **Stefano Cecere** - [2042ed.org](https://2042ed.org) - [email](mailt
 Dove: Sale parrocchiali di Cusignana, piazza IV Novembre - Giavera del Montello  
 Referente: **Erika Franceschini** - [email](mailto:erikafranceschini2@gmail.com) - 3493790747  
 
-### Imperia  ✅
+### Imperia ✅
 Dove: Centro Aggregativo Il Puerto - Via Matteotti 31, Imperia  
 Referente: Fabio Boero - [email](mailto:fabio.boero@centroancora.it)
 
@@ -99,7 +99,8 @@ Dove: La Casa delle Meraviglie, calle Larga Lavraneri 3, Venezia
 Referente: Elisa Carmen Brumat - [email](mailto:ludoteca.babajaga@gmail.com)  
 
 ---
-### EVENTI IN VIA DI DEFINIZIONE:
+
+### EVENTI IN VIA DI DEFINIZIONE
 
 ### Alì Terme (Messina)
 Referente: Rachele Bernava
