@@ -20,31 +20,129 @@ Qui trovate tutte le informazioni per partecipare ad un incontro o organizzare u
 
 ## Calendario
 
-**Febbraio**  
-Diffusione per individuare tutte le città interessate e trovare i volontari
+**Febbraio** (individuare tutte le città interessate)
 
 - Giovedì 22 - 19:15 | breve **riunione di aggiornamento** con i nuovi organizzatori
-- Giovedì 29 - 19:15 | breve **riunione di aggiornamento** con i nuovi organizzatori
+- Giovedì 29 - 19:00 | breve **riunione di aggiornamento** con i nuovi organizzatori
 
-**Marzo**
+**Marzo** (Diffusione e formazione)
 
 - Martedì 5 - 20:30 | **Seminario online** su ADHD e DOP per i volontari
 - Martedì 12 - 20:30 | **Seminario online** sulle regole dei giochi per i volontari
-- Giovedì 14 - 19:15 | ultimo aggiornamento tra gli organizzatori
+- Giovedì 14 - 19:00 | ultimo aggiornamento tra gli organizzatori
 - **Domenica 17: EVENTO** (ogni città con suo orario)
     - alle 15:30 faremo una videochiamata tra tutte le città
 
 ---
 
-## Contatti
-[Form di contatto :fontawesome-solid-paper-plane:](https://forms.gle/jHMDSRyyoLyGsMvv7){ .md-button .md-button--primary }  
+## Partecipazione e contatti {#contatti}
 
-**Per partecipare o proporre di organizzare una nuova città**, compilare questa [Form di contatto](https://forms.gle/jHMDSRyyoLyGsMvv7)
+**Per partecipare o proporre di organizzare una nuova città**, compilare questa [Form di partecipazione :fontawesome-solid-paper-plane:](https://forms.gle/jHMDSRyyoLyGsMvv7){ .md-button .md-button--primary }  
 
 Per gli **organizzatori** di eventi, abbiamo una **mailing list**: [https://groups.google.com/g/ingiococonpapa](https://groups.google.com/g/ingiococonpapa) a cui sarete invitati dopo che avrete compilato la form e ci saremo sentiti.
 
-Per altre informazioni: [Gianluca Daffi](mailto:daffi.gianluca@gmail.com)  
-Per questo sito o comunicazione: [Stefano Cecere](mailto:stefano.cecere@gmail.com)
+Per informazioni: [Gianluca Daffi](mailto:daffi.gianluca@gmail.com) - Per questo sito e comunicazione: [Stefano Cecere](mailto:stefano.cecere@gmail.com)
+
+---
+
+## Mappa Eventi {#mappa}
+
+!!! info
+    Per proporre nuovi eventi compilare questa 👉🏼 [form di contatto](https://forms.gle/jHMDSRyyoLyGsMvv7)  
+    Per apportare modifiche scrivere in [mailing list](https://groups.google.com/g/ingiococonpapa)
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UuIn5vNkS8Sx4IpgfZJcW9S31Q_59qQ&ehbc=2E312F&noprof=1" width="100%" height="620"></iframe>
+
+### Brescia ✅
+Dove: **Bimbo Chiama Bimbo** - Via Sant’Antonio, 16 (Zona Mompiano), Brescia  
+Orario: Dalle 14:30  
+Referente: **Gianluca Daffi** - [email](mailto:daffi.gianluca@gmail.com)
+
+### Domodossola  ✅
+Dove:  
+Referente: **Francioli Jennifer** - [email](mailto:francij75@gmail.com)
+
+### Firenze ✅
+Dove: **Casa del Popolo di Settignano** - via San Romano 1, Firenze - [sito](https://cdp.settignano.org/)  
+Orario: 11:00 - 16:00 (con pranzo al bar)  
+Referente: **Stefano Cecere** - [2042ed.org](https://2042ed.org) - [email](mailto:stefano.cecere@gmail.com)
+
+### Giavera del Montello (Treviso) ✅
+Dove: Sale parrocchiali di Cusignana, piazza IV Novembre - Giavera del Montello  
+Referente: **Erika Franceschini** - [email](mailto:erikafranceschini2@gmail.com) - 3493790747  
+
+### Imperia  ✅
+Dove: Centro Aggregativo Il Puerto - Via Matteotti 31, Imperia  
+Referente: Fabio Boero - [email](mailto:fabio.boero@centroancora.it)
+
+### Mantova ✅
+Dove: Biblioteca Mediateca "Gino Baratta", Corso Garibaldi 88, Mantova  
+Referente: **Filomena Cesarano** - Associazione Ludico Culturale Amici Ludici Aps - [email](mailto:cesarano.filomena87@gmail.com)
+
+### Matera ✅
+Dove: LUMACA  
+Referente: **Emanuele Cristallo** - [email](mailto:zioludovico@gmail.com)
+
+### Ravenna ✅
+Dove: Centro RicreAzioni, via Don Carlo Sala 7, Ravenna  
+Orario: 15:00 - 18:00  
+Referente: **Gabriele Mari** - [Educatori Ludici](https://www.facebook.com/educatoriludici) - [email](mailto:progetti.innovativi@cooplapieve.it) - 3281552787  
+
+### Venezia ✅
+Dove: La Casa delle Meraviglie, calle Larga Lavraneri 3, Venezia  
+Referente: Elisa Carmen Brumat - [email](mailto:ludoteca.babajaga@gmail.com)  
+
+---
+### Alì Terme (Messina)
+Referente: Rachele Bernava
+
+### Assisi
+Referente: Giacomo Piccioni
+
+### Bergamo - Treviglio 
+Referente: Antonio Ciocca
+
+### Castelluccio Superiore (Potenza)
+Referente: Isabella Labanca 
+
+### Cremona
+Referente: Alberto
+
+### Dosson (Treviso) 
+Referente: **Rossella Frascogna**
+
+### Grosseto
+Referente: Carlo Donadio  
+
+### Lecce
+Referente: Diego Solari
+
+### Legnano
+Referente: Valentina Giurbino  
+
+### Palermo
+Referente: Giana Di Lorenzo
+
+### Rescaldina (Milano)
+Referente: Fabio Gianquinto
+
+### Rimini
+Referente: Riccardo Nicolini
+
+### Rochis (33050 Udine)
+Referente: Roberta Cannellotto
+
+### Salerno
+Referente: Massimiliano Sabato
+
+### Taranto
+Referente: Antonella Travaglini 
+
+### Torino
+Rferente: Pietro Nigro
+
+### Treviglio
+Referente: Antonio Ciocca
 
 ---
 
@@ -167,101 +265,6 @@ Da scaricare e stampare
 | Splendor / Splendor Marvel |  [scheda BBG](https://boardgamegeek.com/boardgame/148228/splendor) |
 
 ---
-
-## Mappa Eventi {#mappa}
-
-!!! info
-    Per proporre nuovi eventi compilare questa 👉🏼 [form di contatto](https://forms.gle/jHMDSRyyoLyGsMvv7)  
-    Per apportare modifiche scrivere in [mailing list](https://groups.google.com/g/ingiococonpapa)
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UuIn5vNkS8Sx4IpgfZJcW9S31Q_59qQ&ehbc=2E312F&noprof=1" width="100%" height="620"></iframe>
-
-### Assisi
---- in definizione ---  
-Dove:  
-Referente: **Giacomo Piccioni**  
-
-### Bergamo - Treviglio
---- in definizione ---  
-Dove:  
-Referente: **Antonio Ciocca**  
-
-### Brescia ✅
-Dove: **Bimbo Chiama Bimbo** - Via Sant’Antonio, 16 (Zona Mompiano), Brescia  
-Orario: Dalle 14:30  
-Referente: **Gianluca Daffi** - [email](mailto:daffi.gianluca@gmail.com)
-
-### Cremona
---- in definizione ---  
-Dove:  
-Referente:  
-
-### Domodossola  ✅
-Dove:  
-Referente: **Francioli Jennifer** - [email](mailto:francij75@gmail.com)
-
-### Firenze ✅
-Dove: **Casa del Popolo di Settignano** - via San Romano 1, Firenze - [sito](https://cdp.settignano.org/)  
-Orario: 11:00 - 16:00 (con pranzo al bar)  
-Referente: **Stefano Cecere** - [2042ed.org](https://2042ed.org) - [email](mailto:stefano.cecere@gmail.com)
-
-### Grosseto
---- in definizione ---  
-Dove:  
-Referente:  
-
-### Imperia  ✅
-Dove: Centro Aggregativo Il Puerto - Via Matteotti 31, Imperia  
-Referente: Fabio Boero - [email](mailto:fabio.boero@centroancora.it)
-
-### Legnano
---- in definizione ---  
-Dove:  
-Referente: Valentina Giurbino  
-
-### Mantova ✅
-Dove: Biblioteca Mediateca "Gino Baratta", Corso Garibaldi 88, Mantova  
-Referente: **Filomena Cesarano** - Associazione Ludico Culturale Amici Ludici Aps - [email](mailto:cesarano.filomena87@gmail.com)
-
-### Matera ✅
-Dove:  
-Referente: **Emanuele Cristallo**  
-
-### Milano - Rescaldina  ✅
-Dove:  
-Referente: **Fabio Gianquinto**  
-
-### Pavia
---- in definizione ---
-Dove:  
-Referente:  
-
-### Ravenna ✅
-Dove: Centro RicreAzioni, via Don Carlo Sala 7, Ravenna  
-Orario: 15:00 - 18:00  
-Referente: **Gabriele Mari** - [Educatori Ludici](https://www.facebook.com/educatoriludici) - [email](mailto:progetti.innovativi@cooplapieve.it) - 3281552787  
-
-### Rimini
---- in definizione ---  
-Dove:  
-Referente:  
-
-### Roma
---- in definizione ---  
-Dove: a Monterotondo
-
-### Treviso - Giavera del Montello ✅
-Dove: Sale parrocchiali di Cusignana, piazza IV Novembre - Giavera del Montello  
-Referente: **Erika Franceschini** - [email](mailto:erikafranceschini2@gmail.com) - 3493790747  
-
-### Treviso
---- in definizione ---  
-Dove:  
-Referente: **Rossella Frascogna**
-
-### Venezia ✅
-Dove: La Casa delle Meraviglie, calle Larga Lavraneri 3, Venezia  
-Referente: Elisa Carmen Brumat - [email](mailto:ludoteca.babajaga@gmail.com)  
 
 ## Diffusione
 
