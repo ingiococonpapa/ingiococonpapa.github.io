@@ -55,9 +55,15 @@ Per informazioni: [Gianluca Daffi](mailto:daffi.gianluca@gmail.com) - Per questo
 
 ### ✅ EVENTI CONFERMATI
 
+### Bergamo - Ranica ✅
+Dove: **Spazio Tetris**, in via Gavazzeni 22, Ranica (Bergamo)  
+Orario: dalle 15:00 alle 18:00  
+Promosso da Game Masters - educatori per gioco / San Martino Progetto Autonomia coop sociale  
+Referente: Simone Pezzotta - [email](mailto:game@smartinocoop.com) - 3421427844  
+
 ### Brescia ✅
 Dove: **Bimbo Chiama Bimbo** - Via Sant’Antonio, 16 (Zona Mompiano), Brescia  
-Orario: Dalle 14:30  
+Orario: dalle 14:30  
 Referente: **Gianluca Daffi** - [email](mailto:daffi.gianluca@gmail.com)
 
 ### Castelluccio Superiore (Potenza) ✅
@@ -114,7 +120,7 @@ Referente: Antonio Ciocca
 ### Cremona
 Referente: Alberto
 
-### Dosson (Treviso)
+### Treviso - Dosson
 Referente: Rossella Frascogna
 
 ### Grosseto
@@ -129,13 +135,13 @@ Referente: Valentina Giurbino
 ### Palermo
 Referente: Giana Di Lorenzo
 
-### Rescaldina (Milano)
+### Milano - Rescaldina
 Referente: Fabio Gianquinto
 
 ### Rimini
 Referente: Riccardo Nicolini
 
-### Rochis (33050 Udine)
+### Udine - Rochis
 Referente: Roberta Cannellotto
 
 ### Salerno
