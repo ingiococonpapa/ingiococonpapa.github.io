@@ -59,7 +59,7 @@ Per informazioni: [Gianluca Daffi](mailto:daffi.gianluca@gmail.com) - Per questo
 Dove: **Spazio Tetris**, in via Gavazzeni 22, Ranica (Bergamo)  
 Orario: dalle 15:00 alle 18:00  
 Promosso da Game Masters - educatori per gioco / San Martino Progetto Autonomia coop sociale  
-Referente: Simone Pezzotta - [email](mailto:game@smartinocoop.com) - 3421427844  
+Referente: **Simone Pezzotta** - [email](mailto:game@smartinocoop.com) - 3421427844  
 
 ### Brescia ✅
 Dove: **Bimbo Chiama Bimbo** - Via Sant’Antonio, 16 (Zona Mompiano), Brescia  
@@ -67,8 +67,8 @@ Orario: dalle 14:30
 Referente: **Gianluca Daffi** - [email](mailto:daffi.gianluca@gmail.com)
 
 ### Castelluccio Superiore (Potenza) ✅
-Dove: Biblioteca comunale di Castelluccio Superiore - Vico Gelso 48, Castelluccio Superiore (PZ)  
-Referente: Isabella Labanca - Associazione Completa.Mente - [email](mailto:labancaisa@gmail.com)  
+Dove: **Biblioteca comunale** di Castelluccio Superiore - Vico Gelso 48, Castelluccio Superiore (PZ)  
+Referente: **Isabella Labanca** - Associazione Completa.Mente - [email](mailto:labancaisa@gmail.com)  
 
 ### Domodossola ✅
 Dove:  
@@ -80,12 +80,12 @@ Orario: 11:00 - 16:00 (con pranzo al bar)
 Referente: **Stefano Cecere** - [2042ed.org](https://2042ed.org) - [email](mailto:stefano.cecere@gmail.com)
 
 ### Giavera del Montello (Treviso) ✅
-Dove: Sale parrocchiali di Cusignana, piazza IV Novembre - Giavera del Montello  
+Dove: **Sale parrocchiali di Cusignana**, piazza IV Novembre - Giavera del Montello  
 Referente: **Erika Franceschini** - [email](mailto:erikafranceschini2@gmail.com) - 3493790747  
 
 ### Imperia ✅
-Dove: Centro Aggregativo Il Puerto - Via Matteotti 31, Imperia  
-Referente: Fabio Boero - [email](mailto:fabio.boero@centroancora.it)
+Dove: **Centro Aggregativo Il Puerto** - Via Matteotti 31, Imperia  
+Referente: **Fabio Boero** - [email](mailto:fabio.boero@centroancora.it)
 
 ### Mantova ✅
 Dove: Biblioteca Mediateca "Gino Baratta", Corso Garibaldi 88, Mantova  
@@ -101,8 +101,8 @@ Orario: 15:00 - 18:00
 Referente: **Gabriele Mari** - [Educatori Ludici](https://www.facebook.com/educatoriludici) - [email](mailto:progetti.innovativi@cooplapieve.it) - 3281552787  
 
 ### Venezia ✅
-Dove: La Casa delle Meraviglie, calle Larga Lavraneri 3, Venezia  
-Referente: Elisa Carmen Brumat - [email](mailto:ludoteca.babajaga@gmail.com)  
+Dove: **La Casa delle Meraviglie**, calle Larga Lavraneri 3, Venezia  
+Referente: **Elisa Carmen Brumat** - [email](mailto:ludoteca.babajaga@gmail.com)  
 
 ---
 
