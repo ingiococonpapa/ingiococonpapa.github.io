@@ -87,6 +87,11 @@ Referente: **Erika Franceschini** - [email](mailto:erikafranceschini2@gmail.com)
 Dove: **Centro Aggregativo Il Puerto** - Via Matteotti 31, Imperia  
 Referente: **Fabio Boero** - [email](mailto:fabio.boero@centroancora.it)
 
+### Lecce ✅
+Dove: **Biblioteca OgniBene** - Viale De Pietro, 45 - Lecce  
+Orario: dalle 17:00 alle 20:00  
+Referente: **Diego Solari** - [email](mailto:cosicomeseilecce@gmail.com)
+
 ### Mantova ✅
 Dove: Biblioteca Mediateca "Gino Baratta", Corso Garibaldi 88, Mantova  
 Referente: **Filomena Cesarano** - Associazione Ludico Culturale Amici Ludici Aps - [email](mailto:cesarano.filomena87@gmail.com)
@@ -122,9 +127,6 @@ Referente: Rossella Frascogna
 
 ### Grosseto
 Referente: Carlo Donadio  
-
-### Lecce
-Referente: Diego Solari
 
 ### Legnano
 Referente: Valentina Giurbino  
