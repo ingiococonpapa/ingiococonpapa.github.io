@@ -71,7 +71,8 @@ Dove: **Biblioteca comunale** di Castelluccio Superiore - Vico Gelso 48, Castell
 Referente: **Isabella Labanca** - Associazione Completa.Mente - [email](mailto:labancaisa@gmail.com)  
 
 ### Domodossola ✅
-Dove:  
+Dove: Bibliteca Civica Contini - Via Rosmini, 20, Domodossola  
+Orario: 14:30/18:30  
 Referente: **Francioli Jennifer** - [email](mailto:francij75@gmail.com)
 
 ### Firenze ✅
