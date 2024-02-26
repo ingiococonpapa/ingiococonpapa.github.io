@@ -56,7 +56,7 @@ Per informazioni: [Gianluca Daffi](mailto:daffi.gianluca@gmail.com) - Per questo
 ### ✅ EVENTI CONFERMATI
 
 ### Bergamo - Ranica ✅
-Dove: **Spazio Tetris**, in via Gavazzeni 22, Ranica (Bergamo)  
+Dove: **Spazio Tetris**, Via Gavazzeni 22, Ranica (Bergamo)  
 Orario: dalle 15:00 alle 18:00  
 Promosso da Game Masters - educatori per gioco / San Martino Progetto Autonomia coop sociale  
 Referente: **Simone Pezzotta** - [email](mailto:game@smartinocoop.com) - 3421427844  
@@ -67,21 +67,21 @@ Orario: dalle 14:30
 Referente: **Gianluca Daffi** - [email](mailto:daffi.gianluca@gmail.com)
 
 ### Castelluccio Superiore (Potenza) ✅
-Dove: **Biblioteca comunale** di Castelluccio Superiore - Vico Gelso 48, Castelluccio Superiore (PZ)  
+Dove: **Biblioteca comunale** - Vico Gelso 48, Castelluccio Superiore (PZ)  
 Referente: **Isabella Labanca** - Associazione Completa.Mente - [email](mailto:labancaisa@gmail.com)  
 
 ### Domodossola ✅
-Dove: Bibliteca Civica Contini - Via Rosmini, 20, Domodossola  
+Dove: **Bibliteca Civica Contini** - Via Rosmini 20, Domodossola  
 Orario: 14:30/18:30  
 Referente: **Francioli Jennifer** - [email](mailto:francij75@gmail.com)
 
 ### Firenze ✅
-Dove: **Casa del Popolo di Settignano** - via San Romano 1, Firenze - [sito](https://cdp.settignano.org/)  
+Dove: **Casa del Popolo di Settignano** - Via San Romano 1, Firenze - [sito](https://cdp.settignano.org/)  
 Orario: 11:00 - 16:00 (con pranzo al bar)  
 Referente: **Stefano Cecere** - [2042ed.org](https://2042ed.org) - [email](mailto:stefano.cecere@gmail.com)
 
 ### Giavera del Montello (Treviso) ✅
-Dove: **Sale parrocchiali di Cusignana**, piazza IV Novembre - Giavera del Montello  
+Dove: **Sale parrocchiali di Cusignana** - Piazza IV Novembre, Giavera del Montello  
 Referente: **Erika Franceschini** - [email](mailto:erikafranceschini2@gmail.com) - 3493790747  
 
 ### Imperia ✅
@@ -91,25 +91,26 @@ Alle ore 19:00 **apericena** offerto ai partecipanti
 Referente: **Fabio Boero** - [email](mailto:fabio.boero@centroancora.it) - 3311946045  
 
 ### Lecce ✅
-Dove: **Biblioteca OgniBene** - Viale De Pietro, 45 - Lecce  
+Dove: **Biblioteca OgniBene** - Viale De Pietro 45, Lecce  
 Orario: dalle 17:00 alle 20:00  
 Referente: **Diego Solari** - [email](mailto:cosicomeseilecce@gmail.com)
 
 ### Mantova ✅
-Dove: Biblioteca Mediateca "Gino Baratta", Corso Garibaldi 88, Mantova  
+Dove: Biblioteca Mediateca "Gino Baratta" - Corso Garibaldi 88, Mantova  
 Referente: **Filomena Cesarano** - Associazione Ludico Culturale Amici Ludici Aps - [email](mailto:cesarano.filomena87@gmail.com)
 
 ### Matera ✅
-Dove: LUMACA  
+Dalle 11:30 alle 13:00 in giro per Matera con il LucarGO'  
+Dalle 18:00 alle 20:00 in **LUMACA**, via Tommaso Stigliani 50, Matera  
 Referente: **Emanuele Cristallo** - [email](mailto:zioludovico@gmail.com)
 
 ### Ravenna ✅
-Dove: Centro RicreAzioni, via Don Carlo Sala 7, Ravenna  
+Dove: Centro RicreAzioni - via Don Carlo Sala 7, Ravenna  
 Orario: 15:00 - 18:00  
 Referente: **Gabriele Mari** - [Educatori Ludici](https://www.facebook.com/educatoriludici) - [email](mailto:progetti.innovativi@cooplapieve.it) - 3281552787  
 
 ### Venezia ✅
-Dove: **La Casa delle Meraviglie**, calle Larga Lavraneri 3, Venezia  
+Dove: **La Casa delle Meraviglie** - calle Larga Lavraneri 3, Venezia  
 Referente: **Elisa Carmen Brumat** - [email](mailto:ludoteca.babajaga@gmail.com)  
 
 ---
