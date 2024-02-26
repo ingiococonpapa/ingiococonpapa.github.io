@@ -86,7 +86,9 @@ Referente: **Erika Franceschini** - [email](mailto:erikafranceschini2@gmail.com)
 
 ### Imperia ✅
 Dove: **Centro Aggregativo Il Puerto** - Via Matteotti 31, Imperia  
-Referente: **Fabio Boero** - [email](mailto:fabio.boero@centroancora.it)
+Orario: dalle 15:00 alle 19:00  
+Alle ore 19:00 **apericena** offerto ai partecipanti  
+Referente: **Fabio Boero** - [email](mailto:fabio.boero@centroancora.it) - 3311946045  
 
 ### Lecce ✅
 Dove: **Biblioteca OgniBene** - Viale De Pietro, 45 - Lecce  
