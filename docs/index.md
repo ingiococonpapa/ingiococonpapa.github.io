@@ -114,9 +114,6 @@ Referente: Rachele Bernava
 ### Assisi
 Referente: Giacomo Piccioni
 
-### Bergamo - Treviglio
-Referente: Antonio Ciocca
-
 ### Cremona
 Referente: Alberto
 
