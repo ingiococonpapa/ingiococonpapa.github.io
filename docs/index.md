@@ -87,7 +87,7 @@ Referente: **Erika Franceschini** - [email](mailto:erikafranceschini2@gmail.com)
 
 ### Grosseto ✅
 Dove: **Sala Eden, Bastione Garibaldi** - Viale Alessandro Manetti 4, Grosseto  
-Orario: dalle 15:00 alle 19:00 
+Orario: dalle 15:00 alle 19:00  
 Referente: **Carlo Donadio** - [email](mailto:carlo.donadio.paidos@gmail.com) - 3343068742  
 
 ### Imperia ✅
@@ -103,7 +103,7 @@ Referente: **Diego Solari** - [email](mailto:cosicomeseilecce@gmail.com)
 
 ### Mantova ✅
 Dove: Biblioteca Mediateca "Gino Baratta" - Corso Garibaldi 88, Mantova  
-Orario: dalle 10:00 alle 12:30
+Orario: dalle 10:00 alle 12:30  
 Referente: **Filomena Cesarano** - Associazione Ludico Culturale Amici Ludici Aps - [email](mailto:cesarano.filomena87@gmail.com)
 
 ### Matera ✅
