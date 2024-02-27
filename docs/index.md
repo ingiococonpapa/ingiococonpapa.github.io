@@ -83,6 +83,7 @@ Referente: **Stefano Cecere** - [2042ed.org](https://2042ed.org) - [email](mailt
 
 ### Giavera del Montello (Treviso) ✅
 Dove: **Sale parrocchiali di Cusignana** - Piazza IV Novembre, Giavera del Montello  
+Orario: 15:00 - 18:00  
 Referente: **Erika Franceschini** - [email](mailto:erikafranceschini2@gmail.com) - 3493790747  
 
 ### Grosseto ✅
