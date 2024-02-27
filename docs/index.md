@@ -116,6 +116,11 @@ Dove: Centro RicreAzioni - via Don Carlo Sala 7, Ravenna
 Orario: 15:00 - 18:00  
 Referente: **Gabriele Mari** - [Educatori Ludici](https://www.facebook.com/educatoriludici) - [email](mailto:progetti.innovativi@cooplapieve.it) - 3281552787  
 
+### Salerno ✅
+Dove: **Foyer Cafè - Teatro Nuovo** - Via Valerio Laspro 10, Salerno  
+Orario: alle 17:00 alle 20:00  
+Referente: Massimiliano Sabato - [email](mailto:massi.sabato@gmail.com)
+
 ### Venezia ✅
 Dove: **La Casa delle Meraviglie** - calle Larga Lavraneri 3, Venezia  
 Referente: **Elisa Carmen Brumat** - [email](mailto:ludoteca.babajaga@gmail.com)  
@@ -156,9 +161,6 @@ Referente: Riccardo Nicolini
 
 ### Udine - Rochis
 Referente: Roberta Cannellotto
-
-### Salerno
-Referente: Massimiliano Sabato
 
 ### Taranto
 Referente: Antonella Travaglini 
