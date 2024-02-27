@@ -68,6 +68,7 @@ Referente: **Gianluca Daffi** - [email](mailto:daffi.gianluca@gmail.com)
 
 ### Castelluccio Superiore (Potenza) ✅
 Dove: **Biblioteca comunale** - Vico Gelso 48, Castelluccio Superiore (PZ)  
+Orario: dalle 16:30 alle 18:30  
 Referente: **Isabella Labanca** - Associazione Completa.Mente - [email](mailto:labancaisa@gmail.com)  
 
 ### Domodossola ✅
@@ -84,6 +85,11 @@ Referente: **Stefano Cecere** - [2042ed.org](https://2042ed.org) - [email](mailt
 Dove: **Sale parrocchiali di Cusignana** - Piazza IV Novembre, Giavera del Montello  
 Referente: **Erika Franceschini** - [email](mailto:erikafranceschini2@gmail.com) - 3493790747  
 
+### Grosseto ✅
+Dove: **Sala Eden, Bastione Garibaldi** - Viale Alessandro Manetti 4, Grosseto  
+Orario: dalle 15:00 alle 19:00 
+Referente: **Carlo Donadio** - [email](mailto:carlo.donadio.paidos@gmail.com) - 3343068742  
+
 ### Imperia ✅
 Dove: **Centro Aggregativo Il Puerto** - Via Matteotti 31, Imperia  
 Orario: dalle 15:00 alle 19:00  
@@ -97,6 +103,7 @@ Referente: **Diego Solari** - [email](mailto:cosicomeseilecce@gmail.com)
 
 ### Mantova ✅
 Dove: Biblioteca Mediateca "Gino Baratta" - Corso Garibaldi 88, Mantova  
+Orario: dalle 10:00 alle 12:30
 Referente: **Filomena Cesarano** - Associazione Ludico Culturale Amici Ludici Aps - [email](mailto:cesarano.filomena87@gmail.com)
 
 ### Matera ✅
@@ -129,14 +136,17 @@ Referente: Alberto
 ### Treviso - Dosson
 Referente: Rossella Frascogna
 
-### Grosseto
-Referente: Carlo Donadio  
+### Genova - Casarza Ligure
+Referente: Alessandra Carena - Ass.Culturale Lo Stregatto
 
 ### Legnano
 Referente: Valentina Giurbino  
 
 ### Palermo
 Referente: Giana Di Lorenzo
+
+### Perugia - ⁠Tuoro sul Trasimeno (PG)
+Referente: Tommaso Provvedi
 
 ### Milano - Rescaldina
 Referente: Fabio Gianquinto
