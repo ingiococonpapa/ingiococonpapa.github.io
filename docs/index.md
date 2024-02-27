@@ -66,11 +66,6 @@ Dove: **Bimbo Chiama Bimbo** - Via Sant’Antonio, 16 (Zona Mompiano), Brescia
 Orario: dalle 14:30  
 Referente: **Gianluca Daffi** - [email](mailto:daffi.gianluca@gmail.com)
 
-### Castelluccio Superiore (Potenza) ✅
-Dove: **Biblioteca comunale** - Vico Gelso 48, Castelluccio Superiore (PZ)  
-Orario: dalle 16:30 alle 18:30  
-Referente: **Isabella Labanca** - Associazione Completa.Mente - [email](mailto:labancaisa@gmail.com)  
-
 ### Domodossola ✅
 Dove: **Bibliteca Civica Contini** - Via Rosmini 20, Domodossola  
 Orario: 14:30/18:30  
@@ -80,11 +75,6 @@ Referente: **Francioli Jennifer** - [email](mailto:francij75@gmail.com)
 Dove: **Casa del Popolo di Settignano** - Via San Romano 1, Firenze - [sito](https://cdp.settignano.org/)  
 Orario: 11:00 - 16:00 (con pranzo al bar)  
 Referente: **Stefano Cecere** - [2042ed.org](https://2042ed.org) - [email](mailto:stefano.cecere@gmail.com)
-
-### Giavera del Montello (Treviso) ✅
-Dove: **Sale parrocchiali di Cusignana** - Piazza IV Novembre, Giavera del Montello  
-Orario: 15:00 - 18:00  
-Referente: **Erika Franceschini** - [email](mailto:erikafranceschini2@gmail.com) - 3493790747  
 
 ### Grosseto ✅
 Dove: **Sala Eden, Bastione Garibaldi** - Viale Alessandro Manetti 4, Grosseto  
@@ -112,6 +102,11 @@ Dalle 11:30 alle 13:00 in giro per Matera con il LucarGO'
 Dalle 18:00 alle 20:00 in **LUMACA**, via Tommaso Stigliani 50, Matera  
 Referente: **Emanuele Cristallo** - [email](mailto:zioludovico@gmail.com)
 
+### Potenza - Castelluccio Superiore ✅
+Dove: **Biblioteca comunale** - Vico Gelso 48, Castelluccio Superiore (PZ)  
+Orario: dalle 16:30 alle 18:30  
+Referente: **Isabella Labanca** - Associazione Completa.Mente - [email](mailto:labancaisa@gmail.com)  
+
 ### Ravenna ✅
 Dove: Centro RicreAzioni - via Don Carlo Sala 7, Ravenna  
 Orario: 15:00 - 18:00  
@@ -121,6 +116,11 @@ Referente: **Gabriele Mari** - [Educatori Ludici](https://www.facebook.com/educa
 Dove: **Foyer Cafè - Teatro Nuovo** - Via Valerio Laspro 10, Salerno  
 Orario: alle 17:00 alle 20:00  
 Referente: Massimiliano Sabato - [email](mailto:massi.sabato@gmail.com)
+
+### Treviso - Giavera del Montello ✅
+Dove: **Sale parrocchiali di Cusignana** - Piazza IV Novembre, Giavera del Montello  
+Orario: 15:00 - 18:00  
+Referente: **Erika Franceschini** - [email](mailto:erikafranceschini2@gmail.com) - 3493790747  
 
 ### Venezia ✅
 Dove: **La Casa delle Meraviglie** - calle Larga Lavraneri 3, Venezia  
