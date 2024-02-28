@@ -117,6 +117,11 @@ Dove: **Foyer Cafè - Teatro Nuovo** - Via Valerio Laspro 10, Salerno
 Orario: alle 17:00 alle 20:00  
 Referente: Massimiliano Sabato - [email](mailto:massi.sabato@gmail.com)
 
+### Treviso - Dosson di Casier ✅
+Dove: **Oratorio parrocchia San vigilio** - Via Peschiere, Dosson di Casier, Treviso  
+Orario: 15:00 - 18:00  
+Referente: **Rossella Frascogna** - [email](mailto:rossella683@gmail.com) - 3425712234  
+
 ### Treviso - Giavera del Montello ✅
 Dove: **Sale parrocchiali di Cusignana** - Piazza IV Novembre, Giavera del Montello  
 Orario: 15:00 - 18:00  
@@ -138,9 +143,6 @@ Referente: Giacomo Piccioni
 
 ### Cremona
 Referente: Alberto
-
-### Treviso - Dosson
-Referente: Rossella Frascogna
 
 ### Genova - Casarza Ligure
 Referente: Alessandra Carena - Ass.Culturale Lo Stregatto
