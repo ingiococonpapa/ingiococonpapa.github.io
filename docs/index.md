@@ -107,6 +107,11 @@ Dove: **Casa dei Giochi** - Via Sant Uguzzone 8, Milano
 Orario: dalle 16:30 alle 18:30  
 Referente: **Oscar Suriano**  - [email](mailto:osuriano@gmail.com)  
 
+### Milano - Rescaldina ✅
+Dove: via Repetti in occasione della festa della Chiesa di **San Giovanni alla Pagana** (frazione di Rescalda)  
+Orario: dalle 15:30  
+Referente: Fabio Gianquinto - [email](mailto:fabgiaquinto@gmail.com)  
+
 ### Potenza - Castelluccio Superiore ✅
 Dove: **Biblioteca comunale** - Vico Gelso 48, Castelluccio Superiore (PZ)  
 Orario: dalle 16:30 alle 18:30  
@@ -160,9 +165,6 @@ Referente: Giana Di Lorenzo
 
 ### Perugia - ⁠Tuoro sul Trasimeno (PG)
 Referente: Tommaso Provvedi
-
-### Milano - Rescaldina
-Referente: Fabio Gianquinto
 
 ### Rimini
 Referente: Riccardo Nicolini
