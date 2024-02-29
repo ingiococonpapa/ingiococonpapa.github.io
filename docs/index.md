@@ -72,9 +72,9 @@ Orario: 14:30/18:30
 Referente: **Francioli Jennifer** - [email](mailto:francij75@gmail.com)
 
 ### Firenze ✅
-Dove: **Casa del Popolo di Settignano** - Via San Romano 1, Firenze - [sito](https://cdp.settignano.org/)  
+Dove: **Casa del Popolo di Settignano** - Via San Romano 1, Firenze | ([👉🏼 sito](https://cdp.settignano.org/))  
 Orario: 11:00 - 16:00 (con pranzo al bar)  
-Referenti: **Stefano Cecere** [📧 email](mailto:stefano.cecere@gmail.com) e **Leonardo Boncinelli**
+Referenti: **Stefano Cecere** ([👉🏼 sito](https://2042ed.org) - [✍️ email](mailto:stefano.cecere@gmail.com)) e **Leonardo Boncinelli** ([👉🏼 sito](https://www.gix.unifi.it/))
 
 ### Grosseto ✅
 Dove: **Sala Eden, Bastione Garibaldi** - Viale Alessandro Manetti 4, Grosseto  
