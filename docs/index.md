@@ -22,8 +22,8 @@ Qui trovate tutte le informazioni per partecipare ad un incontro o organizzare u
 
 **Febbraio** (individuare tutte le città interessate)
 
-- Giovedì 22 - 19:15 | **riunione di aggiornamento** con i nuovi organizzatori
-- Giovedì 29 - 18:30 → 19:00 | **riunione di aggiornamento** con i nuovi organizzatori
+- ~~Giovedì 22 - 19:15 | **riunione di aggiornamento** con i nuovi organizzatori~~
+- ~~Giovedì 29 - 18:30 → 19:00 | **riunione di aggiornamento** con i nuovi organizzatori~~
 
 **Marzo** (Diffusione e formazione)
 
@@ -110,7 +110,7 @@ Referente: **Oscar Suriano**  - [email](mailto:osuriano@gmail.com)
 ### Milano - Rescaldina ✅
 Dove: via Repetti in occasione della festa della Chiesa di **San Giovanni alla Pagana** (frazione di Rescalda)  
 Orario: dalle 15:30  
-Referente: Fabio Gianquinto - [email](mailto:fabgiaquinto@gmail.com)  
+Referente: **Fabio Gianquinto** - [email](mailto:fabgiaquinto@gmail.com)  
 
 ### Potenza - Castelluccio Superiore ✅
 Dove: **Biblioteca comunale** - Vico Gelso 48, Castelluccio Superiore (PZ)  
@@ -130,12 +130,12 @@ Referente: **Gabriele Mari** - [Educatori Ludici](https://www.facebook.com/educa
 ### Rimini ✅
 Dove: **Ex-scuola elementare** - Via Montescudo 288, Gaiofana (Rimini)  
 Orario: dalle 15:00 alle 20:00  
-Referente: Lorenzo Leardini - [email](mailto:roark_it@yahoo.it) - 3282889182
+Referente: **Lorenzo Leardini** - [email](mailto:roark_it@yahoo.it) - 3282889182
 
 ### Salerno ✅
 Dove: **Foyer Cafè - Teatro Nuovo** - Via Valerio Laspro 10, Salerno  
 Orario: alle 17:00 alle 20:00  
-Referente: Massimiliano Sabato - [email](mailto:massi.sabato@gmail.com)
+Referente: **Massimiliano Sabato** - [email](mailto:massi.sabato@gmail.com)
 
 ### Treviso - Dosson di Casier ✅
 Dove: **Oratorio parrocchia San vigilio** - Via Peschiere, Dosson di Casier, Treviso  
