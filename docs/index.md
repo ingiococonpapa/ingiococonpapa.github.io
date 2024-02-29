@@ -74,7 +74,7 @@ Referente: **Francioli Jennifer** - [email](mailto:francij75@gmail.com)
 ### Firenze ✅
 Dove: **Casa del Popolo di Settignano** - Via San Romano 1, Firenze - [sito](https://cdp.settignano.org/)  
 Orario: 11:00 - 16:00 (con pranzo al bar)  
-Referenti: [📧 Stefano Cecere](mailto:stefano.cecere@gmail.com) e Leonardo Boncinelli
+Referenti: **Stefano Cecere** [📧 email](mailto:stefano.cecere@gmail.com) e **Leonardo Boncinelli**
 
 ### Grosseto ✅
 Dove: **Sala Eden, Bastione Garibaldi** - Viale Alessandro Manetti 4, Grosseto  
@@ -137,6 +137,11 @@ Dove: **Sale parrocchiali di Cusignana** - Piazza IV Novembre, Giavera del Monte
 Orario: 15:00 - 18:00  
 Referente: **Erika Franceschini** - [email](mailto:erikafranceschini2@gmail.com) - 3493790747  
 
+### Udine - Rochis ✅
+Dove:   
+Orario:  
+Referente: **Roberta Cannellotto** - [email](mailto:roberta.cannellotto@gmail.com)
+
 ### Venezia ✅
 Dove: **La Casa delle Meraviglie** - calle Larga Lavraneri 3, Venezia  
 Referente: **Elisa Carmen Brumat** - [email](mailto:ludoteca.babajaga@gmail.com)  
@@ -168,9 +173,6 @@ Referente: Tommaso Provvedi
 
 ### Rimini
 Referente: Riccardo Nicolini
-
-### Udine - Rochis
-Referente: Roberta Cannellotto
 
 ### Taranto
 Referente: Antonella Travaglini 
