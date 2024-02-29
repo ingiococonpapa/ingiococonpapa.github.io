@@ -22,8 +22,8 @@ Qui trovate tutte le informazioni per partecipare ad un incontro o organizzare u
 
 **Febbraio** (individuare tutte le città interessate)
 
-- Giovedì 22 - 19:15 | breve **riunione di aggiornamento** con i nuovi organizzatori
-- Giovedì 29 - 19:00 | breve **riunione di aggiornamento** con i nuovi organizzatori
+- Giovedì 22 - 19:15 | **riunione di aggiornamento** con i nuovi organizzatori
+- Giovedì 29 - 18:30 → 19:00 | **riunione di aggiornamento** con i nuovi organizzatori
 
 **Marzo** (Diffusione e formazione)
 
@@ -101,6 +101,11 @@ Referente: **Filomena Cesarano** - Associazione Ludico Culturale Amici Ludici Ap
 Dalle 11:30 alle 13:00 in giro per Matera con il LucarGO'  
 Dalle 18:00 alle 20:00 in **LUMACA**, via Tommaso Stigliani 50, Matera  
 Referente: **Emanuele Cristallo** - [email](mailto:zioludovico@gmail.com)
+
+### Milano ✅
+Dove: **Casa dei Giochi** - Via Sant Uguzzone 8, Milano  
+Orario: dalle 16:30 alle 18:30  
+Referente: **Oscar Suriano**  - [email](mailto:osuriano@gmail.com)  
 
 ### Potenza - Castelluccio Superiore ✅
 Dove: **Biblioteca comunale** - Vico Gelso 48, Castelluccio Superiore (PZ)  
