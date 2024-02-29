@@ -14,7 +14,7 @@ Qui trovate tutte le informazioni per partecipare ad un incontro o organizzare u
 
 ## Chi siamo
 **Comitato Organizzatore**  
-[Gianluca Daffi](https://www.gianlucadaffi.it), [Gabriele Mari](https://www.facebook.com/educatoriludici), [Stefano Cecere](https://linktr.ee/cecere), Jennifer Francioli, [Emanuele Cristallo](https://www.zioludovico.it), Michela Savoldi, Marcello Scutra, Fausto Regosi.
+[Gianluca Daffi](https://www.gianlucadaffi.it), [Gabriele Mari](https://www.facebook.com/educatoriludici), [Stefano Cecere](https://linktr.ee/cecere), Jennifer Francioli, [Emanuele Cristallo](https://www.zioludovico.it), Stela Gjyzelaj, Michela Savoldi, Marcello Scutra, Fausto Regosi.
 
 ---
 
@@ -74,7 +74,7 @@ Referente: **Francioli Jennifer** - [email](mailto:francij75@gmail.com)
 ### Firenze ✅
 Dove: **Casa del Popolo di Settignano** - Via San Romano 1, Firenze - [sito](https://cdp.settignano.org/)  
 Orario: 11:00 - 16:00 (con pranzo al bar)  
-Referente: **Stefano Cecere** - [2042ed.org](https://2042ed.org) - [email](mailto:stefano.cecere@gmail.com)
+Referenti: [📧 Stefano Cecere](mailto:stefano.cecere@gmail.com) e Leonardo Boncinelli
 
 ### Grosseto ✅
 Dove: **Sala Eden, Bastione Garibaldi** - Viale Alessandro Manetti 4, Grosseto  
