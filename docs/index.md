@@ -95,7 +95,7 @@ Referente: **Diego Solari** - [email](mailto:cosicomeseilecce@gmail.com)
 ### Mantova ✅
 Dove: Biblioteca Mediateca "Gino Baratta" - Corso Garibaldi 88, Mantova  
 Orario: dalle 10:00 alle 12:30  
-Referente: **Filomena Cesarano** - Associazione Ludico Culturale Amici Ludici Aps - [email](mailto:cesarano.filomena87@gmail.com)
+Referente: **Filomena Cesarano** - Associazione Ludico Culturale Amici Ludici Aps - [email](mailto:cesarano.filomena87@gmail.com) - WhatsApp: 3405310586
 
 ### Matera ✅
 Dalle 11:30 alle 13:00 in giro per Matera con il LucarGO'  
@@ -117,10 +117,20 @@ Dove: **Biblioteca comunale** - Vico Gelso 48, Castelluccio Superiore (PZ)
 Orario: dalle 16:30 alle 18:30  
 Referente: **Isabella Labanca** - Associazione Completa.Mente - [email](mailto:labancaisa@gmail.com)  
 
+### Perugia - ⁠Tuoro sul Trasimeno ✅
+Dove: **Oratorio Tiberiade**, Via Garibaldi 14, Passignano sul Trasimeno (Perugia)  
+Orario: dalle 16:30 alle 19:00  
+Referente: **Tommaso Provvedi** - [email](mailto:tommaso.provvedi@gmail.com)
+
 ### Ravenna ✅
-Dove: Centro RicreAzioni - via Don Carlo Sala 7, Ravenna  
+Dove: Centro RicreAzioni - Via Don Carlo Sala 7, Ravenna  
 Orario: 15:00 - 18:00  
 Referente: **Gabriele Mari** - [Educatori Ludici](https://www.facebook.com/educatoriludici) - [email](mailto:progetti.innovativi@cooplapieve.it) - 3281552787  
+
+### Rimini ✅
+Dove: **Ex-scuola elementare** - Via Montescudo 288, Gaiofana (Rimini)  
+Orario: dalle 15:00 alle 20:00  
+Referente: Lorenzo Leardini - [email](mailto:roark_it@yahoo.it) - 3282889182
 
 ### Salerno ✅
 Dove: **Foyer Cafè - Teatro Nuovo** - Via Valerio Laspro 10, Salerno  
@@ -137,9 +147,9 @@ Dove: **Sale parrocchiali di Cusignana** - Piazza IV Novembre, Giavera del Monte
 Orario: 15:00 - 18:00  
 Referente: **Erika Franceschini** - [email](mailto:erikafranceschini2@gmail.com) - 3493790747  
 
-### Udine - Rochis ✅
-Dove:   
-Orario:  
+### Udine - 33050 Ronchis ✅
+Dove: corso Italia 72, 33050 Ronchis (Udine)
+Orario: dalle 15:00 alle 17:30  
 Referente: **Roberta Cannellotto** - [email](mailto:roberta.cannellotto@gmail.com)
 
 ### Venezia ✅
@@ -151,37 +161,28 @@ Referente: **Elisa Carmen Brumat** - [email](mailto:ludoteca.babajaga@gmail.com)
 ### EVENTI IN VIA DI DEFINIZIONE
 
 ### Alì Terme (Messina)
-Referente: Rachele Bernava
+Referente: Rachele Bernava  
 
 ### Assisi
-Referente: Giacomo Piccioni
-
-### Cremona
-Referente: Alberto
+Referente: Giacomo Piccioni  
 
 ### Genova - Casarza Ligure
-Referente: Alessandra Carena - Ass.Culturale Lo Stregatto
+Referente: Alessandra Carena - Ass.Culturale Lo Stregatto  
 
 ### Legnano
 Referente: Valentina Giurbino  
 
 ### Palermo
-Referente: Giana Di Lorenzo
-
-### Perugia - ⁠Tuoro sul Trasimeno (PG)
-Referente: Tommaso Provvedi
-
-### Rimini
-Referente: Riccardo Nicolini
+Referente: Giana Di Lorenzo  
 
 ### Taranto
-Referente: Antonella Travaglini 
+Referente: Antonella Travaglini  
 
 ### Torino
-Rferente: Pietro Nigro
+Rferente: Pietro Nigro  
 
 ### Treviglio
-Referente: Antonio Ciocca
+Referente: Antonio Ciocca  
 
 ---
 
