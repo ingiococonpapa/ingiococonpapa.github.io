@@ -37,7 +37,7 @@ Qui trovate tutte le informazioni per partecipare ad un incontro o organizzare u
 
 ## Partecipazione e contatti {#contatti}
 
-**Per partecipare o proporre di organizzare una nuova città**, compilare questa [Form di partecipazione :fontawesome-solid-paper-plane:](https://forms.gle/jHMDSRyyoLyGsMvv7){ .md-button .md-button--primary }  
+**Per partecipare**, contattare i referenti di città, o compilare questa [Form di partecipazione :fontawesome-solid-paper-plane:](https://forms.gle/jHMDSRyyoLyGsMvv7){ .md-button .md-button--primary }  
 
 Per gli **organizzatori** di eventi, abbiamo una **mailing list**: [https://groups.google.com/g/ingiococonpapa](https://groups.google.com/g/ingiococonpapa) a cui sarete invitati dopo che avrete compilato la form e ci saremo sentiti.
 
@@ -148,7 +148,7 @@ Orario: 15:00 - 18:00
 Referente: **Erika Franceschini** - [email](mailto:erikafranceschini2@gmail.com) - 3493790747  
 
 ### Udine - 33050 Ronchis ✅
-Dove: corso Italia 72, 33050 Ronchis (Udine)
+Dove: via Massille 2, 33050 Ronchis (Udine)
 Orario: dalle 15:00 alle 17:30  
 Referente: **Roberta Cannellotto** - [email](mailto:roberta.cannellotto@gmail.com)
 
