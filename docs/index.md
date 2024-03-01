@@ -73,7 +73,7 @@ Referente: **Francioli Jennifer** - [email](mailto:francij75@gmail.com)
 
 ### Firenze ✅
 Dove: **Casa del Popolo di Settignano** - Via San Romano 1, Firenze | ([👉🏼 sito](https://cdp.settignano.org/))  
-Orario: 11:00 - 16:00 (con pranzo al bar)  
+Orario: 12:30 - 16:00 (con pranzo al bar)  
 Referenti: **Stefano Cecere** ([👉🏼 sito](https://2042ed.org) - [✍️ email](mailto:stefano.cecere@gmail.com)) e **Leonardo Boncinelli** ([👉🏼 sito](https://www.gix.unifi.it/))
 
 ### Grosseto ✅
@@ -118,7 +118,7 @@ Orario: dalle 16:30 alle 18:30
 Referente: **Isabella Labanca** - Associazione Completa.Mente - [email](mailto:labancaisa@gmail.com)  
 
 ### Perugia - ⁠Tuoro sul Trasimeno ✅
-Dove: **Oratorio Tiberiade**, Via Garibaldi 14, Passignano sul Trasimeno (Perugia)  
+Dove: **Oratorio Tiberiade**, piazza Maria Maddalena 1, Tuoro sul Trasimeno(Perugia)  
 Orario: dalle 16:30 alle 19:00  
 Referente: **Tommaso Provvedi** - [email](mailto:tommaso.provvedi@gmail.com)
 
