@@ -76,6 +76,12 @@ Dove: **Casa del Popolo di Settignano** - Via San Romano 1, Firenze | ([👉🏼
 Orario: 12:30 - 16:00 (con pranzo al bar)  
 Referenti: **Stefano Cecere** ([👉🏼 sito](https://2042ed.org) - [✍️ email](mailto:stefano.cecere@gmail.com)) e **Leonardo Boncinelli** ([👉🏼 sito](https://www.gix.unifi.it/))
 
+### Genova - Casarza Ligure
+Dove: **Villa Sottanis**, Casarza Ligure  
+Orario: dalle 16:00 alle 18:00  
+Referente: Alessandra Carena - Ass.Culturale Lo Stregatto - [✍️ email](mailto:alessandra.carena@gmail.com) - 3496443726  
+Social: Facebook @educazionemomzionalebambini  
+
 ### Grosseto ✅
 Dove: **Sala Eden, Bastione Garibaldi** - Viale Alessandro Manetti 4, Grosseto  
 Orario: dalle 15:00 alle 19:00  
@@ -165,9 +171,6 @@ Referente: Rachele Bernava
 
 ### Assisi
 Referente: Giacomo Piccioni  
-
-### Genova - Casarza Ligure
-Referente: Alessandra Carena - Ass.Culturale Lo Stregatto  
 
 ### Legnano
 Referente: Valentina Giurbino  
