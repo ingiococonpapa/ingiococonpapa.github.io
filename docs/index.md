@@ -37,7 +37,7 @@ Qui trovate tutte le informazioni per partecipare ad un incontro o organizzare u
 
 ## Partecipazione e contatti {#contatti}
 
-**Per partecipare**, contattare i referenti di città, o compilare questa [Form di partecipazione :fontawesome-solid-paper-plane:](https://forms.gle/jHMDSRyyoLyGsMvv7){ .md-button .md-button--primary }  
+**Per partecipare**, contattare i referenti di città.
 
 Per gli **organizzatori** di eventi, abbiamo una **mailing list**: [https://groups.google.com/g/ingiococonpapa](https://groups.google.com/g/ingiococonpapa) a cui sarete invitati dopo che avrete compilato la form e ci saremo sentiti.
 
@@ -48,7 +48,6 @@ Per informazioni: [Gianluca Daffi](mailto:daffi.gianluca@gmail.com) - Per questo
 ## Mappa Eventi {#mappa}
 
 !!! info
-    Per proporre nuovi eventi compilare questa 👉🏼 [form di contatto](https://forms.gle/jHMDSRyyoLyGsMvv7)  
     Per apportare modifiche scrivere in [mailing list](https://groups.google.com/g/ingiococonpapa)
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UuIn5vNkS8Sx4IpgfZJcW9S31Q_59qQ&ehbc=2E312F&noprof=1" width="100%" height="620"></iframe>
@@ -276,8 +275,6 @@ Da scaricare e stampare
 
 - :fontawesome-solid-book: [Volantino per la diffusione](./assets/pdf/volantino-papaingioco-17marzo2024.pdf)<br>
 Da scaricare e stampare
-
-- :fontawesome-solid-book: [Volantino (Canva) da modificare](https://www.canva.com/design/DAF7qEQOsv4/RMtEhlKL-4U2PzKCOhl5Nw/edit)<br> personalizzabile con luogo e orari del proprio evento
 
 </div>
 
