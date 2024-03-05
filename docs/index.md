@@ -59,108 +59,111 @@ Per informazioni: [Gianluca Daffi](mailto:daffi.gianluca@gmail.com) - Per questo
 Dove: **Spazio Tetris**, Via Gavazzeni 22, Ranica (Bergamo)  
 Orario: dalle 15:00 alle 18:00  
 Promosso da Game Masters - educatori per gioco / San Martino Progetto Autonomia coop sociale  
-Referente: **Simone Pezzotta** - [email](mailto:game@smartinocoop.com) - 3421427844  
+Referente: **Simone Pezzotta** - [✍️ email](mailto:game@smartinocoop.com) - 3421427844  
 
 ### Brescia ✅
 Dove: **Bimbo Chiama Bimbo** - Via Sant’Antonio, 16 (Zona Mompiano), Brescia  
 Orario: dalle 14:30  
-Referente: **Gianluca Daffi** - [email](mailto:daffi.gianluca@gmail.com)
+Referente: **Gianluca Daffi** - [✍️ email](mailto:daffi.gianluca@gmail.com)
 
 ### Domodossola ✅
 Dove: **Bibliteca Civica Contini** - Via Rosmini 20, Domodossola  
 Orario: 14:30/18:30  
-Referente: **Francioli Jennifer** - [email](mailto:francij75@gmail.com)
+Referente: **Francioli Jennifer** - [✍️ email](mailto:francij75@gmail.com)
 
 ### Firenze ✅
 Dove: **Casa del Popolo di Settignano** - Via San Romano 1, Firenze | ([👉🏼 sito](https://cdp.settignano.org/))  
 Orario: 12:30 - 16:00 (con pranzo al bar)  
-Referenti: **Stefano Cecere** ([👉🏼 sito](https://2042ed.org) - [✍️ email](mailto:stefano.cecere@gmail.com)) e **Leonardo Boncinelli** ([👉🏼 sito](https://www.gix.unifi.it/))
+In collaborazione con: [2042ed](https://2042ed.org), [GIX](https://www.gix.unifi.it/) e Associazione GO  
+Referenti: **Stefano Cecere** [✍️ email](mailto:stefano.cecere@gmail.com) e **Leonardo Boncinelli**
 
 ### Genova - Casarza Ligure
-Dove: **Villa Sottanis**, Casarza Ligure  
-Orario: dalle 16:00 alle 18:00  
+Dove: **Polo Multifunzionale Villa Sottanis** - Viale Annuti 36, Casarza Ligure  
+Orario: dalle 15:00 alle 18:00  
+In collaborazione con: Comune di Casarza Ligure, Associazione Culturale Lo Stregatto, Comitato genitori Istituto Comprensivo Fabrizio De Andre  
 Referente: Alessandra Carena - Ass.Culturale Lo Stregatto - [✍️ email](mailto:alessandra.carena@gmail.com) - 3496443726  
 Social: Facebook @educazionemomzionalebambini  
 
 ### Grosseto ✅
 Dove: **Sala Eden, Bastione Garibaldi** - Viale Alessandro Manetti 4, Grosseto  
 Orario: dalle 15:00 alle 19:00  
-Referente: **Carlo Donadio** - [email](mailto:carlo.donadio.paidos@gmail.com) - 3343068742  
+Referente: **Carlo Donadio** - [✍️ email](mailto:carlo.donadio.paidos@gmail.com) - 3343068742  
 
 ### Imperia ✅
 Dove: **Centro Aggregativo Il Puerto** - Via Matteotti 31, Imperia  
 Orario: dalle 15:00 alle 19:00  
 Alle ore 19:00 **apericena** offerto ai partecipanti  
-Referente: **Fabio Boero** - [email](mailto:fabio.boero@centroancora.it) - 3311946045  
+Referente: **Fabio Boero** - [✍️ email](mailto:fabio.boero@centroancora.it) - 3311946045  
 
 ### Lecce ✅
 Dove: **Biblioteca OgniBene** - Viale De Pietro 45, Lecce  
 Orario: dalle 17:00 alle 20:00  
-Referente: **Diego Solari** - [email](mailto:cosicomeseilecce@gmail.com)
+Referente: **Diego Solari** - [✍️ email](mailto:cosicomeseilecce@gmail.com)
 
 ### Mantova ✅
 Dove: Biblioteca Mediateca "Gino Baratta" - Corso Garibaldi 88, Mantova  
 Orario: dalle 10:00 alle 12:30  
-Referente: **Filomena Cesarano** - Associazione Ludico Culturale Amici Ludici Aps - [email](mailto:cesarano.filomena87@gmail.com) - WhatsApp: 3405310586
+Referente: **Filomena Cesarano** - Associazione Ludico Culturale Amici Ludici Aps - [✍️ email](mailto:cesarano.filomena87@gmail.com) - WhatsApp: 3405310586
 
 ### Matera ✅
 Dalle 11:30 alle 13:00 in giro per Matera con il LucarGO'  
 Dalle 18:00 alle 20:00 in **LUMACA**, via Tommaso Stigliani 50, Matera  
-Referente: **Emanuele Cristallo** - [email](mailto:zioludovico@gmail.com)
+Referente: **Emanuele Cristallo** - [✍️ email](mailto:zioludovico@gmail.com)
 
 ### Milano ✅
 Dove: **Casa dei Giochi** - Via Sant Uguzzone 8, Milano  
 Orario: dalle 16:30 alle 18:30  
-Referente: **Oscar Suriano**  - [email](mailto:osuriano@gmail.com)  
+Referente: **Oscar Suriano** - [✍️ email](mailto:osuriano@gmail.com)  
 
 ### Milano - Rescaldina ✅
 Dove: via Repetti in occasione della festa della Chiesa di **San Giovanni alla Pagana** (frazione di Rescalda)  
 Orario: dalle 15:30  
-Referente: **Fabio Gianquinto** - [email](mailto:fabgiaquinto@gmail.com)  
+Referente: **Fabio Gianquinto** - [✍️ email](mailto:fabgiaquinto@gmail.com)  
 
 ### Potenza - Castelluccio Superiore ✅
 Dove: **Biblioteca comunale** - Vico Gelso 48, Castelluccio Superiore (PZ)  
 Orario: dalle 16:30 alle 18:30  
-Referente: **Isabella Labanca** - Associazione Completa.Mente - [email](mailto:labancaisa@gmail.com)  
+Referente: **Isabella Labanca** - Associazione Completa.Mente - [✍️ email](mailto:labancaisa@gmail.com)  
 
 ### Perugia - ⁠Tuoro sul Trasimeno ✅
 Dove: **Oratorio Tiberiade**, piazza Maria Maddalena 1, Tuoro sul Trasimeno(Perugia)  
 Orario: dalle 16:30 alle 19:00  
-Referente: **Tommaso Provvedi** - [email](mailto:tommaso.provvedi@gmail.com)
+Referente: **Tommaso Provvedi** - [✍️ email](mailto:tommaso.provvedi@gmail.com)
 
 ### Ravenna ✅
 Dove: Centro RicreAzioni - Via Don Carlo Sala 7, Ravenna  
 Orario: 15:00 - 18:00  
-Referente: **Gabriele Mari** - [Educatori Ludici](https://www.facebook.com/educatoriludici) - [email](mailto:progetti.innovativi@cooplapieve.it) - 3281552787  
+Referente: **Gabriele Mari** - [Educatori Ludici](https://www.facebook.com/educatoriludici) - [✍️ email](mailto:progetti.innovativi@cooplapieve.it) - 3281552787  
 
 ### Rimini ✅
 Dove: **Ex-scuola elementare** - Via Montescudo 288, Gaiofana (Rimini)  
 Orario: dalle 15:00 alle 20:00  
-Referente: **Lorenzo Leardini** - [email](mailto:roark_it@yahoo.it) - 3282889182
+Referente: **Lorenzo Leardini** - [✍️ email](mailto:roark_it@yahoo.it) - 3282889182
 
 ### Salerno ✅
 Dove: **Foyer Cafè - Teatro Nuovo** - Via Valerio Laspro 10, Salerno  
 Orario: alle 17:00 alle 20:00  
-Referente: **Massimiliano Sabato** - [email](mailto:massi.sabato@gmail.com)
+Referente: **Massimiliano Sabato** - [✍️ email](mailto:massi.sabato@gmail.com)
 
 ### Treviso - Dosson di Casier ✅
-Dove: **Oratorio parrocchia San vigilio** - Via Peschiere, Dosson di Casier, Treviso  
+Dove: **Oratorio parrocchia San vigilio** - Via Peschiere 6, Dosson di Casier, Treviso  
 Orario: 15:00 - 18:00  
-Referente: **Rossella Frascogna** - [email](mailto:rossella683@gmail.com) - 3425712234  
+Referente: **Rossella Frascogna** - [✍️ email](mailto:rossella683@gmail.com) - 3425712234  
 
 ### Treviso - Giavera del Montello ✅
 Dove: **Sale parrocchiali di Cusignana** - Piazza IV Novembre, Giavera del Montello  
 Orario: 15:00 - 18:00  
-Referente: **Erika Franceschini** - [email](mailto:erikafranceschini2@gmail.com) - 3493790747  
+Referente: **Erika Franceschini** - [✍️ email](mailto:erikafranceschini2@gmail.com) - 3493790747  
 
 ### Udine - 33050 Ronchis ✅
-Dove: via Massille 2, 33050 Ronchis (Udine)
+Dove: via Massille 2, 33050 Ronchis (Udine)  
 Orario: dalle 15:00 alle 17:30  
-Referente: **Roberta Cannellotto** - [email](mailto:roberta.cannellotto@gmail.com)
+Referente: **Roberta Cannellotto** - [✍️ email](mailto:roberta.cannellotto@gmail.com)
 
 ### Venezia ✅
-Dove: **La Casa delle Meraviglie** - calle Larga Lavraneri 3, Venezia  
-Referente: **Elisa Carmen Brumat** - [email](mailto:ludoteca.babajaga@gmail.com)  
+Dove: **La Casa delle Meraviglie** sita a Sacca Fisola - Calle Larga Lavraneri 3, Venezia  
+Orario: 15:00 - 19:00  
+Referente: **Elisa Carmen Brumat** - [✍️ email](mailto:ludoteca.babajaga@gmail.com)  
 
 ---
 
