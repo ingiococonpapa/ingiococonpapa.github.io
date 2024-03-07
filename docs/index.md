@@ -165,6 +165,11 @@ Dove: **La Casa delle Meraviglie** sita a Sacca Fisola - Calle Larga Lavraneri 3
 Orario: 15:00 - 19:00  
 Referente: **Elisa Carmen Brumat** - [✍️ email](mailto:ludoteca.babajaga@gmail.com)  
 
+### Vicenza ✅
+Dove: Play on Tour alla Fiera del Tempo Libero - FIERA DI VICENZA, via Oreficeria, 16 – Vicenza  
+Orario: dalle 11:00 alle 18:00  
+Referente: Andrea Ligabue e Domenico Reggio - Ludo Labo - [✍️ email](mailto:mimmo@ludolabo.com)  
+
 ---
 
 ### EVENTI IN VIA DI DEFINIZIONE
