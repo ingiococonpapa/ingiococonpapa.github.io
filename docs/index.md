@@ -336,7 +336,7 @@ Basta condividere questo link [ingiococonpapa.github.io](https://ingiococonpapa.
 
 ![in gioco con papà](assets/img/banner-ingiococonpapa.png)
 
-![QR COde](assets/img/ingiocconpapas-qr-code.png)
+![QR COde](assets/img/ingiocconpapas-qr-code.png){ width="300" }
 
 ## FAQ (Domande e Risposte) {#faq}
 
