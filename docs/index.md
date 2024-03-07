@@ -73,9 +73,14 @@ Referente: **Francioli Jennifer** - [✍️ email](mailto:francij75@gmail.com)
 
 ### Firenze ✅
 Dove: **Casa del Popolo di Settignano** - Via San Romano 1, Firenze | ([👉🏼 sito](https://cdp.settignano.org/))  
-Orario: 14:00 - 16:30 (con antecedente pranzo per chi volesse)  
-In collaborazione con: [2042ed](https://2042ed.org), [GIX](https://www.gix.unifi.it/) e Associazione GO  
-Referenti: **Stefano Cecere** [✍️ email](mailto:stefano.cecere@gmail.com) e **Leonardo Boncinelli**
+Orario:
+
+- 11:00 - 12:30 laboratorio per bambini sulla motricità
+- 13:00 - 14:00 pranzo sociale
+- 14:00 - 16:30 In Gioco con Papà
+  
+In collaborazione con: [**2042ed**](https://2042ed.org), [**GIX**](https://www.gix.unifi.it/) e **Associazione GO APS**  
+Referenti: **Stefano Cecere** [✍️ email](mailto:stefano.cecere@gmail.com), **Stela Gjyzelaj** [✍️ email](mailto:stelagjyzelaj@gmail.com) e **Leonardo Boncinelli** [✍️ email](mailto:leonardo.boncinelli@unifi.it)
 
 ### Genova - Casarza Ligure
 Dove: **Polo Multifunzionale Villa Sottanis** - Viale Annuti 36, Casarza Ligure  
