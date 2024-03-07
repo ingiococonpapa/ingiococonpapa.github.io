@@ -58,7 +58,7 @@ Per informazioni: [Gianluca Daffi](mailto:daffi.gianluca@gmail.com) - Per questo
 ### Bergamo - Ranica ✅
 Dove: **Spazio Tetris**, Via Gavazzeni 22, Ranica (Bergamo)  
 Orario: dalle 15:00 alle 18:00  
-Promosso da Game Masters - educatori per gioco / San Martino Progetto Autonomia coop sociale  
+Organizzatori: Game Masters - educatori per gioco / San Martino Progetto Autonomia coop sociale  
 Referente: **Simone Pezzotta** - [✍️ email](mailto:game@smartinocoop.com) - 3421427844  
 
 ### Brescia ✅
@@ -72,22 +72,22 @@ Orario: 14:30/18:30
 Referente: **Francioli Jennifer** - [✍️ email](mailto:francij75@gmail.com)
 
 ### Firenze ✅
-Dove: **Casa del Popolo di Settignano** - Via San Romano 1, Firenze | ([👉🏼 sito](https://cdp.settignano.org/))  
+Dove: **Casa del Popolo di Settignano** - Via San Romano 1, Firenze | [👉🏼 sito](https://cdp.settignano.org/)  
 Orario:
 
 - 11:00 - 12:30 laboratorio per bambini sulla motricità
 - 13:00 - 14:00 pranzo sociale
 - 14:00 - 16:30 In Gioco con Papà
   
-In collaborazione con: [**2042ed**](https://2042ed.org), [**GIX**](https://www.gix.unifi.it/) e **Associazione GO APS**  
+Organizzatori: [**2042ed**](https://2042ed.org), [**GIX**](https://www.gix.unifi.it/) e **Associazione GO APS**  
 Referenti: **Stefano Cecere** [✍️ email](mailto:stefano.cecere@gmail.com), **Stela Gjyzelaj** [✍️ email](mailto:stelagjyzelaj@gmail.com) e **Leonardo Boncinelli** [✍️ email](mailto:leonardo.boncinelli@unifi.it)
 
 ### Genova - Casarza Ligure
 Dove: **Polo Multifunzionale Villa Sottanis** - Viale Annuti 36, Casarza Ligure  
 Orario: dalle 15:00 alle 18:00  
-In collaborazione con: Comune di Casarza Ligure, Associazione Culturale Lo Stregatto, Comitato genitori Istituto Comprensivo Fabrizio De Andre  
-Referente: Alessandra Carena - Ass.Culturale Lo Stregatto - [✍️ email](mailto:alessandra.carena@gmail.com) - 3496443726  
-Social: Facebook @educazionemomzionalebambini  
+Organizzatori: Comune di Casarza Ligure, Associazione Culturale Lo Stregatto, Comitato genitori Istituto Comprensivo Fabrizio De Andre  
+Referente: **Alessandra Carena** - [✍️ email](mailto:alessandra.carena@gmail.com) - 3496443726  
+Social: Facebook [@educazionemomzionalebambini](https://www.facebook.com/educazionemozionalebambini)
 
 ### Grosseto ✅
 Dove: **Sala Eden, Bastione Garibaldi** - Viale Alessandro Manetti 4, Grosseto  
@@ -108,11 +108,13 @@ Referente: **Diego Solari** - [✍️ email](mailto:cosicomeseilecce@gmail.com)
 ### Mantova ✅
 Dove: Biblioteca Mediateca "Gino Baratta" - Corso Garibaldi 88, Mantova  
 Orario: dalle 10:00 alle 12:30  
-Referente: **Filomena Cesarano** - Associazione Ludico Culturale Amici Ludici Aps - [✍️ email](mailto:cesarano.filomena87@gmail.com) - WhatsApp: 3405310586
+Organizzatori: Associazione Ludico Culturale Amici Ludici Aps  
+Referente: **Filomena Cesarano** - [✍️ email](mailto:cesarano.filomena87@gmail.com) - WhatsApp: 3405310586
 
 ### Matera ✅
 Dalle 11:30 alle 13:00 in giro per Matera con il LucarGO'  
 Dalle 18:00 alle 20:00 in **LUMACA**, via Tommaso Stigliani 50, Matera  
+Organizzatori: Zio Ludovico e LUMACA  
 Referente: **Emanuele Cristallo** - [✍️ email](mailto:zioludovico@gmail.com)
 
 ### Milano ✅
@@ -128,7 +130,8 @@ Referente: **Fabio Gianquinto** - [✍️ email](mailto:fabgiaquinto@gmail.com)
 ### Potenza - Castelluccio Superiore ✅
 Dove: **Biblioteca comunale** - Vico Gelso 48, Castelluccio Superiore (PZ)  
 Orario: dalle 16:30 alle 18:30  
-Referente: **Isabella Labanca** - Associazione Completa.Mente - [✍️ email](mailto:labancaisa@gmail.com)  
+Organizzatori: Associazione Completa.Mente  
+Referente: **Isabella Labanca** - [✍️ email](mailto:labancaisa@gmail.com)  
 
 ### Perugia - ⁠Tuoro sul Trasimeno ✅
 Dove: **Oratorio Tiberiade**, piazza Maria Maddalena 1, Tuoro sul Trasimeno(Perugia)  
@@ -138,7 +141,8 @@ Referente: **Tommaso Provvedi** - [✍️ email](mailto:tommaso.provvedi@gmail.c
 ### Ravenna ✅
 Dove: Centro RicreAzioni - Via Don Carlo Sala 7, Ravenna  
 Orario: 15:00 - 18:00  
-Referente: **Gabriele Mari** - [Educatori Ludici](https://www.facebook.com/educatoriludici) - [✍️ email](mailto:progetti.innovativi@cooplapieve.it) - 3281552787  
+Organizzatori: [Educatori Ludici](https://www.facebook.com/educatoriludici)  
+Referente: **Gabriele Mari** - [✍️ email](mailto:progetti.innovativi@cooplapieve.it) - 3281552787  
 
 ### Rimini ✅
 Dove: **Ex-scuola elementare** - Via Montescudo 288, Gaiofana (Rimini)  
@@ -173,7 +177,8 @@ Referente: **Elisa Carmen Brumat** - [✍️ email](mailto:ludoteca.babajaga@gma
 ### Vicenza ✅
 Dove: Play on Tour alla Fiera del Tempo Libero - FIERA DI VICENZA, via Oreficeria, 16 – Vicenza  
 Orario:  
-Referente: Domenico Reggio - [Ludo Labo](https://www.ludolabo.com/) - [✍️ email](mailto:mimmo@ludolabo.com)  
+Referente: **Domenico Reggio** (Ludo Labo) - [✍️ email](mailto:mimmo@ludolabo.com)  
+Social: **Play - Festival del Gioco** [FB](https://facebook.com/playmodena) | [IG](https://instagram.com/playmodena) - **Ludo Labo** [sito](https://www.ludolabo.com) | [FB](https://facebook.com/ludolabocoop) | [IG](https://instagram.com/ludolabocoop)  
 
 ---
 
