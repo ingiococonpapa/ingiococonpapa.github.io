@@ -331,6 +331,8 @@ Basta condividere questo link [ingiococonpapa.github.io](https://ingiococonpapa.
 
 ![in gioco con papà](assets/img/banner-ingiococonpapa.png)
 
+![QR COde](assets/img/ingiocconpapas-qr-code.png)
+
 ## FAQ (Domande e Risposte) {#faq}
 
 - **Cosa devo fare se voglio solo partecipare?**  
