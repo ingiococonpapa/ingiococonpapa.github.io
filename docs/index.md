@@ -80,7 +80,8 @@ Orario:
 - 14:00 - 16:30 In Gioco con Papà
   
 Organizzatori: [**2042ed**](https://2042ed.org), [**GIX**](https://www.gix.unifi.it/) e **Associazione GO APS**  
-Referenti: **Stefano Cecere** [✍️ email](mailto:stefano.cecere@gmail.com), **Stela Gjyzelaj** [✍️ email](mailto:stelagjyzelaj@gmail.com) e **Leonardo Boncinelli** [✍️ email](mailto:leonardo.boncinelli@unifi.it)
+Referenti: **Stefano Cecere** [✍️ email](mailto:stefano.cecere@gmail.com), **Stela Gjyzelaj** [✍️ email](mailto:stelagjyzelaj@gmail.com) e **Leonardo Boncinelli** [✍️ email](mailto:leonardo.boncinelli@unifi.it)  
+Social: Instagram [@cdpsettignano](https://www.instagram.com/cdpsettignano/) | [@cecere2042](https://instagram.com/cecere2042) | [@go_giocoeopportunita](https://www.instagram.com/go_giocoeopportunita)
 
 ### Genova - Casarza Ligure
 Dove: **Polo Multifunzionale Villa Sottanis** - Viale Annuti 36, Casarza Ligure  
