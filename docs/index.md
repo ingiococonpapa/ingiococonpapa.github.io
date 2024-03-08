@@ -147,6 +147,11 @@ Orario: 15:00 - 18:00
 Organizzatori: [Educatori Ludici](https://www.facebook.com/educatoriludici)  
 Referente: **Gabriele Mari** - [✍️ email](mailto:progetti.innovativi@cooplapieve.it) - 3281552787  
 
+### Roma - Monterotondo ✅
+Dove: **Biblioteca Comunale** - Monterotondo, Roma  
+Orario:  
+Referente: **Luciano Federici** - [✍️ email](mailto:af18re@gmail.com)
+
 ### Rimini ✅
 Dove: **Ex-scuola elementare** - Via Montescudo 288, Gaiofana (Rimini)  
 Orario: dalle 15:00 alle 20:00  
