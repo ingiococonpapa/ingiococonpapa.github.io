@@ -306,7 +306,8 @@ Da scaricare e stampare
 
 ---
 
-## Lista dei giochi proposti
+## Giochi
+Elenco dei giochi consigliati
 
 !!! warning "Attenzione"
     Gli organizzatori territoriali **non** dovranno utilizzare tutti i giochi riportati nella lista, ma selezionarne solo alcuni in base alle caratteristiche dell’evento concordato con il comitato organizzativo centrale.
@@ -324,14 +325,14 @@ Da scaricare e stampare
 
 ### Per i grandi
 
-| Titolo | Scheda BGG |
-|---|---|
-| Saboteur | [scheda BBG](https://boardgamegeek.com/boardgame/9220/saboteur) |
-| ⁠Diamant |  [scheda BBG](https://boardgamegeek.com/boardgame/15512/incan-gold) |
-| ⁠Carcassonne |  [scheda BBG](https://boardgamegeek.com/boardgame/822/carcassonne) |
-| ⁠King of Tokyo / King of monster island |  [scheda BBG](https://boardgamegeek.com/boardgame/70323/king-tokyo) |
-| ⁠⁠Crossing |  [scheda BBG](https://boardgamegeek.com/boardgame/172971/crossing) |
-| Splendor / Splendor Marvel |  [scheda BBG](https://boardgamegeek.com/boardgame/148228/splendor) |
+| Titolo | Scheda BGG | |
+|---|---|---|
+| Saboteur | [scheda BBG](https://boardgamegeek.com/boardgame/9220/saboteur) | [scheda](https://2042ed.org/played/boardgame/saboteur/) |
+| ⁠Diamant |  [scheda BBG](https://boardgamegeek.com/boardgame/15512/incan-gold)  | [scheda](https://2042ed.org/played/boardgame/diamant/) |
+| ⁠Carcassonne |  [scheda BBG](https://boardgamegeek.com/boardgame/822/carcassonne) | [scheda](https://2042ed.org/played/boardgame/carcassonne/) |
+| ⁠King of Tokyo / King of monster island |  [scheda BBG](https://boardgamegeek.com/boardgame/70323/king-tokyo) | [scheda](https://2042ed.org/played/boardgame/king-of-tokyo/) |
+| ⁠⁠Crossing |  [scheda BBG](https://boardgamegeek.com/boardgame/172971/crossing) | |
+| Splendor / Splendor Marvel |  [scheda BBG](https://boardgamegeek.com/boardgame/148228/splendor) | [scheda](https://2042ed.org/played/boardgame/splendor/) |
 
 ---
 
