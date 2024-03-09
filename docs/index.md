@@ -148,8 +148,8 @@ Organizzatori: [Educatori Ludici](https://www.facebook.com/educatoriludici)
 Referente: **Gabriele Mari** - [✍️ email](mailto:progetti.innovativi@cooplapieve.it) - 3281552787  
 
 ### Roma - Monterotondo ✅
-Dove: **Biblioteca Comunale** - Monterotondo, Roma  
-Orario:  
+Dove: **Biblioteca Comunale Paolo Angelani** - Piazza Don Giovanni Minzoni 2, Monterotondo, Roma  
+Orario: dalle 15:00 alle 18:00  
 Referente: **Luciano Federici** - [✍️ email](mailto:af18re@gmail.com)
 
 ### Rimini ✅
