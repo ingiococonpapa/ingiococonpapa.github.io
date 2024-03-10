@@ -55,23 +55,23 @@ Per informazioni: [Gianluca Daffi](mailto:daffi.gianluca@gmail.com) - Per questo
 
 ### ✅ EVENTI CONFERMATI
 
-### Bergamo - Ranica ✅
+#### Bergamo - Ranica ✅
 Dove: **Spazio Tetris**, Via Gavazzeni 22, Ranica (Bergamo)  
 Orario: dalle 15:00 alle 18:00  
 Organizzatori: Game Masters - educatori per gioco / San Martino Progetto Autonomia coop sociale  
 Referente: **Simone Pezzotta** - [✍️ email](mailto:game@smartinocoop.com) - 3421427844  
 
-### Brescia ✅
+#### Brescia ✅
 Dove: **Bimbo Chiama Bimbo** - Via Sant’Antonio, 16 (Zona Mompiano), Brescia  
 Orario: dalle 14:30  
 Referente: **Gianluca Daffi** - [✍️ email](mailto:daffi.gianluca@gmail.com)
 
-### Domodossola ✅
+#### Domodossola ✅
 Dove: **Bibliteca Civica Contini** - Via Rosmini 20, Domodossola  
 Orario: 14:30/18:30  
 Referente: **Francioli Jennifer** - [✍️ email](mailto:francij75@gmail.com)
 
-### Firenze ✅
+#### Firenze ✅
 Dove: **Casa del Popolo di Settignano** - Via San Romano 1, Firenze | [👉🏼 sito](https://cdp.settignano.org/)  
 Orario:
 
@@ -85,133 +85,108 @@ Social:
 **Facebook** [Evento Facebook](https://www.facebook.com/events/1093502338559646/)  
 **Instagram** [@cdpsettignano](https://www.instagram.com/cdpsettignano/) | [@cecere2042](https://instagram.com/cecere2042) | [@go_giocoeopportunita](https://www.instagram.com/go_giocoeopportunita)
 
-### Genova - Casarza Ligure
+#### Genova - Casarza Ligure
 Dove: **Polo Multifunzionale Villa Sottanis** - Viale Annuti 36, Casarza Ligure  
 Orario: dalle 15:00 alle 18:00  
 Organizzatori: Comune di Casarza Ligure, Associazione Culturale Lo Stregatto, Comitato genitori Istituto Comprensivo Fabrizio De Andre  
 Referente: **Alessandra Carena** - [✍️ email](mailto:alessandra.carena@gmail.com) - 3496443726  
 Social: Facebook [@educazionemomzionalebambini](https://www.facebook.com/educazionemozionalebambini)
 
-### Grosseto ✅
+#### Grosseto ✅
 Dove: **Sala Eden, Bastione Garibaldi** - Viale Alessandro Manetti 4, Grosseto  
 Orario: dalle 15:00 alle 19:00  
 Referente: **Carlo Donadio** - [✍️ email](mailto:carlo.donadio.paidos@gmail.com) - 3343068742  
 
-### Imperia ✅
+#### Imperia ✅
 Dove: **Centro Aggregativo Il Puerto** - Via Matteotti 31, Imperia  
 Orario: dalle 15:00 alle 19:00  
 Alle ore 19:00 **apericena** offerto ai partecipanti  
 Referente: **Fabio Boero** - [✍️ email](mailto:fabio.boero@centroancora.it) - 3311946045  
 
-### Lecce ✅
+#### Lecce ✅
 Dove: **Biblioteca OgniBene** - Viale De Pietro 45, Lecce  
 Orario: dalle 17:00 alle 20:00  
 Referente: **Diego Solari** - [✍️ email](mailto:cosicomeseilecce@gmail.com)
 
-### Mantova ✅
+#### Mantova ✅
 Dove: Biblioteca Mediateca "Gino Baratta" - Corso Garibaldi 88, Mantova  
 Orario: dalle 10:00 alle 12:30  
 Organizzatori: Associazione Ludico Culturale Amici Ludici Aps  
 Referente: **Filomena Cesarano** - [✍️ email](mailto:cesarano.filomena87@gmail.com) - WhatsApp: 3405310586
 
-### Matera ✅
+#### Matera ✅
 Dalle 11:30 alle 13:00 in giro per Matera con il LucarGO'  
 Dalle 18:00 alle 20:00 in **LUMACA**, via Tommaso Stigliani 50, Matera  
 Organizzatori: Zio Ludovico e LUMACA  
 Referente: **Emanuele Cristallo** - [✍️ email](mailto:zioludovico@gmail.com)
 
-### Milano ✅
+#### Milano ✅
 Dove: **Casa dei Giochi** - Via Sant Uguzzone 8, Milano  
 Orario: dalle 16:30 alle 18:30  
 Referente: **Oscar Suriano** - [✍️ email](mailto:osuriano@gmail.com)  
 
-### Milano - Rescaldina ✅
+#### Milano - Rescaldina ✅
 Dove: via Repetti in occasione della festa della **Chiesa di San Giuseppe alla Pagana** (frazione di Rescalda)  
 Orario: dalle 15:30  
 Referente: **Fabio Gianquinto** - [✍️ email](mailto:fabgiaquinto@gmail.com)  
 
-### Potenza - Castelluccio Superiore ✅
+#### Potenza - Castelluccio Superiore ✅
 Dove: **Biblioteca comunale** - Vico Gelso 48, Castelluccio Superiore (PZ)  
 Orario: dalle 16:30 alle 18:30  
 Organizzatori: Associazione Completa.Mente  
 Referente: **Isabella Labanca** - [✍️ email](mailto:labancaisa@gmail.com)  
 
-### Perugia - ⁠Tuoro sul Trasimeno ✅
+#### Perugia - ⁠Tuoro sul Trasimeno ✅
 Dove: **Oratorio Tiberiade**, piazza Maria Maddalena 1, Tuoro sul Trasimeno(Perugia)  
 Orario: dalle 16:30 alle 19:00  
 Referente: **Tommaso Provvedi** - [✍️ email](mailto:tommaso.provvedi@gmail.com)
 
-### Ravenna ✅
+#### Ravenna ✅
 Dove: Centro RicreAzioni - Via Don Carlo Sala 7, Ravenna  
 Orario: 15:00 - 18:00  
 Organizzatori: [Educatori Ludici](https://www.facebook.com/educatoriludici)  
 Referente: **Gabriele Mari** - [✍️ email](mailto:progetti.innovativi@cooplapieve.it) - 3281552787  
 
-### Roma - Monterotondo ✅
+#### Roma - Monterotondo ✅
 Dove: **Biblioteca Comunale Paolo Angelani** - Piazza Don Giovanni Minzoni 2, Monterotondo, Roma  
 Orario: dalle 15:00 alle 18:00  
 Referente: **Luciano Federici** - [✍️ email](mailto:af18re@gmail.com)
 
-### Rimini ✅
+#### Rimini ✅
 Dove: **Ex-scuola elementare** - Via Montescudo 288, Gaiofana (Rimini)  
 Orario: dalle 15:00 alle 20:00  
 Referente: **Lorenzo Leardini** - [✍️ email](mailto:roark_it@yahoo.it) - 3282889182
 
-### Salerno ✅
+#### Salerno ✅
 Dove: **Foyer Cafè - Teatro Nuovo** - Via Valerio Laspro 10, Salerno  
 Orario: alle 17:00 alle 20:00  
 Referente: **Massimiliano Sabato** - [✍️ email](mailto:massi.sabato@gmail.com)
 
-### Treviso - Dosson di Casier ✅
+#### Treviso - Dosson di Casier ✅
 Dove: **Oratorio parrocchia San vigilio** - Via Peschiere 6, Dosson di Casier, Treviso  
 Orario: 15:00 - 18:00  
 Referente: **Rossella Frascogna** - [✍️ email](mailto:rossella683@gmail.com) - 3425712234  
 
-### Treviso - Giavera del Montello ✅
+#### Treviso - Giavera del Montello ✅
 Dove: **Sale parrocchiali di Cusignana** - Piazza IV Novembre, Giavera del Montello  
 Orario: 15:00 - 18:00  
 Referente: **Erika Franceschini** - [✍️ email](mailto:erikafranceschini2@gmail.com) - 3493790747  
 
-### Udine - 33050 Ronchis ✅
+#### Udine - 33050 Ronchis ✅
 Dove: via Massille 2, 33050 Ronchis (Udine)  
 Orario: dalle 15:00 alle 17:30  
 Referente: **Roberta Cannellotto** - [✍️ email](mailto:roberta.cannellotto@gmail.com)
 
-### Venezia ✅
+#### Venezia ✅
 Dove: **La Casa delle Meraviglie** sita a Sacca Fisola - Calle Larga Lavraneri 3, Venezia  
 Orario: 15:00 - 19:00  
 Referente: **Elisa Carmen Brumat** - [✍️ email](mailto:ludoteca.babajaga@gmail.com)  
 
-### Vicenza ✅
+#### Vicenza ✅
 Dove: Play on Tour alla Fiera del Tempo Libero - FIERA DI VICENZA, via Oreficeria, 16 – Vicenza  
 Orario:  
 Referente: **Domenico Reggio** (Ludo Labo) - [✍️ email](mailto:mimmo@ludolabo.com)  
 Social: **Play - Festival del Gioco** [FB](https://facebook.com/playmodena) | [IG](https://instagram.com/playmodena) - **Ludo Labo** [sito](https://www.ludolabo.com) | [FB](https://facebook.com/ludolabocoop) | [IG](https://instagram.com/ludolabocoop)  
-
----
-
-### EVENTI IN VIA DI DEFINIZIONE
-
-### Alì Terme (Messina)
-Referente: Rachele Bernava  
-
-### Assisi
-Referente: Giacomo Piccioni  
-
-### Legnano
-Referente: Valentina Giurbino  
-
-### Palermo
-Referente: Giana Di Lorenzo  
-
-### Taranto
-Referente: Antonella Travaglini  
-
-### Torino
-Rferente: Pietro Nigro  
-
-### Treviglio
-Referente: Antonio Ciocca  
 
 ---
 
@@ -314,25 +289,56 @@ Elenco dei giochi consigliati
 
 ### Per i piccoli
 
-| Titolo | Descrizione | Editore | Tutorial |
-|---|---|---|---|
-| **C’era un Pirata** | gioco di memoria e velocità dove i pirati devono ricordare e raccogliere gli oggetti del totem descritto dal capitano per conquistare il tesoro | [Erickson](https://www.erickson.it/it/c-era-un-pirata) | [ℹ️&nbsp;Scheda](https://2042ed.org/played/boardgame/cera-un-pirata/) |
-| **A caccia di conchiglie** | gioco di memoria e abbinamento dove vince chi colleziona più conchiglie memorizzando la loro posizione sulla spiaggia| [Erickson](https://www.erickson.it/it/a-caccia-di-conchiglie) | [ℹ️&nbsp;Scheda](https://2042ed.org/played/boardgame/caccia-di-conchiglie/) |
-| **Taco gatto cacio capra pizza** | gioco di carte frenetico dove devi sbarazzarti delle tue carte colpendo una pila al centro del tavolo, ma solo se la parola che dici non corrisponde all'immagine sulla carta scoperta | [Ghenos](https://www.ghenosgames.com/it/prodotto/taco-gatto-capra-cacio-pizza/) | [ℹ️&nbsp;Scheda](https://2042ed.org/played/boardgame/taco-cat-goat-cheese-pizza/) |
-| **⁠Ice cool** |  gioco di abilità in cui i giocatori assumono il ruolo di pinguini che devono pescare il maggior numero di pesci possibile rompendo il ghiaccio con un martello giocattolo  | Oliphante | [ℹ️&nbsp;Scheda](https://2042ed.org/played/boardgame/icecool/) |
-| **Catan junior** | i giocatori assumono il ruolo di pirati che costruiscono nascondigli e raccolgono risorse su un'isola a forma di anello per ottenere il tesoro del Capitano Fantasma | Asmodee | [ℹ️&nbsp;Scheda](https://2042ed.org/played/boardgame/catan-junior) |
-| **Fantascatti** / **Fantablitz** | gioco di velocità e associazione in cui i giocatori devono afferrare gli oggetti che appaiono sul fantasma Baldovino, ma attenzione a non confondersi con i suoi dispetti! | [Giochi Uniti](https://shop.giochiuniti.it/fantascatti-nuova-edizione.html) | [ℹ️&nbsp;Scheda](https://2042ed.org/played/boardgame/fantascatti/) |
+#### ▶️ C’era un Pirata
+gioco di memoria e velocità dove i pirati devono ricordare e raccogliere gli oggetti del totem descritto dal capitano per conquistare il tesoro.  
+[ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/cera-un-pirata/) - Editore: [Erickson](https://www.erickson.it/it/c-era-un-pirata)  
+
+#### ▶️ A caccia di conchiglie
+gioco di memoria e abbinamento dove vince chi colleziona più conchiglie memorizzando la loro posizione sulla spiaggia.  
+[ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/caccia-di-conchiglie/) - Editore: [Erickson](https://www.erickson.it/it/a-caccia-di-conchiglie)  
+
+#### ▶️ Taco gatto cacio capra pizza
+gioco di carte frenetico dove devi sbarazzarti delle tue carte colpendo una pila al centro del tavolo, ma solo se la parola che dici non corrisponde all'immagine sulla carta scoperta   
+[ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/taco-cat-goat-cheese-pizza/) - Editore: [Ghenos](https://www.ghenosgames.com/it/prodotto/taco-gatto-capra-cacio-pizza/) 
+
+#### ▶️ ⁠Ice cool
+gioco di abilità in cui i giocatori assumono il ruolo di pinguini che devono pescare il maggior numero di pesci possibile rompendo il ghiaccio con un martello giocattolo.    
+[ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/icecool/) - Editore: Oliphante
+
+#### ▶️ Catan junior
+i giocatori assumono il ruolo di pirati che costruiscono nascondigli e raccolgono risorse su un'isola a forma di anello per ottenere il tesoro del Capitano Fantasma.    
+[ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/catan-junior) - Editore: Asmodee
+
+#### ▶️ Fantascatti / Fantablitz
+gioco di velocità e associazione in cui i giocatori devono afferrare gli oggetti che appaiono sul fantasma Baldovino, ma attenzione a non confondersi con i suoi dispetti!  
+[ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/fantascatti/) - Editore: [Giochi Uniti](https://shop.giochiuniti.it/fantascatti-nuova-edizione.html)  
 
 ### Per i grandi
 
-| Titolo | Descrizione | Editore | Tutorial |
-|---|---|---|---|
-| **Saboteur** | impersonate nani minatori alla ricerca di un tesoro, ma tra di voi si nascondono sabotatori! | [Giochi Uniti](https://shop.giochiuniti.it/saboteur.html) | [ℹ️&nbsp;Scheda](https://2042ed.org/played/boardgame/saboteur/)|
-| **⁠Diamant** | esplorate una miniera per diamanti cercando di ottenere il bottino più ricco prima che una frana rovini tutto | Mancalamaro | [ℹ️&nbsp;Scheda](https://2042ed.org/played/boardgame/diamant/)|
-| **⁠Carcassonne** | strategico in cui posizionare tessere per costruire un paesaggio medievale e ottenere punti posizionando i propri seguaci su città, strade, monasteri e campi | [Giochi Uniti](https://shop.giochiuniti.it/carcassonne-gioco-base-edizione-2021.html) | [ℹ️&nbsp;Scheda](https://2042ed.org/played/boardgame/carcassonne/)|
-| **⁠King of Tokyo** / **King of monster island** | gioco da tavolo frenetico in cui impersonate mostri giganti che combattono per distruggere Tokyo e diventare il Re dei Mostri | [IELLO](https://iello.fr/jeux/king-of-tokyo/) | [ℹ️&nbsp;Scheda](https://2042ed.org/played/boardgame/king-of-tokyo/)|
-| **⁠⁠Crossing** | competizione tra esploratori che attraversano un pericoloso labirinto sotterraneo per recuperare tesori | Asmodee | [ℹ️&nbsp;Scheda](https://2042ed.org/played/boardgame/crossing/) |
-| **Splendor** / **Splendor Marvel** | competizione per accumulare punti vittoria comprando gemme, sviluppando il proprio emporio e attirando nobili | [Space Cowboys](https://www.asmodee.it/product/splendor/)  | [ℹ️&nbsp;Scheda](https://2042ed.org/played/boardgame/splendor/) |
+#### ▶️ Saboteur
+impersonate nani minatori alla ricerca di un tesoro, ma tra di voi si nascondono sabotatori!  
+[ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/saboteur/) - Editore: [Giochi Uniti](https://shop.giochiuniti.it/saboteur.html)  
+
+#### ▶️ ⁠Diamant
+esplorate una miniera per diamanti cercando di ottenere il bottino più ricco prima che una frana rovini tutto.  
+[ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/diamant/)
+ - Editore: Mancalamaro  
+
+#### ▶️ ⁠Carcassonne
+strategico in cui posizionare tessere per costruire un paesaggio medievale e ottenere punti posizionando i propri seguaci su città, strade, monasteri e campi.  
+[ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/carcassonne/) - Editore: [Giochi Uniti](https://shop.giochiuniti.it/carcassonne-gioco-base-edizione-2021.html)  
+
+#### ▶️ ⁠King of Tokyo / King of monster island
+gioco da tavolo frenetico in cui impersonate mostri giganti che combattono per distruggere Tokyo e diventare il Re dei Mostri.  
+[ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/king-of-tokyo/) - Editore: [IELLO](https://iello.fr/jeux/king-of-tokyo/)   
+
+#### ⁠⁠▶️ Crossing
+competizione tra esploratori che attraversano un pericoloso labirinto sotterraneo per recuperare tesori.   
+[ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/crossing/) - Editore: Asmodee 
+
+#### ▶️ Splendor / Splendor Marvel
+competizione per accumulare punti vittoria comprando gemme, sviluppando il proprio emporio e attirando nobili.  
+[ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/splendor/) - Editore: [Space Cowboys](https://www.asmodee.it/product/splendor/)  
 
 ---
 
