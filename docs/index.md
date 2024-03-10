@@ -289,54 +289,54 @@ Elenco dei giochi consigliati
 
 ### Per i piccoli
 
-#### ▶️ C’era un Pirata
+#### 🟧 C’era un Pirata
 gioco di memoria e velocità dove i pirati devono ricordare e raccogliere gli oggetti del totem descritto dal capitano per conquistare il tesoro.  
 [ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/cera-un-pirata/) - Editore: [Erickson](https://www.erickson.it/it/c-era-un-pirata)  
 
-#### ▶️ A caccia di conchiglie
+#### 🟧 A caccia di conchiglie
 gioco di memoria e abbinamento dove vince chi colleziona più conchiglie memorizzando la loro posizione sulla spiaggia.  
 [ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/caccia-di-conchiglie/) - Editore: [Erickson](https://www.erickson.it/it/a-caccia-di-conchiglie)  
 
-#### ▶️ Taco gatto cacio capra pizza
+#### 🟧 Taco gatto cacio capra pizza
 gioco di carte frenetico dove devi sbarazzarti delle tue carte colpendo una pila al centro del tavolo, ma solo se la parola che dici non corrisponde all'immagine sulla carta scoperta   
 [ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/taco-cat-goat-cheese-pizza/) - Editore: [Ghenos](https://www.ghenosgames.com/it/prodotto/taco-gatto-capra-cacio-pizza/) 
 
-#### ▶️ ⁠Ice cool
+#### 🟧 ⁠Ice cool
 gioco di abilità in cui i giocatori assumono il ruolo di pinguini che devono pescare il maggior numero di pesci possibile rompendo il ghiaccio con un martello giocattolo.    
 [ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/icecool/) - Editore: Oliphante
 
-#### ▶️ Catan junior
+#### 🟧 Catan junior
 i giocatori assumono il ruolo di pirati che costruiscono nascondigli e raccolgono risorse su un'isola a forma di anello per ottenere il tesoro del Capitano Fantasma.    
 [ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/catan-junior) - Editore: Asmodee
 
-#### ▶️ Fantascatti / Fantablitz
+#### 🟧 Fantascatti / Fantablitz
 gioco di velocità e associazione in cui i giocatori devono afferrare gli oggetti che appaiono sul fantasma Baldovino, ma attenzione a non confondersi con i suoi dispetti!  
 [ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/fantascatti/) - Editore: [Giochi Uniti](https://shop.giochiuniti.it/fantascatti-nuova-edizione.html)  
 
 ### Per i grandi
 
-#### ▶️ Saboteur
+#### 🟧 Saboteur
 impersonate nani minatori alla ricerca di un tesoro, ma tra di voi si nascondono sabotatori!  
 [ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/saboteur/) - Editore: [Giochi Uniti](https://shop.giochiuniti.it/saboteur.html)  
 
-#### ▶️ ⁠Diamant
+#### 🟧 ⁠Diamant
 esplorate una miniera per diamanti cercando di ottenere il bottino più ricco prima che una frana rovini tutto.  
 [ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/diamant/)
  - Editore: Mancalamaro  
 
-#### ▶️ ⁠Carcassonne
+#### 🟧 ⁠Carcassonne
 strategico in cui posizionare tessere per costruire un paesaggio medievale e ottenere punti posizionando i propri seguaci su città, strade, monasteri e campi.  
 [ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/carcassonne/) - Editore: [Giochi Uniti](https://shop.giochiuniti.it/carcassonne-gioco-base-edizione-2021.html)  
 
-#### ▶️ ⁠King of Tokyo / King of monster island
+#### 🟧 ⁠King of Tokyo / King of monster island
 gioco da tavolo frenetico in cui impersonate mostri giganti che combattono per distruggere Tokyo e diventare il Re dei Mostri.  
 [ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/king-of-tokyo/) - Editore: [IELLO](https://iello.fr/jeux/king-of-tokyo/)   
 
-#### ⁠⁠▶️ Crossing
+#### 🟧 Crossing
 competizione tra esploratori che attraversano un pericoloso labirinto sotterraneo per recuperare tesori.   
 [ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/crossing/) - Editore: Asmodee 
 
-#### ▶️ Splendor / Splendor Marvel
+#### 🟧 Splendor / Splendor Marvel
 competizione per accumulare punti vittoria comprando gemme, sviluppando il proprio emporio e attirando nobili.  
 [ℹ️ Scheda Tutorial](https://2042ed.org/played/boardgame/splendor/) - Editore: [Space Cowboys](https://www.asmodee.it/product/splendor/)  
 
