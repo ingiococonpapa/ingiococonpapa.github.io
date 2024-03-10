@@ -314,25 +314,25 @@ Elenco dei giochi consigliati
 
 ### Per i piccoli
 
-| Titolo | Descrizione | Editore | Scheda |
+| Titolo | Descrizione | Editore | Tutorial |
 |---|---|---|---|
-| **C’era un Pirata** | gioco di memoria e velocità dove i pirati devono ricordare e raccogliere gli oggetti del totem descritto dal capitano per conquistare il tesoro | [Erickson](https://www.erickson.it/it/c-era-un-pirata) | [2042ed](https://2042ed.org/played/boardgame/cera-un-pirata/) |
-| **A caccia di conchiglie** | Gioco di memoria e abbinamento dove vince chi colleziona più conchiglie memorizzando la loro posizione sulla spiaggia| [Erickson](https://www.erickson.it/it/a-caccia-di-conchiglie) | [2042ed](https://2042ed.org/played/boardgame/caccia-di-conchiglie/) |
-| **Taco gatto cacio capra pizza** | gioco di carte frenetico dove devi sbarazzarti delle tue carte colpendo una pila al centro del tavolo, ma solo se la parola che dici non corrisponde all'immagine sulla carta scoperta | [Ghenos](https://www.ghenosgames.com/it/prodotto/taco-gatto-capra-cacio-pizza/) | [2042ed](https://2042ed.org/played/boardgame/taco-cat-goat-cheese-pizza/) |
-| **⁠Ice cool** |  gioco di abilità in cui i giocatori assumono il ruolo di pinguini che devono pescare il maggior numero di pesci possibile rompendo il ghiaccio con un martello giocattolo  | | [2042ed](https://2042ed.org/played/boardgame/icecool/) |
-| **Catan junior** | i giocatori assumono il ruolo di pirati che costruiscono nascondigli e raccolgono risorse su un'isola a forma di anello per ottenere il tesoro del Capitano Fantasma | Asmodee | [2042ed](https://2042ed.org/played/boardgame/catan-junior) |
-| **Fantascatti** / **Fantablitz** | gioco di velocità e associazione in cui i giocatori devono afferrare gli oggetti che appaiono sul fantasma Baldovino, ma attenzione a non confondersi con i suoi dispetti! | | [2042ed](https://2042ed.org/played/boardgame/fantascatti/) |
+| **C’era un Pirata** | gioco di memoria e velocità dove i pirati devono ricordare e raccogliere gli oggetti del totem descritto dal capitano per conquistare il tesoro | [Erickson](https://www.erickson.it/it/c-era-un-pirata) | [👉🏼&nbsp;Scheda](https://2042ed.org/played/boardgame/cera-un-pirata/) |
+| **A caccia di conchiglie** | Gioco di memoria e abbinamento dove vince chi colleziona più conchiglie memorizzando la loro posizione sulla spiaggia| [Erickson](https://www.erickson.it/it/a-caccia-di-conchiglie) | [👉🏼&nbsp;Scheda](https://2042ed.org/played/boardgame/caccia-di-conchiglie/) |
+| **Taco gatto cacio capra pizza** | gioco di carte frenetico dove devi sbarazzarti delle tue carte colpendo una pila al centro del tavolo, ma solo se la parola che dici non corrisponde all'immagine sulla carta scoperta | [Ghenos](https://www.ghenosgames.com/it/prodotto/taco-gatto-capra-cacio-pizza/) | [👉🏼&nbsp;Scheda](https://2042ed.org/played/boardgame/taco-cat-goat-cheese-pizza/) |
+| **⁠Ice cool** |  gioco di abilità in cui i giocatori assumono il ruolo di pinguini che devono pescare il maggior numero di pesci possibile rompendo il ghiaccio con un martello giocattolo  | Oliphante | [👉🏼&nbsp;Scheda](https://2042ed.org/played/boardgame/icecool/) |
+| **Catan junior** | i giocatori assumono il ruolo di pirati che costruiscono nascondigli e raccolgono risorse su un'isola a forma di anello per ottenere il tesoro del Capitano Fantasma | Asmodee | [👉🏼&nbsp;Scheda](https://2042ed.org/played/boardgame/catan-junior) |
+| **Fantascatti** / **Fantablitz** | gioco di velocità e associazione in cui i giocatori devono afferrare gli oggetti che appaiono sul fantasma Baldovino, ma attenzione a non confondersi con i suoi dispetti! | [Giochi Uniti](https://shop.giochiuniti.it/fantascatti-nuova-edizione.html) | [👉🏼&nbsp;Scheda](https://2042ed.org/played/boardgame/fantascatti/) |
 
 ### Per i grandi
 
-| Titolo | Descrizione | Schede |
-|---|---|---|
-| **Saboteur** | impersonate nani minatori alla ricerca di un tesoro, ma tra di voi si nascondono sabotatori! | [2042ed](https://2042ed.org/played/boardgame/saboteur/) / [BGG](https://boardgamegeek.com/boardgame/9220/saboteur) |
-| **⁠Diamant** | esplorate una miniera per diamanti cercando di ottenere il bottino più ricco prima che una frana rovini tutto | [2042ed](https://2042ed.org/played/boardgame/diamant/) / [BGG](https://boardgamegeek.com/boardgame/15512/incan-gold)|
-| **⁠Carcassonne** | strategico in cui posizionare tessere per costruire un paesaggio medievale e ottenere punti posizionando i propri seguaci su città, strade, monasteri e campi | [2042ed](https://2042ed.org/played/boardgame/carcassonne/) / [BGG](https://boardgamegeek.com/boardgame/822/carcassonne)|
-| **⁠King of Tokyo** / **King of monster island** | gioco da tavolo frenetico in cui impersonate mostri giganti che combattono per distruggere Tokyo e diventare il Re dei Mostri | [2042ed](https://2042ed.org/played/boardgame/king-of-tokyo/) / [BGG](https://boardgamegeek.com/boardgame/70323/king-tokyo) |
-| **⁠⁠Crossing** | competizione tra esploratori che attraversano un pericoloso labirinto sotterraneo per recuperare tesori | [2042ed](https://2042ed.org/played/boardgame/crossing/) /  [BGG](https://boardgamegeek.com/boardgame/172971/crossing) |
-| **Splendor** / **Splendor Marvel** | competizione per accumulare punti vittoria comprando gemme, sviluppando il proprio emporio e attirando nobili |  [2042ed](https://2042ed.org/played/boardgame/splendor/) / [BGG](https://boardgamegeek.com/boardgame/148228/splendor)|
+| Titolo | Descrizione | Editore | Tutorial |
+|---|---|---|---|
+| **Saboteur** | impersonate nani minatori alla ricerca di un tesoro, ma tra di voi si nascondono sabotatori! | [Giochi Uniti](https://shop.giochiuniti.it/saboteur.html) | [👉🏼&nbsp;Scheda](https://2042ed.org/played/boardgame/saboteur/)|
+| **⁠Diamant** | esplorate una miniera per diamanti cercando di ottenere il bottino più ricco prima che una frana rovini tutto | Mancalamaro | [👉🏼&nbsp;Scheda](https://2042ed.org/played/boardgame/diamant/)|
+| **⁠Carcassonne** | strategico in cui posizionare tessere per costruire un paesaggio medievale e ottenere punti posizionando i propri seguaci su città, strade, monasteri e campi | [Giochi Uniti](https://shop.giochiuniti.it/carcassonne-gioco-base-edizione-2021.html) | [👉🏼&nbsp;Scheda](https://2042ed.org/played/boardgame/carcassonne/)|
+| **⁠King of Tokyo** / **King of monster island** | gioco da tavolo frenetico in cui impersonate mostri giganti che combattono per distruggere Tokyo e diventare il Re dei Mostri | [IELLO](https://iello.fr/jeux/king-of-tokyo/) | [👉🏼&nbsp;Scheda](https://2042ed.org/played/boardgame/king-of-tokyo/)|
+| **⁠⁠Crossing** | competizione tra esploratori che attraversano un pericoloso labirinto sotterraneo per recuperare tesori | Asmodee | [👉🏼&nbsp;Scheda](https://2042ed.org/played/boardgame/crossing/) |
+| **Splendor** / **Splendor Marvel** | competizione per accumulare punti vittoria comprando gemme, sviluppando il proprio emporio e attirando nobili | [Space Cowboys](https://www.asmodee.it/product/splendor/)  | [👉🏼&nbsp;Scheda](https://2042ed.org/played/boardgame/splendor/) |
 
 ---
 
