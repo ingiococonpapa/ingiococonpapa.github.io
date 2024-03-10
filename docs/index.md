@@ -12,13 +12,13 @@ hide:
 
 Qui trovate tutte le informazioni per partecipare ad un incontro o organizzare un nuovo evento nella tua città.
 
-## Chi siamo
+## ䷤ Chi siamo
 **Comitato Organizzatore**  
 [Gianluca Daffi](https://www.gianlucadaffi.it), [Gabriele Mari](https://www.facebook.com/educatoriludici), [Stefano Cecere](https://linktr.ee/cecere), Jennifer Francioli, [Emanuele Cristallo](https://www.zioludovico.it), Stela Gjyzelaj, Michela Savoldi, Marcello Scutra, Fausto Regosi.
 
 ---
 
-## Calendario
+## 📅 Calendario
 
 **Febbraio** (individuare tutte le città interessate)
 
@@ -35,7 +35,7 @@ Qui trovate tutte le informazioni per partecipare ad un incontro o organizzare u
 
 ---
 
-## Partecipazione e contatti {#contatti}
+## 🕺 Partecipazione e contatti {#contatti}
 
 **Per partecipare**, contattare i referenti di città, o compilare questa [Form di partecipazione :fontawesome-solid-paper-plane:](https://forms.gle/jHMDSRyyoLyGsMvv7){ .md-button .md-button--primary }  
 
@@ -45,7 +45,7 @@ Per informazioni: [Gianluca Daffi](mailto:daffi.gianluca@gmail.com) - Per questo
 
 ---
 
-## Mappa Eventi {#mappa}
+## 📍 Mappa Eventi {#mappa}
 
 !!! info
     Per proporre nuovi eventi compilare questa 👉🏼 [form di contatto](https://forms.gle/jHMDSRyyoLyGsMvv7)  
@@ -215,7 +215,7 @@ Referente: Antonio Ciocca
 
 ---
 
-## Presentazione
+## ℹ️ Presentazione
 Le persone con difficoltà del comportamento possono affrontare una serie di sfide che vanno oltre le difficoltà cognitive e comportamentali.  
 
 - **Difficoltà di socializzazione** che possono rendere difficile per loro costruire relazioni significative e sentirsi accettate dai coetanei. Possono sentirsi escluse, isolate o incomprese.
@@ -239,7 +239,7 @@ Gli obiettivi di dettaglio sono:
 
 ---
 
-## Pianificazione dell’evento
+## 💪🏻 Organizzazione
 
 ### FASE 1 - incontri preliminari
 Individuare un gruppo di papà che si renda disponibile nel gestire mezza giornata di attività ludica con giochi in scatola che verranno indicati agli organizzatori del territorio da un comitato centrale. I papà potranno decidere chi invitare a questo evento, come promuoverlo e come organizzare/gestire i tavoli da gioco.
@@ -265,7 +265,7 @@ Si ricorda che la data dell'evento è stabilita dal comitato organizzativo centr
 Per la stampa potete mandare il pdf in copisteria o usare un servizio online come [www.stampaprint.net](https://www.stampaprint.net) che offre un buon rapporto qualità/prezzo.  
 Ogni territorio è libero di scegliere quante copie stampare e diffondere in base alle proprie esigenze. Tuttavia, si ricorda che il fine ultimo dell'evento è la sensibilizzazione sui temi riportati sui materiali informativi.
 
-## Brochure Informativa
+## 📖 Brochure Informativa
 [![Brochure Preview](assets/img/brochure-preview.jpg)](./assets/pdf/brouchure-giochi-e-adhd.pdf)
 
 ### Conoscere l'ADHD
@@ -290,7 +290,7 @@ Per i bambini e i ragazzi con ADHD, poi, i giochi sono ancor più importanti, pe
 4. **Stimolano le abilità sociali**: i giochi da tavolo sono attività di gruppo che incoraggiano la collaborazione, la comunicazione e l'interazione sociale. Questo è di grande beneficio per superare eventuali difficoltà nelle relazioni sociali. Il giocare insieme può aiutare a migliorare le capacità di comunicazione, a comprendere le dinamiche sociali e a sviluppare legami con i coetanei.
 5. **Offrono un ambiente strutturato e prevedibile**: la struttura e le regole chiare dei giochi da tavolo forniscono un ambiente prevedibile che risulta rassicurante per le persone con ADHD, che normalmente traggono grandi benefici da routine e strutture chiare.
 
-## Materiali da scaricare {#materiali}
+## 📂 Download {#materiali}
 
 <div class="grid cards" markdown>
 
@@ -306,7 +306,7 @@ Da scaricare e stampare
 
 ---
 
-## Giochi
+## 🎲 Giochi
 Elenco dei giochi consigliati
 
 !!! warning "Attenzione"
@@ -314,29 +314,29 @@ Elenco dei giochi consigliati
 
 ### Per i piccoli
 
-| Titolo | Editore | Scheda BGG |
-|---|---|---|
-| C’era un Pirata | Erickson | [scheda BBG](https://boardgamegeek.com/boardgame/253115/cera-un-pirata) |
-| A caccia di conchiglie | Erickson | [scheda BBG](https://boardgamegeek.com/boardgame/400811/caccia-di-conchiglie) |
-| Taco gatto cacio capra pizza | Ghenos | [scheda BBG](https://boardgamegeek.com/boardgame/253664/taco-cat-goat-cheese-pizza) |
-| ⁠Ice cool | Oliphante   | [scheda BBG](https://boardgamegeek.com/boardgame/177524/icecool) |
-| Catan junior |  | [scheda BBG](https://boardgamegeek.com/boardgame/184842/catan-junior) |
-| Fantascatti / Fantablitz |  | [scheda BBG](https://boardgamegeek.com/boardgame/83195/ghost-blitz) |
+| Titolo | Descrizione | Editore | Scheda |
+|---|---|---|---|
+| **C’era un Pirata** | gioco di memoria e velocità dove i pirati devono ricordare e raccogliere gli oggetti del totem descritto dal capitano per conquistare il tesoro | [Erickson](https://www.erickson.it/it/c-era-un-pirata) | [2042ed](https://2042ed.org/played/boardgame/cera-un-pirata/) |
+| **A caccia di conchiglie** | Gioco di memoria e abbinamento dove vince chi colleziona più conchiglie memorizzando la loro posizione sulla spiaggia| [Erickson](https://www.erickson.it/it/a-caccia-di-conchiglie) | [2042ed](https://2042ed.org/played/boardgame/caccia-di-conchiglie/) |
+| **Taco gatto cacio capra pizza** | gioco di carte frenetico dove devi sbarazzarti delle tue carte colpendo una pila al centro del tavolo, ma solo se la parola che dici non corrisponde all'immagine sulla carta scoperta | [Ghenos](https://www.ghenosgames.com/it/prodotto/taco-gatto-capra-cacio-pizza/) | [2042ed](https://2042ed.org/played/boardgame/taco-cat-goat-cheese-pizza/) |
+| **⁠Ice cool** |  gioco di abilità in cui i giocatori assumono il ruolo di pinguini che devono pescare il maggior numero di pesci possibile rompendo il ghiaccio con un martello giocattolo  | | [2042ed](https://2042ed.org/played/boardgame/icecool/) |
+| **Catan junior** | i giocatori assumono il ruolo di pirati che costruiscono nascondigli e raccolgono risorse su un'isola a forma di anello per ottenere il tesoro del Capitano Fantasma | Asmodee | [2042ed](https://2042ed.org/played/boardgame/catan-junior) |
+| **Fantascatti** / **Fantablitz** | gioco di velocità e associazione in cui i giocatori devono afferrare gli oggetti che appaiono sul fantasma Baldovino, ma attenzione a non confondersi con i suoi dispetti! | | [2042ed](https://2042ed.org/played/boardgame/fantascatti/) |
 
 ### Per i grandi
 
-| Titolo | Scheda BGG | |
+| Titolo | Descrizione | Schede |
 |---|---|---|
-| Saboteur | [scheda BBG](https://boardgamegeek.com/boardgame/9220/saboteur) | [scheda](https://2042ed.org/played/boardgame/saboteur/) |
-| ⁠Diamant |  [scheda BBG](https://boardgamegeek.com/boardgame/15512/incan-gold)  | [scheda](https://2042ed.org/played/boardgame/diamant/) |
-| ⁠Carcassonne |  [scheda BBG](https://boardgamegeek.com/boardgame/822/carcassonne) | [scheda](https://2042ed.org/played/boardgame/carcassonne/) |
-| ⁠King of Tokyo / King of monster island |  [scheda BBG](https://boardgamegeek.com/boardgame/70323/king-tokyo) | [scheda](https://2042ed.org/played/boardgame/king-of-tokyo/) |
-| ⁠⁠Crossing |  [scheda BBG](https://boardgamegeek.com/boardgame/172971/crossing) | |
-| Splendor / Splendor Marvel |  [scheda BBG](https://boardgamegeek.com/boardgame/148228/splendor) | [scheda](https://2042ed.org/played/boardgame/splendor/) |
+| **Saboteur** | impersonate nani minatori alla ricerca di un tesoro, ma tra di voi si nascondono sabotatori! | [2042ed](https://2042ed.org/played/boardgame/saboteur/) / [BGG](https://boardgamegeek.com/boardgame/9220/saboteur) |
+| **⁠Diamant** | esplorate una miniera per diamanti cercando di ottenere il bottino più ricco prima che una frana rovini tutto | [2042ed](https://2042ed.org/played/boardgame/diamant/) / [BGG](https://boardgamegeek.com/boardgame/15512/incan-gold)|
+| **⁠Carcassonne** | strategico in cui posizionare tessere per costruire un paesaggio medievale e ottenere punti posizionando i propri seguaci su città, strade, monasteri e campi | [2042ed](https://2042ed.org/played/boardgame/carcassonne/) / [BGG](https://boardgamegeek.com/boardgame/822/carcassonne)|
+| **⁠King of Tokyo** / **King of monster island** | gioco da tavolo frenetico in cui impersonate mostri giganti che combattono per distruggere Tokyo e diventare il Re dei Mostri | [2042ed](https://2042ed.org/played/boardgame/king-of-tokyo/) / [BGG](https://boardgamegeek.com/boardgame/70323/king-tokyo) |
+| **⁠⁠Crossing** | competizione tra esploratori che attraversano un pericoloso labirinto sotterraneo per recuperare tesori | [2042ed](https://2042ed.org/played/boardgame/crossing/) /  [BGG](https://boardgamegeek.com/boardgame/172971/crossing) |
+| **Splendor** / **Splendor Marvel** | competizione per accumulare punti vittoria comprando gemme, sviluppando il proprio emporio e attirando nobili |  [2042ed](https://2042ed.org/played/boardgame/splendor/) / [BGG](https://boardgamegeek.com/boardgame/148228/splendor)|
 
 ---
 
-## Diffusione
+## 🔊 Diffusione
 
 Usiamo tutti l'**hashtag** `#ingiococonpapa`  
 
@@ -347,7 +347,7 @@ Basta condividere questo link [ingiococonpapa.github.io](https://ingiococonpapa.
 
 ![QR COde](assets/img/ingiocconpapas-qr-code.png){ width="300" }
 
-## FAQ (Domande e Risposte) {#faq}
+## ❓ FAQ (Domande e Risposte) {#faq}
 
 - **Cosa devo fare se voglio solo partecipare?**  
 Registrarsi con l'apposita [Form](https://forms.gle/jHMDSRyyoLyGsMvv7)
