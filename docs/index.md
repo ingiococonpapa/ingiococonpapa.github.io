@@ -162,6 +162,11 @@ Dove: **Foyer Cafè - Teatro Nuovo** - Via Valerio Laspro 10, Salerno
 Orario: alle 17:00 alle 20:00  
 Referente: **Massimiliano Sabato** - [✍️ email](mailto:massi.sabato@gmail.com)
 
+#### Torino ✅
+Dove:  
+Orario:  
+Referente: **Pietro Nigro** - [✍️ email](mailto:pietronigro83@gmail.com) - 3921896243 
+
 #### Treviso - Dosson di Casier ✅
 Dove: **Oratorio parrocchia San vigilio** - Via Peschiere 6, Dosson di Casier, Treviso  
 Orario: 15:00 - 18:00  
