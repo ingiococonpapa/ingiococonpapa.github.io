@@ -3,6 +3,7 @@ Questo è il progetto del sito web [https://ingiococonpapa.github.io/](https://i
 Chiunque può collaboarare ad editarlo.
 
 ## Per modificare questo sito
+
 1. Creare un account GitHub e fare login.
 2. Editare il file ['/docs/index.md'](/docs/index.md)
 3. Fare commit della modifica
@@ -27,6 +28,8 @@ check veresion:
 
 ## Credits
 sito creato da [Stefano Cecere](https://github.com/StefanoCecere)
+
+[![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
 
 ## Copyright
 This site and all its contents are licensed under [CC BY NC SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
