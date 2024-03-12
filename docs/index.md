@@ -190,8 +190,8 @@ Referente: **Elisa Carmen Brumat** - [✍️ email](mailto:ludoteca.babajaga@gma
 #### Verbania - Gravellona Toce ✅
 Dove: **Biblioteca Civica “F.Camona”**, Gravellona Toce  
 Orario: 15:00 - 18:00  
-Organizzatore: Compagnia del Basilisco APS  
-Referente: **Gambazza GEB Ennio** - [✍️ email](mailto:amministrazione@compagniadelbasilisco.it)
+Organizzatore: Compagnia del Basilisco APS con l'associazione Genitori Di Ruolo  
+Referente: **Ennio Gambazza** - [✍️ email](mailto:info@compagniadelbasilisco.it) - 3339846873
 
 #### Vicenza ✅
 Dove: Play on Tour alla Fiera del Tempo Libero - FIERA DI VICENZA, via Oreficeria, 16 – Vicenza  
