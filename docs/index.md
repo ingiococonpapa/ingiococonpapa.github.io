@@ -57,7 +57,7 @@ Per informazioni: [Gianluca Daffi](mailto:daffi.gianluca@gmail.com) - Per questo
 
 #### Bergamo - Ranica ✅
 Dove: **Spazio Tetris**, Via Gavazzeni 22, Ranica (Bergamo)  
-Orario: dalle 15:00 alle 18:00  
+Orario: 15:00 - 18:00  
 Organizzatori: Game Masters - educatori per gioco / San Martino Progetto Autonomia coop sociale  
 Referente: **Simone Pezzotta** - [✍️ email](mailto:game@smartinocoop.com) - 3421427844  
 
@@ -68,7 +68,7 @@ Referente: **Gianluca Daffi** - [✍️ email](mailto:daffi.gianluca@gmail.com)
 
 #### Domodossola ✅
 Dove: **Bibliteca Civica Contini** - Via Rosmini 20, Domodossola  
-Orario: 14:30/18:30  
+Orario: 14:30 - 18:30  
 Referente: **Francioli Jennifer** - [✍️ email](mailto:francij75@gmail.com)
 
 #### Firenze ✅
@@ -87,42 +87,42 @@ Social:
 
 #### Genova - Casarza Ligure
 Dove: **Polo Multifunzionale Villa Sottanis** - Viale Annuti 36, Casarza Ligure  
-Orario: dalle 15:00 alle 18:00  
+Orario: 15:00 - 18:00  
 Organizzatori: Comune di Casarza Ligure, Associazione Culturale Lo Stregatto, Comitato genitori Istituto Comprensivo Fabrizio De Andre  
 Referente: **Alessandra Carena** - [✍️ email](mailto:alessandra.carena@gmail.com) - 3496443726  
 Social: Facebook [@educazionemomzionalebambini](https://www.facebook.com/educazionemozionalebambini)
 
 #### Grosseto ✅
 Dove: **Sala Eden, Bastione Garibaldi** - Viale Alessandro Manetti 4, Grosseto  
-Orario: dalle 15:00 alle 19:00  
+Orario: 15:00 - 19:00  
 Referente: **Carlo Donadio** - [✍️ email](mailto:carlo.donadio.paidos@gmail.com) - 3343068742  
 
 #### Imperia ✅
 Dove: **Centro Aggregativo Il Puerto** - Via Matteotti 31, Imperia  
-Orario: dalle 15:00 alle 19:00  
+Orario: 15:00 - 19:00  
 Alle ore 19:00 **apericena** offerto ai partecipanti  
 Referente: **Fabio Boero** - [✍️ email](mailto:fabio.boero@centroancora.it) - 3311946045  
 
 #### Lecce ✅
 Dove: **Biblioteca OgniBene** - Viale De Pietro 45, Lecce  
-Orario: dalle 17:00 alle 20:00  
+Orario: 17:00 - 20:00  
 Referente: **Diego Solari** - [✍️ email](mailto:cosicomeseilecce@gmail.com)
 
 #### Mantova ✅
 Dove: Biblioteca Mediateca "Gino Baratta" - Corso Garibaldi 88, Mantova  
-Orario: dalle 10:00 alle 12:30  
+Orario: 10:00 - 12:30  
 Organizzatori: Associazione Ludico Culturale Amici Ludici Aps  
 Referente: **Filomena Cesarano** - [✍️ email](mailto:cesarano.filomena87@gmail.com) - WhatsApp: 3405310586
 
 #### Matera ✅
-Dalle 11:30 alle 13:00 in giro per Matera con il LucarGO'  
-Dalle 18:00 alle 20:00 in **LUMACA**, via Tommaso Stigliani 50, Matera  
+Orario: 11:30 - 13:00 in giro per Matera con il LucarGO'  
+Orario: 18:00 - 20:00 in **LUMACA**, via Tommaso Stigliani 50, Matera  
 Organizzatori: Zio Ludovico e LUMACA  
 Referente: **Emanuele Cristallo** - [✍️ email](mailto:zioludovico@gmail.com)
 
 #### Milano ✅
 Dove: **Casa dei Giochi** - Via Sant Uguzzone 8, Milano  
-Orario: dalle 16:30 alle 18:30  
+Orario: 16:30 - 18:30  
 Referente: **Oscar Suriano** - [✍️ email](mailto:osuriano@gmail.com)  
 
 #### Milano - Rescaldina ✅
@@ -132,13 +132,13 @@ Referente: **Fabio Gianquinto** - [✍️ email](mailto:fabgiaquinto@gmail.com)
 
 #### Potenza - Castelluccio Superiore ✅
 Dove: **Biblioteca comunale** - Vico Gelso 48, Castelluccio Superiore (PZ)  
-Orario: dalle 16:30 alle 18:30  
+Orario: 16:30 - 18:30  
 Organizzatori: Associazione Completa.Mente  
 Referente: **Isabella Labanca** - [✍️ email](mailto:labancaisa@gmail.com)  
 
 #### Perugia - ⁠Tuoro sul Trasimeno ✅
 Dove: **Oratorio Tiberiade**, piazza Maria Maddalena 1, Tuoro sul Trasimeno(Perugia)  
-Orario: dalle 16:30 alle 19:00  
+Orario: 16:30 - 19:00  
 Referente: **Tommaso Provvedi** - [✍️ email](mailto:tommaso.provvedi@gmail.com)
 
 #### Ravenna ✅
@@ -149,23 +149,23 @@ Referente: **Gabriele Mari** - [✍️ email](mailto:progetti.innovativi@cooplap
 
 #### Roma - Monterotondo ✅
 Dove: **Biblioteca Comunale Paolo Angelani** - Piazza Don Giovanni Minzoni 2, Monterotondo, Roma  
-Orario: dalle 15:00 alle 18:00  
+Orario: 15:00 - 18:00  
 Referente: **Luciano Federici** - [✍️ email](mailto:af18re@gmail.com)
 
 #### Rimini ✅
 Dove: **Ex-scuola elementare** - Via Montescudo 288, Gaiofana (Rimini)  
-Orario: dalle 15:00 alle 20:00  
+Orario: 15:00 - 20:00  
 Referente: **Lorenzo Leardini** - [✍️ email](mailto:roark_it@yahoo.it) - 3282889182
 
 #### Salerno ✅
 Dove: **Foyer Cafè - Teatro Nuovo** - Via Valerio Laspro 10, Salerno  
-Orario: alle 17:00 alle 20:00  
+Orario: 17:00 - 20:00  
 Referente: **Massimiliano Sabato** - [✍️ email](mailto:massi.sabato@gmail.com)
 
 #### Torino ✅
-Dove:  
-Orario:  
-Referente: **Pietro Nigro** - [✍️ email](mailto:pietronigro83@gmail.com) - 3921896243 
+Dove: **Magic Lair**, Corso Principe Oddone, 14/F, 10122 Torino  
+Orario: 14:30 - 19:00  
+Referente: **Pietro Nigro** - [✍️ email](mailto:pietronigro83@gmail.com) - 3921896243
 
 #### Treviso - Dosson di Casier ✅
 Dove: **Oratorio parrocchia San vigilio** - Via Peschiere 6, Dosson di Casier, Treviso  
@@ -179,7 +179,7 @@ Referente: **Erika Franceschini** - [✍️ email](mailto:erikafranceschini2@gma
 
 #### Udine - 33050 Ronchis ✅
 Dove: via Massille 2, 33050 Ronchis (Udine)  
-Orario: dalle 15:00 alle 17:30  
+Orario: 15:00 - 17:30  
 Referente: **Roberta Cannellotto** - [✍️ email](mailto:roberta.cannellotto@gmail.com)
 
 #### Venezia ✅
