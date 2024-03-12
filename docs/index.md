@@ -187,6 +187,12 @@ Dove: **La Casa delle Meraviglie** sita a Sacca Fisola - Calle Larga Lavraneri 3
 Orario: 15:00 - 19:00  
 Referente: **Elisa Carmen Brumat** - [✍️ email](mailto:ludoteca.babajaga@gmail.com)  
 
+#### Verbania - Gravellona Toce ✅
+Dove: **Biblioteca Civica “F.Camona”**, Gravellona Toce  
+Orario: 15:00 - 18:00  
+Organizzatore: Compagnia del Basilisco APS  
+Referente: **Gambazza GEB Ennio** - [✍️ email](mailto:amministrazione@compagniadelbasilisco.it)
+
 #### Vicenza ✅
 Dove: Play on Tour alla Fiera del Tempo Libero - FIERA DI VICENZA, via Oreficeria, 16 – Vicenza  
 Orario:  
