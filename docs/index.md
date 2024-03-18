@@ -22,13 +22,13 @@ Qui trovate tutte le informazioni per partecipare ad un incontro o organizzare u
 
 **Febbraio** (individuare tutte le città interessate)
 
-- ~~Giovedì 22 - 19:15 | **riunione di aggiornamento** con i nuovi organizzatori~~
-- ~~Giovedì 29 - 18:30 → 19:00 | **riunione di aggiornamento** con i nuovi organizzatori~~
+- Giovedì 22 - 19:15 | **riunione di aggiornamento** con i nuovi organizzatori
+- Giovedì 29 - 18:30 → 19:00 | **riunione di aggiornamento** con i nuovi organizzatori
 
 **Marzo** (Diffusione e formazione)
 
-- ~~Martedì 5 - 20:30 | **Seminario online** su ADHD e DOP per i volontari~~
-- ~~Martedì 12 - 20:30 | **Seminario online** sulle regole dei giochi per i volontari~~
+- Martedì 5 - 20:30 | **Seminario online** su ADHD e DOP per i volontari
+- Martedì 12 - 20:30 | **Seminario online** sulle regole dei giochi per i volontari
 - Giovedì 14 - 18:30 → 19:00 | ultimo aggiornamento tra gli organizzatori
 - **Domenica 17: EVENTO** (ogni città con suo orario)
 
