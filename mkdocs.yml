@@ -44,6 +44,8 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.superfences
   - attr_list
   - def_list
   - md_in_html
@@ -65,9 +67,9 @@ plugins:
         background_color: "#14608E"
         color: "#FFFFFF"
 
-repo_url: https://github.com/ingiococonpapa/ingiococonpapa.github.io
-edit_uri: edit/main/docs/
-repo_name: ingiococonpapa.github.io
+# repo_url: https://github.com/ingiococonpapa/ingiococonpapa.github.io
+# edit_uri: edit/main/docs/
+# repo_name: ingiococonpapa.github.io
 
 extra_css:
   - assets/stylesheets/extra.css

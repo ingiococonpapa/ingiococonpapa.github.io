@@ -1,10 +1,13 @@
 ---
-title: In GIOCO con PAPÀ - Domenica 17 Marzo 
+title: In GIOCO con PAPÀ
 description: giornata di gioco e sensibilizzazione rivolta a bambini e ragazzi dai 5 ai 18 anni in diverse città d'Italia. PARTECIPA!
 hide:
   - navigation
 ---
 ![in gioco con papà](assets/img/banner-ingiococonpapa.png)
+
+!!! danger "STIAMO PREPARANDO L'EDIZONE 2025"
+    che sarà intorno a domenica 22 marzo
 
 # In GIOCO con PAPÀ
 
