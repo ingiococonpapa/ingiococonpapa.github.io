@@ -7,7 +7,7 @@ hide:
 ![in gioco con papà](assets/img/banner-ingiococonpapa.png)
 
 !!! danger "STIAMO PREPARANDO L'EDIZONE 2025"
-    che sarà intorno a domenica 22 marzo
+    che sarà intorno a sabato 22 marzo
 
 # In GIOCO con PAPÀ
 
