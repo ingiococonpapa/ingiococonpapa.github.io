@@ -217,7 +217,7 @@ Basta condividere questo link [ingiococonpapa.github.io](https://ingiococonpapa.
 ## ❓ FAQ (Domande e Risposte) {#faq}
 
 - **Cosa devo fare se voglio solo partecipare?**  
-Registrarsi con l'apposita [Form](https://forms.gle/jHMDSRyyoLyGsMvv7)
+Registrarsi con l'apposita [Form](https://forms.gle/66Ue29J5NcWHgeDy9)
 Sarete invitati ad una mailing list degli organizzatori e lì fornirete i dettagli del vostro evento, che saranno pubblicati su questo sito.
 
 - **Devo conoscere i giochi prima di parteciparvi?**  
