@@ -4,14 +4,17 @@ description: giornata di gioco e sensibilizzazione rivolta a bambini e ragazzi d
 hide:
   - navigation
 ---
-![in gioco con papà](assets/img/banner-ingiococonpapa.png)
-
-!!! danger "STIAMO PREPARANDO L'EDIZONE 2025"
-    che sarà intorno a sabato 22 marzo
+![in gioco con papà](assets/img/banner-ingiococonpapa-2025.jpg)
 
 # In GIOCO con PAPÀ
 
-> **Domenica 17 Marzo 2024: una giornata di gioco** e sensibilizzazione rivolta a bambini e ragazzi dai 5 ai 18 anni intorno alla **Festa del Papà**, in **diverse città d'Italia**.
+> **Sabato 22 e Domenica 23 Marzo 2025: un finesettimana di gioco** e sensibilizzazione rivolta a bambini e ragazzi dai 5 ai 18 anni intorno alla **Festa del Papà**, in **diverse città d'Italia**.
+
+## Comunicato stampa
+
+[Scarica qui il comunicato stampa](./assets/pdf/comunicato-stampa-2025.pdf)
+
+[![Scarica qui il comunicato stampa](./assets/pdf/comunicato-stampa-2025.jpg)](./assets/pdf/comunicato-stampa-2025.pdf)
 
 Qui trovate tutte le informazioni per partecipare ad un incontro o organizzare un nuovo evento nella tua città.
 
@@ -23,23 +26,14 @@ Qui trovate tutte le informazioni per partecipare ad un incontro o organizzare u
 
 ## 📅 Calendario
 
-**Febbraio** (individuare tutte le città interessate)
 
-- Giovedì 22 - 19:15 | **riunione di aggiornamento** con i nuovi organizzatori
-- Giovedì 29 - 18:30 → 19:00 | **riunione di aggiornamento** con i nuovi organizzatori
-
-**Marzo** (Diffusione e formazione)
-
-- Martedì 5 - 20:30 | **Seminario online** su ADHD e DOP per i volontari
-- Martedì 12 - 20:30 | **Seminario online** sulle regole dei giochi per i volontari
-- Giovedì 14 - 18:30 → 19:00 | ultimo aggiornamento tra gli organizzatori
 - **Domenica 17: EVENTO** (ogni città con suo orario)
 
 ---
 
 ## 🕺 Partecipazione e contatti {#contatti}
 
-**Per partecipare**, contattare i referenti di città, o compilare questa [Form di partecipazione :fontawesome-solid-paper-plane:](https://forms.gle/jHMDSRyyoLyGsMvv7){ .md-button .md-button--primary }  
+**Per partecipare**, contattare i referenti di città, o compilare questa [Form di partecipazione :fontawesome-solid-paper-plane:](https://forms.gle/66Ue29J5NcWHgeDy9){ .md-button .md-button--primary }  
 
 Per gli **organizzatori** di eventi, abbiamo una **mailing list**: [https://groups.google.com/g/ingiococonpapa](https://groups.google.com/g/ingiococonpapa) a cui sarete invitati dopo che avrete compilato la form e ci saremo sentiti.
 
@@ -50,156 +44,11 @@ Per informazioni: [Gianluca Daffi](mailto:daffi.gianluca@gmail.com) - Per questo
 ## 📍 Mappa Eventi {#mappa}
 
 !!! info
-    Per proporre nuovi eventi compilare questa 👉🏼 [form di contatto](https://forms.gle/jHMDSRyyoLyGsMvv7)  
+    Per proporre nuovi eventi compilare questa 👉🏼 [form di contatto](https://forms.gle/66Ue29J5NcWHgeDy9)  
     Per apportare modifiche scrivere in [mailing list](https://groups.google.com/g/ingiococonpapa)
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UuIn5vNkS8Sx4IpgfZJcW9S31Q_59qQ&ehbc=2E312F&noprof=1" width="100%" height="620"></iframe>
 
 ### ✅ EVENTI CONFERMATI
-
-#### 📍 Bergamo - Ranica
-Dove: **Spazio Tetris**, Via Gavazzeni 22, Ranica (Bergamo)  
-Orario: 15:00 - 18:00  
-Organizzatori: Game Masters - educatori per gioco / San Martino Progetto Autonomia coop sociale  
-Referente: **Simone Pezzotta** - [✍️ email](mailto:game@smartinocoop.com) - 3421427844  
-
-#### 📍 Brescia
-Dove: **Bimbo Chiama Bimbo** - Via Sant’Antonio, 16 (Zona Mompiano), Brescia  
-Orario: dalle 14:30  
-Referente: **Gianluca Daffi** - [✍️ email](mailto:daffi.gianluca@gmail.com)
-
-#### 📍 Domodossola
-Dove: **Bibliteca Civica Contini** - Via Rosmini 20, Domodossola  
-Orario: 14:30 - 18:30  
-Referente: **Francioli Jennifer** - [✍️ email](mailto:francij75@gmail.com)
-
-#### 📍 Firenze
-Dove: **Casa del Popolo di Settignano** - Via San Romano 1, Firenze | [👉🏼 sito](https://cdp.settignano.org/)  
-Orario:
-
-- 11:00 - 12:30 laboratorio per bambini sulla motricità
-- 13:00 - 14:00 pranzo sociale
-- 14:00 - 16:30 In Gioco con Papà
-
-Organizzatori: [**2042ed**](https://2042ed.org), [**GIX**](https://www.gix.unifi.it/) e **Associazione GO APS**  
-Referenti: **Stefano Cecere** [✍️ email](mailto:stefano.cecere@gmail.com), **Stela Gjyzelaj** [✍️ email](mailto:stelagjyzelaj@gmail.com) e **Leonardo Boncinelli** [✍️ email](mailto:leonardo.boncinelli@unifi.it)  
-Social:  
-**Facebook** [Evento Facebook](https://www.facebook.com/events/1093502338559646/)  
-**Instagram** [@cdpsettignano](https://www.instagram.com/cdpsettignano/) | [@cecere2042](https://instagram.com/cecere2042) | [@go_giocoeopportunita](https://www.instagram.com/go_giocoeopportunita)
-
-#### 📍 Genova - Casarza Ligure
-Dove: **Polo Multifunzionale Villa Sottanis** - Viale Annuti 36, Casarza Ligure  
-Orario: 15:00 - 18:00  
-Organizzatori: Comune di Casarza Ligure, Associazione Culturale Lo Stregatto, Comitato genitori Istituto Comprensivo Fabrizio De Andre  
-Referente: **Alessandra Carena** - [✍️ email](mailto:alessandra.carena@gmail.com) - 3496443726  
-Social: Facebook [@educazionemomzionalebambini](https://www.facebook.com/educazionemozionalebambini)
-
-#### 📍 Grosseto
-Dove: **Sala Eden, Bastione Garibaldi** - Viale Alessandro Manetti 4, Grosseto  
-Orario: 15:00 - 19:00  
-Referente: **Carlo Donadio** - [✍️ email](mailto:carlo.donadio.paidos@gmail.com) - 3343068742  
-
-#### 📍 Imperia
-Dove: **Centro Aggregativo Il Puerto** - Via Matteotti 31, Imperia  
-Orario: 15:00 - 19:00  
-Alle ore 19:00 **apericena** offerto ai partecipanti  
-Referente: **Fabio Boero** - [✍️ email](mailto:fabio.boero@centroancora.it) - 3311946045  
-
-#### 📍 Lecce
-Dove: **Biblioteca OgniBene** - Viale De Pietro 45, Lecce  
-Orario: 17:00 - 20:00  
-Referente: **Diego Solari** - [✍️ email](mailto:cosicomeseilecce@gmail.com)
-
-#### 📍 Mantova
-Dove: Biblioteca Mediateca "Gino Baratta" - Corso Garibaldi 88, Mantova  
-Orario: 10:00 - 12:30  
-Organizzatori: Associazione Ludico Culturale Amici Ludici Aps  
-Referente: **Filomena Cesarano** - [✍️ email](mailto:cesarano.filomena87@gmail.com) - WhatsApp: 3405310586
-
-#### 📍 Matera
-Orario: 11:30 - 13:00 in giro per Matera con il LucarGO'  
-Orario: 18:00 - 20:00 in **LUMACA**, via Tommaso Stigliani 50, Matera  
-Organizzatori: Zio Ludovico e LUMACA  
-Referente: **Emanuele Cristallo** - [✍️ email](mailto:zioludovico@gmail.com)
-
-#### 📍 Milano
-Dove: **Casa dei Giochi** - Via Sant Uguzzone 8, Milano  
-Orario: 16:30 - 18:30  
-Referente: **Oscar Suriano** - [✍️ email](mailto:osuriano@gmail.com)  
-
-#### 📍 Milano - Rescaldina
-Dove: via Repetti in occasione della festa della **Chiesa di San Giuseppe alla Pagana** (frazione di Rescalda)  
-Orario: dalle 15:30  
-Referente: **Fabio Gianquinto** - [✍️ email](mailto:fabgiaquinto@gmail.com)  
-
-#### 📍 Potenza - Castelluccio Superiore
-Dove: **Biblioteca comunale** - Vico Gelso 48, Castelluccio Superiore (PZ)  
-Orario: 16:30 - 18:30  
-Organizzatori: Associazione Completa.Mente  
-Referente: **Isabella Labanca** - [✍️ email](mailto:labancaisa@gmail.com)  
-
-#### 📍 Perugia - ⁠Tuoro sul Trasimeno
-Dove: **Oratorio Tiberiade**, piazza Maria Maddalena 1, Tuoro sul Trasimeno(Perugia)  
-Orario: 16:30 - 19:00  
-Referente: **Tommaso Provvedi** - [✍️ email](mailto:tommaso.provvedi@gmail.com)
-
-#### 📍 Ravenna
-Dove: Centro RicreAzioni - Via Don Carlo Sala 7, Ravenna  
-Orario: 15:00 - 18:00  
-Organizzatori: [Educatori Ludici](https://www.facebook.com/educatoriludici)  
-Referente: **Gabriele Mari** - [✍️ email](mailto:progetti.innovativi@cooplapieve.it) - 3281552787  
-
-#### 📍 Roma - Monterotondo
-Dove: **Biblioteca Comunale Paolo Angelani** - Piazza Don Giovanni Minzoni 2, Monterotondo, Roma  
-Orario: 15:00 - 18:00  
-Referente: **Luciano Federici** - [✍️ email](mailto:af18re@gmail.com)
-
-#### 📍 Rimini
-Dove: **Ex-scuola elementare** - Via Montescudo 288, Gaiofana (Rimini)  
-Orario: 15:00 - 20:00  
-Referente: **Lorenzo Leardini** - [✍️ email](mailto:roark_it@yahoo.it) - 3282889182
-
-#### 📍 Salerno
-Dove: **Foyer Cafè - Teatro Nuovo** - Via Valerio Laspro 10, Salerno  
-Orario: 17:00 - 20:00  
-Referente: **Massimiliano Sabato** - [✍️ email](mailto:massi.sabato@gmail.com)
-
-#### 📍 Torino
-Dove: **Magic Lair**, Corso Principe Oddone, 14/F, 10122 Torino  
-Orario: 14:30 - 19:00  
-Referente: **Pietro Nigro** - [✍️ email](mailto:pietronigro83@gmail.com) - 3921896243
-
-#### 📍 Treviso - Dosson di Casier
-Dove: **Oratorio parrocchia San vigilio** - Via Peschiere 6, Dosson di Casier, Treviso  
-Orario: 15:00 - 18:00  
-Referente: **Rossella Frascogna** - [✍️ email](mailto:rossella683@gmail.com) - 3425712234  
-
-#### 📍 Treviso - Giavera del Montello
-Dove: **Sale parrocchiali di Cusignana** - Piazza IV Novembre, Giavera del Montello  
-Orario: 15:00 - 18:00  
-Referente: **Erika Franceschini** - [✍️ email](mailto:erikafranceschini2@gmail.com) - 3493790747  
-
-#### 📍 Udine - 33050 Ronchis
-Dove: via Massille 2, 33050 Ronchis (Udine)  
-Orario: 15:00 - 17:30  
-Referente: **Roberta Cannellotto** - [✍️ email](mailto:roberta.cannellotto@gmail.com)
-
-#### 📍 Venezia
-Dove: **La Casa delle Meraviglie** sita a Sacca Fisola - Calle Larga Lavraneri 3, Venezia  
-Orario: 15:00 - 19:00  
-Referente: **Elisa Carmen Brumat** - [✍️ email](mailto:ludoteca.babajaga@gmail.com)  
-
-#### 📍 Verbania - Gravellona Toce
-Dove: **Biblioteca Civica “F.Camona”**, Gravellona Toce  
-Orario: 15:00 - 18:00  
-Organizzatore: Compagnia del Basilisco APS con l'associazione Genitori Di Ruolo  
-Referente: **Ennio Gambazza** - [✍️ email](mailto:info@compagniadelbasilisco.it) - 3339846873
-
-#### 📍 Vicenza
-Dove: Play on Tour alla Fiera del Tempo Libero - FIERA DI VICENZA, via Oreficeria, 16 – Vicenza  
-Orario:  
-Referente: **Domenico Reggio** (Ludo Labo) - [✍️ email](mailto:mimmo@ludolabo.com)  
-Social: **Play - Festival del Gioco** [FB](https://facebook.com/playmodena) | [IG](https://instagram.com/playmodena) - **Ludo Labo** [sito](https://www.ludolabo.com) | [FB](https://facebook.com/ludolabocoop) | [IG](https://instagram.com/ludolabocoop)  
 
 ---
 
