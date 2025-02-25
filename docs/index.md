@@ -26,8 +26,7 @@ Qui trovate tutte le informazioni per partecipare ad un incontro o organizzare u
 
 ## 📅 Calendario
 
-
-- **Domenica 17: EVENTO** (ogni città con suo orario)
+- **Sabato 22 / Domenica 23: EVENTO** (ogni città con suo orario)
 
 ---
 
