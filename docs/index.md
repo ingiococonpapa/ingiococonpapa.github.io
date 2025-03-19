@@ -8,7 +8,40 @@ hide:
 
 # In GIOCO con PAPÀ
 
-> **Sabato 22 e Domenica 23 Marzo 2025: un finesettimana di gioco** e sensibilizzazione rivolta a bambini e ragazzi dai 5 ai 18 anni intorno alla **Festa del Papà**, in **diverse città d'Italia**.
+> **Sabato 22 e Domenica 23 Marzo 2025 in numerose città italiane, si terrà la seconda edizione di "In Gioco con Papà", un evento nazionale dedicato al gioco e all’inclusione.**.
+
+Dopo il successo della prima edizione del 2024, che ha coinvolto **25 città** da Udine a Lecce, passando per Brescia, Milano, Firenze, Roma, Salerno e molte altre, l'iniziativa torna per offrire a bambini, ragazzi e famiglie un'esperienza di gioco condivisa e inclusiva.
+
+L'iniziativa, nata da un’idea del prof. Gianluca Daffi, non si rivolge solo ai padri, ma più in generale a tutti coloro che, senza pregiudizi, sono disponibili ad accogliere, prendersi cura dell’altro e mettersi in gioco ogni giorno per garantire a ogni bambino l’opportunità di crescere serenamente.
+
+## Obiettivi dell’evento
+
+🎯 **Sensibilizzare** la popolazione sulle difficoltà del neurosviluppo, del comportamento e sull’importanza dell’inclusione.
+
+🎲 **Creare momenti di gioco** tra adulti e bambini, favorendo il dialogo e la relazione.
+
+🤝 **Promuovere l’accoglienza e la socializzazione**, offrendo uno spazio sicuro per ogni bambino.
+
+L’evento si svolgerà in **spazi aperti o chiusi messi a disposizione dai Comuni, associazioni e realtà locali**, in un clima di collaborazione e inclusione.
+
+## Come funziona l’evento?
+
+Ogni città che aderisce all’iniziativa organizzerà una giornata di gioco con:
+
+- ✅ Tavoli di gioco e/o giochi di ruolo adatti a tutti i bambini
+- ✅ Momenti di socializzazione guidati da volontari ed educatori
+- ✅ Materiali informativi sulle difficoltà del comportamento e sull’ADHD/ DOP (i file del materiale informativo verranno forniti dal comitato scientifico)
+- ✅ Attività strutturate per facilitare l’inclusione dei bambini con difficoltà
+
+L'evento è gratuito, e ogni territorio deciderà in autonomia l’organizzazione della giornata.
+
+## Perché sostenere "in gioco con papà"?
+Sostenere questo evento significa:
+
+- **Promuovere una cultura dell’inclusione**, offrendo opportunità di socializzazione a bambini con difficoltà.
+- **Fornire supporto alle famiglie**, creando spazi di relazione positiva tra genitori e figli.
+- **Diffondere la conoscenza su ADHD e DOP**, riducendo stigma e pregiudizi.
+- **Coinvolgere il territorio in un’iniziativa di valore sociale**, con un impatto positivo sulla comunità.
 
 ## Comunicato stampa
 
@@ -16,7 +49,6 @@ hide:
 
 [![Scarica qui il comunicato stampa](./assets/pdf/comunicato-stampa-2025.jpg)](./assets/pdf/comunicato-stampa-2025.pdf)
 
-Qui trovate tutte le informazioni per partecipare ad un incontro o organizzare un nuovo evento nella tua città.
 
 ## ䷤ Chi siamo
 **Comitato Organizzatore**  
@@ -46,32 +78,47 @@ Per informazioni: [Gianluca Daffi](mailto:daffi.gianluca@gmail.com) - Per questo
     Per proporre nuovi eventi compilare questa 👉🏼 [form di contatto](https://forms.gle/66Ue29J5NcWHgeDy9)  
     Per apportare modifiche scrivere in [mailing list](https://groups.google.com/g/ingiococonpapa)
 
-
-### ✅ EVENTI CONFERMATI
-
 ---
 
-## ℹ️ Presentazione
-Le persone con difficoltà del comportamento possono affrontare una serie di sfide che vanno oltre le difficoltà cognitive e comportamentali.  
+## ℹ️ L’IMPORTANZA DELL’INCLUSIONE: DIFFICOLTÀ DEL NEUROSVILUPPO E DEL COMPORTAMENTO
 
-- **Difficoltà di socializzazione** che possono rendere difficile per loro costruire relazioni significative e sentirsi accettate dai coetanei. Possono sentirsi escluse, isolate o incomprese.
-- **Bassa autostima** che può portare le persone con difficoltà del comportamento a sentirsi come se non fossero abbastanza brave, intelligenti o capaci. Ciò può portare a problemi di depressione, ansia e isolamento sociale.
-- **Disturbi emotivi**, come l'ansia o la depressione, che sono più comuni nelle persone con difficoltà del comportamento. Questi disturbi possono avere un impatto significativo sulla vita quotidiana, rendendo difficile concentrarsi, prendere decisioni e gestire lo stress.
+Negli ultimi anni, la consapevolezza sulle difficoltà del neurosviluppo e del comportamento nei bambini e nei ragazzi è aumentata, ma spesso queste condizioni sono ancora poco comprese all’interno della nostra società.
 
-Questi aspetti sono interconnessi e possono alimentarsi a vicenda.  
+Tra le difficoltà più diffuse troviamo certamente:
 
-Ad esempio, le difficoltà di socializzazione possono portare a bassa autostima, che può portare a disturbi emotivi. Questi disturbi possono, a loro volta, rendere più difficile per le persone con difficoltà del comportamento concentrarsi e socializzare in maniera soddisfacente.
+### ADHD – Disturbo da Deficit di Attenzione e Iperattività
 
-È importante promuovere sempre **nuove modalità per favorire la conoscenza dei disturbi del comportamento** e dar vita a **esperienze che sostengano l'inclusione** dei soggetti che ne sono colpiti.
+L’ADHD (Attention Deficit Hyperactivity Disorder) è un disturbo del
+neurosviluppo che colpisce circa 3 bambini su 100 in Italia. È caratterizzato da tre
+principali manifestazioni:
 
-### Obiettivi
-L'evento "In Gioco con Papà", che si svolgerà Domenica 17 Marzo 2024 in differenti città italiane, si pone come obiettivo generale quello di **promuovere una cultura dell’inclusione nei riguardi dei soggetti con difficoltà del comportamento**, cogliendo come occasione la una giornata di festa collegata ad una ricorrenza che è sia religiosa che civile, avendo come significato non solo la celebrazione della figura del padre ma, più in generale, di tutti coloro che, senza pregiudizi, sono disponibili ad accogliere, prendersi cura dell’altro e mettersi ogni giorno in gioco per dare ad ogni l’opportunità di crescere serenamente.
+- **Difficoltà di attenzione**, con tendenza a distrarsi facilmente e a faticare nel mantenere la concentrazione a lungo.
+- **Impulsività**, con difficoltà a controllare le risposte immediate e a rispettare turni e regole.
+- **Iperattività**, che si manifesta con un bisogno costante di movimento, difficoltà a rimanere seduti o a svolgere attività calme.
 
-Gli obiettivi di dettaglio sono:
+### DOP – Disturbo Oppositivo Provocatorio
 
-- **sensibilizzare** la popolazione sulle difficoltà e sui disturbi del comportamento
-- **favorire il coinvolgimento dei papà** in attività di gioco e conoscenza con i propri figli
-- **promuovere occasioni di socializzazione** per i bambini/ragazzi con difficoltà/disturbi del comportamento
+Il DOP (Disturbo Oppositivo Provocatorio) è un disturbo del comportamento che si manifesta in bambini e adolescenti ed è caratterizzato da umore collerico, comportamenti polemici e provocatori, e atteggiamenti vendicativi. Studi recenti stimano che la prevalenza del DOP sia intorno al 3-5% nella popolazione generale. È caratterizzato da:
+
+- **Opposizione** alle regole e alle richieste degli adulti.
+- **Irritabilità e rabbia**, con difficoltà nel gestire la frustrazione.
+- **Provocazioni e atteggiamenti ostili**, che possono causare difficoltà nelle
+relazioni sociali e familiari.
+
+Questi disturbi possono influenzare negativamente la **vita scolastica, familiare e sociale**, rendendo difficile l'integrazione con i coetanei. Spesso i bambini e i ragazzi con queste difficoltà si sentono **esclusi o fraintesi**, e possono essere percepiti come "difficili" da chi non conosce le loro fragilità.
+
+### Il gioco come strumento di inclusione
+
+Il gioco è un'attività universale, che permette ai bambini e ai ragazzi di imparare,
+esplorare e relazionarsi con gli altri. Per chi presenta difficoltà del neurosviluppo, il gioco può diventare uno **strumento potente di inclusione**, perché:
+
+- **Aiuta a sviluppare abilità sociali** → imparare a rispettare turni, seguire regole, cooperare con gli altri.
+- **Riduce l’ansia e favorisce la regolazione emotiva** → il gioco può essere un momento di rilassamento e divertimento, senza la pressione delle richieste scolastiche.
+- **Migliora l’autostima** → il successo in un’attività ludica permette al bambino di sentirsi capace e apprezzato.
+- **Offre un contesto positivo per interagire con i coetanei e farsi conoscere dagli altri** → il gioco crea un ambiente meno giudicante rispetto ad altre situazioni sociali.
+  
+Per questi motivi, **"In Gioco con Papà"** si propone di **creare spazi di gioco
+inclusivi**, in cui OGNI BAMBINO possa sentirsi **accolto e valorizzato**.
 
 ---
 
@@ -79,11 +126,6 @@ Gli obiettivi di dettaglio sono:
 
 ### FASE 1 - incontri preliminari
 Individuare un gruppo di papà che si renda disponibile nel gestire mezza giornata di attività ludica con giochi in scatola che verranno indicati agli organizzatori del territorio da un comitato centrale. I papà potranno decidere chi invitare a questo evento, come promuoverlo e come organizzare/gestire i tavoli da gioco.
-
-I papà volontari verranno invitati a partecipare a **due incontri formativi online**:
-
-1. **Nel primo incontro** (Martedì 5 Marzo) a cura del Prof. Gianluca Daffi e della D.ssa Jeniffer Francioli, verranno presentate le **caratteristiche dell'ADHD** (deficit dell'attenzione e iperattività) **e del DOP** (disturbo oppositivo provocatorio), al fine di preparare i papà alla gestione dei bambini/ragazzi che potrebbero presentarsi a giocare. La conoscenza di queste difficoltà è importante per promuovere una cultura inclusiva.
-2. **Nel secondo incontro** (Martedì 12 Marzo) a cura di Gabriele Mari, Stefano Cecere ed Emanuele Cristallo, **verranno presentate le regole dei giochi**  suggeriti.
 
 ### FASE 2 - organizzazione
 
