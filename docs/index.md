@@ -14,7 +14,13 @@ Dopo il successo della prima edizione del 2024, che ha coinvolto **25 città** d
 
 L'iniziativa, nata da un’idea del prof. Gianluca Daffi, non si rivolge solo ai padri, ma più in generale a tutti coloro che, senza pregiudizi, sono disponibili ad accogliere, prendersi cura dell’altro e mettersi in gioco ogni giorno per garantire a ogni bambino l’opportunità di crescere serenamente.
 
-## Obiettivi dell’evento
+## Comunicato stampa
+
+[Scarica qui il comunicato stampa](./assets/pdf/comunicato-stampa-2025.pdf)
+
+[![Scarica qui il comunicato stampa](./assets/pdf/comunicato-stampa-2025.jpg)](./assets/pdf/comunicato-stampa-2025.pdf)
+
+### Obiettivi dell’evento
 
 🎯 **Sensibilizzare** la popolazione sulle difficoltà del neurosviluppo, del comportamento e sull’importanza dell’inclusione.
 
@@ -24,7 +30,7 @@ L'iniziativa, nata da un’idea del prof. Gianluca Daffi, non si rivolge solo ai
 
 L’evento si svolgerà in **spazi aperti o chiusi messi a disposizione dai Comuni, associazioni e realtà locali**, in un clima di collaborazione e inclusione.
 
-## Come funziona l’evento?
+### Come funziona l’evento?
 
 Ogni città che aderisce all’iniziativa organizzerà una giornata di gioco con:
 
@@ -35,20 +41,13 @@ Ogni città che aderisce all’iniziativa organizzerà una giornata di gioco con
 
 L'evento è gratuito, e ogni territorio deciderà in autonomia l’organizzazione della giornata.
 
-## Perché sostenere "in gioco con papà"?
+### Perché sostenere "in gioco con papà"?
 Sostenere questo evento significa:
 
 - **Promuovere una cultura dell’inclusione**, offrendo opportunità di socializzazione a bambini con difficoltà.
 - **Fornire supporto alle famiglie**, creando spazi di relazione positiva tra genitori e figli.
 - **Diffondere la conoscenza su ADHD e DOP**, riducendo stigma e pregiudizi.
 - **Coinvolgere il territorio in un’iniziativa di valore sociale**, con un impatto positivo sulla comunità.
-
-## Comunicato stampa
-
-[Scarica qui il comunicato stampa](./assets/pdf/comunicato-stampa-2025.pdf)
-
-[![Scarica qui il comunicato stampa](./assets/pdf/comunicato-stampa-2025.jpg)](./assets/pdf/comunicato-stampa-2025.pdf)
-
 
 ## ䷤ Chi siamo
 **Comitato Organizzatore**  
@@ -78,9 +77,66 @@ Per informazioni: [Gianluca Daffi](mailto:daffi.gianluca@gmail.com) - Per questo
     Per proporre nuovi eventi compilare questa 👉🏼 [form di contatto](https://forms.gle/66Ue29J5NcWHgeDy9)  
     Per apportare modifiche scrivere in [mailing list](https://groups.google.com/g/ingiococonpapa)
 
+### Bergamo - Ranica
+Domenica 23 dalle 15:00 alle 18:00
+TETRIS - via Gavazzeni 22, Ranica (BG)
+Info: game@smartinocoop.com
+
+### Bolzano
+
+### Firenze
+Domenica 23 dalle 11:30 alle 15:30
+Casa del Popolo di Settignano - via San Romano 1
+Referenti: Stela 3208611165 e Stefano 3358307141
+
+### Udine - Latisana
+
+### Lecce - Cavallino
+Martedì 18 marzo 2025 h. 17.00
+Biblioteca Comunale “G. Rizzo” Cavallino (Le)
+https://www.instagram.com/p/DHB1vIosOaf
+
+### Mantova
+Sabato 22 marzo 2025 dalle 14:00 alle 18:00
+Fior di Loto Cooperativa Sociale Onlus
+Matera
+
+### Potenza - Castelluccio Superiore
+
+
+### Ravenna
+
+### Venezia
+
+
+
 ---
 
-## ℹ️ L’IMPORTANZA DELL’INCLUSIONE: DIFFICOLTÀ DEL NEUROSVILUPPO E DEL COMPORTAMENTO
+## 💪🏻 Organizzazione
+
+### FASE 1 - incontri preliminari
+Individuare un gruppo di papà che si renda disponibile nel gestire mezza giornata di attività ludica con giochi in scatola che verranno indicati agli organizzatori del territorio da un comitato centrale. I papà potranno decidere chi invitare a questo evento, come promuoverlo e come organizzare/gestire i tavoli da gioco.
+
+### FASE 2 - organizzazione
+
+**Individuare una location** che permetta ai papà volontari di giocare comodamente con i bambini/ragazzi partecipanti all'evento. La location deve essere comunicata al comitato scientifico almeno 10 giorni prima dell'evento in modo da poter aggiornalre la lista degli eventi affiliati all'iniziativa.
+
+**Ogni organizzazione territoriale è responsabile del recupero dei giochi utili per l’evento.**  
+I giochi dovranno essere in possesso del gruppo di volontari in occasione del secondo incontro formativo online.  
+Qualora alcuni giochi suggeriti non fossero disponibili, l'organizzatore territoriale dovrà avvisare un membro del comitato stesso. Se possibile, il comitato fornirà un aiuto per recuperare il gioco mancante.
+
+Si ricorda che la data dell'evento è stabilita dal comitato organizzativo centrale e ha validità nazionale, tuttavia **ogni territorio è libero di definire l’orario di inizio e fine della propria iniziativa**.
+
+### FASE 3 - stampa materiale
+
+**Stampare il materiale informativo sulle difficoltà del comportamento e sul gioco come veicolo per promuovere l’inclusione e favorire la socializzazione**.  
+Per la stampa potete mandare il pdf in copisteria o usare un servizio online come [www.stampaprint.net](https://www.stampaprint.net) che offre un buon rapporto qualità/prezzo.  
+Ogni territorio è libero di scegliere quante copie stampare e diffondere in base alle proprie esigenze. Tuttavia, si ricorda che il fine ultimo dell'evento è la sensibilizzazione sui temi riportati sui materiali informativi.
+
+## 📖 Brochure Informativa
+[![Brochure Preview](assets/img/brochure-preview.jpg)](./assets/pdf/brouchure-giochi-e-adhd.pdf)
+
+### ℹ️ L’importanza dell’inclusione: difficoltà del neurosviluppo e del comportamento
 
 Negli ultimi anni, la consapevolezza sulle difficoltà del neurosviluppo e del comportamento nei bambini e nei ragazzi è aumentata, ma spesso queste condizioni sono ancora poco comprese all’interno della nostra società.
 
@@ -119,54 +175,6 @@ esplorare e relazionarsi con gli altri. Per chi presenta difficoltà del neurosv
   
 Per questi motivi, **"In Gioco con Papà"** si propone di **creare spazi di gioco
 inclusivi**, in cui OGNI BAMBINO possa sentirsi **accolto e valorizzato**.
-
----
-
-## 💪🏻 Organizzazione
-
-### FASE 1 - incontri preliminari
-Individuare un gruppo di papà che si renda disponibile nel gestire mezza giornata di attività ludica con giochi in scatola che verranno indicati agli organizzatori del territorio da un comitato centrale. I papà potranno decidere chi invitare a questo evento, come promuoverlo e come organizzare/gestire i tavoli da gioco.
-
-### FASE 2 - organizzazione
-
-**Individuare una location** che permetta ai papà volontari di giocare comodamente con i bambini/ragazzi partecipanti all'evento. La location deve essere comunicata al comitato scientifico almeno 10 giorni prima dell'evento in modo da poter aggiornalre la lista degli eventi affiliati all'iniziativa.
-
-**Ogni organizzazione territoriale è responsabile del recupero dei giochi utili per l’evento.**  
-I giochi dovranno essere in possesso del gruppo di volontari in occasione del secondo incontro formativo online.  
-Qualora alcuni giochi suggeriti non fossero disponibili, l'organizzatore territoriale dovrà avvisare un membro del comitato stesso. Se possibile, il comitato fornirà un aiuto per recuperare il gioco mancante.
-
-Si ricorda che la data dell'evento è stabilita dal comitato organizzativo centrale e ha validità nazionale, tuttavia **ogni territorio è libero di definire l’orario di inizio e fine della propria iniziativa**.
-
-### FASE 3 - stampa materiale
-
-**Stampare il materiale informativo sulle difficoltà del comportamento e sul gioco come veicolo per promuovere l’inclusione e favorire la socializzazione**.  
-Per la stampa potete mandare il pdf in copisteria o usare un servizio online come [www.stampaprint.net](https://www.stampaprint.net) che offre un buon rapporto qualità/prezzo.  
-Ogni territorio è libero di scegliere quante copie stampare e diffondere in base alle proprie esigenze. Tuttavia, si ricorda che il fine ultimo dell'evento è la sensibilizzazione sui temi riportati sui materiali informativi.
-
-## 📖 Brochure Informativa
-[![Brochure Preview](assets/img/brochure-preview.jpg)](./assets/pdf/brouchure-giochi-e-adhd.pdf)
-
-### Conoscere l'ADHD
-L'ADHD, o Disturbo da Deficit di Attenzione e Iperattività, è un **disturbo del neurosviluppo** che si manifesta con disattenzione e/o iperattività e impulsività.
-Questi sintomi possono interferire con lo sviluppo e il funzionamento quotidiano di bambini, adolescenti e adulti. La quinta edizione del Manuale diagnostico e statistico dei disturbi mentali (DSM5) indica che la diagnosi di ADHD può essere considerata quando i sintomi perdurano nel tempo, sono presenti in più contesti di vita e sono comparsi prima dei 12 anni di età. È bene ricordare che i disturbi del neurosviluppo sono causati da alterazioni del sistema nervoso centrale che si verificano durante lo sviluppo del bambino.
-
-**L'ADHD non è come decidere di essere disattenti o iperattivi.**  
-**È come trovarsi dinanzi ad un ostacolo che rende difficile concentrarsi o stare fermi.**
-
-I bambini e ragazzi con ADHD faticano più degli altri a mantenere la concentrazione e a controllare i loro impulsi. È come se avessero un motore sempre acceso che li rende più attivi e a volte un po' "esplosivi".
-
-### I giochi da tavolo fanno bene
-
-I giochi da tavolo sono un passatempo prezioso per la **famiglia**: offrono un'opportunità unica di trascorrere del **tempo di qualità** insieme, lontano dagli schermi e dalle distrazioni. È un momento in cui genitori e figli possono connettersi, ridere insieme e creare ricordi duraturi. I giochi stimolano la **comunicazione e l’interazione** all’interno di un clima di apertura, fiducia e collaborazione. Giocando con i nostri figli **favoriamo il loro sviluppo cognitivo**, aiutandoli a **migliorare le loro capacità** di ragionamento e di problem-solving.  
-I giochi da tavolo sono quindi un ottimo modo per creare un **ambiente divertente e rilassante** per tutta la famiglia, una pausa dalla routine quotidiana che permette a tutti di distendersi e di divertirsi.
-
-Per i bambini e i ragazzi con ADHD, poi, i giochi sono ancor più importanti, perché ne supportano lo sviluppo e il benessere:
-
-1. **Favoriscono la concentrazione**: i giochi da tavolo richiedono attenzione e concentrazione per seguire le regole, pianificare strategie e prendere decisioni. Questo aiuta ad allenare la capacità di focalizzare l'attenzione su un compito specifico per un periodo prolungato, migliorando così la capacità di concentrazione anche in altre attività.
-2. **Promuovono l'autocontrollo**: molti giochi da tavolo richiedono pazienza e autocontrollo per aspettare il proprio turno, rispettare le regole e gestire le emozioni quando si vince o si perde. Questo aiuta a praticare il controllo degli impulsi e a gestire meglio le reazioni emotive.
-3. **Insegnano la resilienza**: nel gioco si affrontano sfide e si incontrano ostacoli. Imparare a perdere con stile e leggerezza, ad affrontare le delusioni e a continuare a giocare nonostante le difficoltà aiuta a sviluppare una mentalità resiliente che sarà preziosa anche in altre aree della vita.
-4. **Stimolano le abilità sociali**: i giochi da tavolo sono attività di gruppo che incoraggiano la collaborazione, la comunicazione e l'interazione sociale. Questo è di grande beneficio per superare eventuali difficoltà nelle relazioni sociali. Il giocare insieme può aiutare a migliorare le capacità di comunicazione, a comprendere le dinamiche sociali e a sviluppare legami con i coetanei.
-5. **Offrono un ambiente strutturato e prevedibile**: la struttura e le regole chiare dei giochi da tavolo forniscono un ambiente prevedibile che risulta rassicurante per le persone con ADHD, che normalmente traggono grandi benefici da routine e strutture chiare.
 
 ## 📂 Download {#materiali}
 
