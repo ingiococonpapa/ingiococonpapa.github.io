@@ -77,39 +77,6 @@ Per informazioni: [Gianluca Daffi](mailto:daffi.gianluca@gmail.com) - Per questo
     Per proporre nuovi eventi compilare questa 👉🏼 [form di contatto](https://forms.gle/66Ue29J5NcWHgeDy9)  
     Per apportare modifiche scrivere in [mailing list](https://groups.google.com/g/ingiococonpapa)
 
-### Bergamo - Ranica
-Domenica 23 dalle 15:00 alle 18:00
-TETRIS - via Gavazzeni 22, Ranica (BG)
-Info: game@smartinocoop.com
-
-### Bolzano
-
-### Firenze
-Domenica 23 dalle 11:30 alle 15:30
-Casa del Popolo di Settignano - via San Romano 1
-Referenti: Stela 3208611165 e Stefano 3358307141
-
-### Udine - Latisana
-
-### Lecce - Cavallino
-Martedì 18 marzo 2025 h. 17.00
-Biblioteca Comunale “G. Rizzo” Cavallino (Le)
-https://www.instagram.com/p/DHB1vIosOaf
-
-### Mantova
-Sabato 22 marzo 2025 dalle 14:00 alle 18:00
-Fior di Loto Cooperativa Sociale Onlus
-Matera
-
-### Potenza - Castelluccio Superiore
-
-
-### Ravenna
-
-### Venezia
-
-
-
 ---
 
 ## 💪🏻 Organizzazione
