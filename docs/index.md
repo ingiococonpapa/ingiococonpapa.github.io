@@ -8,9 +8,9 @@ hide:
 
 # In GIOCO con PAPÀ
 
-> **Sabato 21 Marzo 2026 in numerose città italiane, si terrà la seconda edizione di "In Gioco con Papà", un evento nazionale dedicato al gioco e all’inclusione.**.
+> **Sabato 21 Marzo 2026 in numerose città italiane, si terrà la terza edizione di "In Gioco con Papà", un evento nazionale dedicato al gioco e all’inclusione.**.
 
-Dopo il successo della prima edizione del 2024, che ha coinvolto **25 città** da Udine a Lecce, passando per Brescia, Milano, Firenze, Roma, Salerno e molte altre, l'iniziativa torna per offrire a bambini, ragazzi e famiglie un'esperienza di gioco condivisa e inclusiva.
+Dopo il successo delle prime edizioni del 2024 e 2025, che hanno coinvolto **25 città** da Udine a Lecce, passando per Brescia, Milano, Firenze, Roma, Salerno e molte altre, l'iniziativa torna per offrire a bambini, ragazzi e famiglie un'esperienza di gioco condivisa e inclusiva.
 
 L'iniziativa, nata da un’idea del prof. Gianluca Daffi, non si rivolge solo ai padri, ma più in generale a tutti coloro che, senza pregiudizi, sono disponibili ad accogliere, prendersi cura dell’altro e mettersi in gioco ogni giorno per garantire a ogni bambino l’opportunità di crescere serenamente.
 
