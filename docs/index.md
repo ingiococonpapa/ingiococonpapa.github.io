@@ -4,11 +4,11 @@ description: giornata di gioco e sensibilizzazione rivolta a bambini e ragazzi d
 hide:
   - navigation
 ---
-![in gioco con papà](assets/img/banner-ingiococonpapa-2025.jpg)
+![in gioco con papà](assets/img/banner-ingiococonpapa-2026.jpg)
 
 # In GIOCO con PAPÀ
 
-> **Sabato 22 e Domenica 23 Marzo 2025 in numerose città italiane, si terrà la seconda edizione di "In Gioco con Papà", un evento nazionale dedicato al gioco e all’inclusione.**.
+> **Sabato 21 Marzo 2026 in numerose città italiane, si terrà la seconda edizione di "In Gioco con Papà", un evento nazionale dedicato al gioco e all’inclusione.**.
 
 Dopo il successo della prima edizione del 2024, che ha coinvolto **25 città** da Udine a Lecce, passando per Brescia, Milano, Firenze, Roma, Salerno e molte altre, l'iniziativa torna per offrire a bambini, ragazzi e famiglie un'esperienza di gioco condivisa e inclusiva.
 
