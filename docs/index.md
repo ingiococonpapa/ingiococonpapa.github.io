@@ -16,9 +16,9 @@ L'iniziativa, nata da un’idea del prof. Gianluca Daffi, non si rivolge solo ai
 
 ## Comunicato stampa
 
-[Scarica qui il comunicato stampa](./assets/pdf/comunicato-stampa-2025.pdf)
+[Scarica qui il comunicato stampa](./assets/pdf/comunicato-stampa-2026.pdf)
 
-[![Scarica qui il comunicato stampa](./assets/pdf/comunicato-stampa-2025.jpg)](./assets/pdf/comunicato-stampa-2025.pdf)
+[![Scarica qui il comunicato stampa](./assets/pdf/comunicato-stampa-2026.jpg)](./assets/pdf/comunicato-stampa-2026.pdf)
 
 ### Obiettivi dell’evento
 
