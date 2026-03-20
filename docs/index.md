@@ -25,7 +25,7 @@ Dopo il successo delle prime edizioni del 2024 e 2025, l'iniziativa torna per of
 
 ---
 
-## 📅 Elenco Eventi in Italia
+## 📅 Calendario Eventi {#eventi}
 
 !!! info "Nota sulle date"
     L'appuntamento nazionale è fissato per **Sabato 21 Marzo 2026**. Alcune località hanno declinato l'evento in date limitrofe (es. Domenica 22) come indicato in tabella.
