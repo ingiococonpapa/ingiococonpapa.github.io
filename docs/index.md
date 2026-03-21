@@ -33,7 +33,7 @@ Dopo il successo delle prime edizioni del 2024 e 2025, l'iniziativa torna per of
 ### 🟢 Basilicata
 | Città | Luogo / Indirizzo | Orario |
 | :--- | :--- | :--- |
-| **Matera** | Via Tommaso Stigliani 50 | ore 18:00 |
+| **Matera** | Centro LUMACA - Via Tommaso Stigliani 50 | dalle 18:00 |
 
 ### 🟢 Emilia-Romagna
 | Città | Luogo / Indirizzo | Orario |
@@ -104,7 +104,7 @@ Dopo il successo delle prime edizioni del 2024 e 2025, l'iniziativa torna per of
 
 **Per partecipare**, contattare i referenti di città, o compilare questa [Form di partecipazione :fontawesome-solid-paper-plane:](https://forms.gle/66Ue29J5NcWHgeDy9){ .md-button .md-button--primary }  
 
-Per informazioni: [Gianluca Daffi](mailto:daffi.gianluca@gmail.com) - Per supporto tecnico sito: [Stefano Cecere](mailto:stefano.cecere@gmail.com)
+Per informazioni: [Gianluca Daffi](mailto:daffi.gianluca@gmail.com) - Per organizzazione: [Stefano Cecere](mailto:stefano.cecere@gmail.com)
 
 ---
 
